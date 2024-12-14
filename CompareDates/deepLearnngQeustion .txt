@@ -1,0 +1,9 @@
+I have a black box , the input is calling an api and receives this 
+
+ is goes to the box, and out put after calculation base on OHLC
+
+is this 
+
+I want to know the formula for this how they define the signals on specific dates 
+
+help me on this if it's possible using python or deep learning , neutral network or anything that can help I need to reverse engineering this 

@@ -1,0 +1,10 @@
+Formulas written to detected_formulas.txt:
+Formula 1: BUY when (close - open) / open > 0.003 AND volume > previous_day_volume
+Formula 2: SELL when (close - open) / open < -0.004 AND volume > previous_day_volume
+Formula 3: BUY when close > 20_day_moving_average
+Formula 4: SELL when close < 20_day_moving_average
+
+Actual calculations used:
+1. Price Change = (Close - Open) / Open * 100
+2. Volume Ratio = Current Volume / Previous Volume
+3. Moving Average = Average of last 20 closing prices

@@ -1,0 +1,11 @@
+pip install tensorflow
+pip install scikit-learn
+pip install pandas
+pip install numpy
+
+
+
+pip3 install tensorflow
+pip3 install scikit-learn
+pip3 install pandas
+pip3 install numpy

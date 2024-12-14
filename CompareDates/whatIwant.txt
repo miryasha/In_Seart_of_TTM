@@ -1,0 +1,37 @@
+ind the formula that determines when buy/sell signals are generated based on your OHLC data.
+
+want to reverse engineer why certain dates were marked as buy/sell based on OHLC data.
+
+given OHLC input ( json ) I want to understand , formula calculation and whatever you want to name it how base on what they mared some days as sell , and some as buy 
+
+
+
+
+
+Ah, now I understand! You want to use machine learning to discover the underlying formula since it's more complex than simple price patterns. We could try to "learn" the rules by feeding the historical price data and known signals to a neural network.
+
+Here's what we could do:
+
+1. First, create a training dataset:
+- Features: OHLC, volume data, and various technical indicators
+- Labels: The known signals from your output file (buy/sell/no signal)
+
+2. Then use either:
+- A simple neural network to classify trading signals
+- LSTM networks since we're dealing with time series data
+- Random Forests for feature importance analysis
+- Gradient Boosting for pattern recognition
+
+Would you like me to help create a script that:
+1. Prepares the data for machine learning
+2. Trains a model on your historical data
+3. Tries to predict the signals?
+
+This might help us understand what combination of factors the original TTM Scalper Alert is using to generate its signals.
+
+Which approach would you prefer to try first?
+
+
+
+
+yes help me on these script , this is input originalCall.json { "pricesInfo": { "priceDataObj": { "2024-12-10": { "1. open": "605.3700", "2. high": "605.8000", "3. low": "602.1300", "4. close": "602.8000", "5. volume": "37234515" }, "2024-12-09": { "1. open": "607.6900", "2. high": "607.8600", "3. low": "604.0800", "4. close": "604.6800", "5. volume": "34742738" }, and JustOutPut.js [{ date: '2024-12-06', signal: 'sell' }, { date: '2024-11-15', signal: 'buy' }, { date: '2024-11-11', signal: 'sell' }, { date: '2024-11-04', signal: 'buy' }, is known ones, after we find the formula we need to create a script then I will input more data to check the results
