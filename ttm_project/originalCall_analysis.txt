@@ -1,0 +1,1328 @@
+Signal Analysis
+
+Date: 2022-02-24
+Signal: BUY
+Indicators:
+  rsi: 37.04
+  volatility: 0.0441
+  volume_ratio: 1.71
+  trend: -0.049
+
+Date: 2022-03-08
+Signal: BUY
+Indicators:
+  rsi: 34.27
+  volatility: 0.0291
+  volume_ratio: 1.31
+  trend: -0.0431
+
+Date: 2022-03-18
+Signal: SELL
+Indicators:
+  rsi: 56.62
+  volatility: 0.0175
+  volume_ratio: 0.82
+  trend: 0.0449
+
+Date: 2022-03-21
+Signal: SELL
+Indicators:
+  rsi: 56.52
+  volatility: 0.0131
+  volume_ratio: 0.71
+  trend: 0.0374
+
+Date: 2022-03-22
+Signal: SELL
+Indicators:
+  rsi: 59.6
+  volatility: 0.0106
+  volume_ratio: 0.61
+  trend: 0.0292
+
+Date: 2022-03-28
+Signal: SELL
+Indicators:
+  rsi: 62.01
+  volatility: 0.013
+  volume_ratio: 0.66
+  trend: 0.0143
+
+Date: 2022-03-29
+Signal: SELL
+Indicators:
+  rsi: 65.04
+  volatility: 0.0107
+  volume_ratio: 0.85
+  trend: 0.0279
+
+Date: 2022-03-30
+Signal: SELL
+Indicators:
+  rsi: 62.34
+  volatility: 0.0104
+  volume_ratio: 0.8
+  trend: 0.0179
+
+Date: 2022-04-22
+Signal: BUY
+Indicators:
+  rsi: 37.02
+  volatility: 0.0297
+  volume_ratio: 1.57
+  trend: -0.028
+
+Date: 2022-04-25
+Signal: BUY
+Indicators:
+  rsi: 39.4
+  volatility: 0.0235
+  volume_ratio: 1.38
+  trend: -0.0556
+
+Date: 2022-04-27
+Signal: BUY
+Indicators:
+  rsi: 33.85
+  volatility: 0.0191
+  volume_ratio: 1.35
+  trend: -0.0245
+
+Date: 2022-04-29
+Signal: BUY
+Indicators:
+  rsi: 35.17
+  volatility: 0.0357
+  volume_ratio: 1.57
+  trend: -0.0117
+
+Date: 2022-05-02
+Signal: BUY
+Indicators:
+  rsi: 37.14
+  volatility: 0.0269
+  volume_ratio: 1.65
+  trend: -0.0241
+
+Date: 2022-05-06
+Signal: BUY
+Indicators:
+  rsi: 38.98
+  volatility: 0.0224
+  volume_ratio: 1.4
+  trend: -0.0185
+
+Date: 2022-05-09
+Signal: BUY
+Indicators:
+  rsi: 33.66
+  volatility: 0.025
+  volume_ratio: 1.39
+  trend: -0.0416
+
+Date: 2022-05-11
+Signal: BUY
+Indicators:
+  rsi: 31.93
+  volatility: 0.0308
+  volume_ratio: 1.21
+  trend: -0.0339
+
+Date: 2022-06-10
+Signal: BUY
+Indicators:
+  rsi: 38.35
+  volatility: 0.0155
+  volume_ratio: 1.5
+  trend: -0.0438
+
+Date: 2022-06-13
+Signal: BUY
+Indicators:
+  rsi: 32.37
+  volatility: 0.0228
+  volume_ratio: 1.85
+  trend: -0.0904
+
+Date: 2022-06-15
+Signal: BUY
+Indicators:
+  rsi: 36.07
+  volatility: 0.0317
+  volume_ratio: 1.32
+  trend: -0.0452
+
+Date: 2022-06-16
+Signal: BUY
+Indicators:
+  rsi: 31.28
+  volatility: 0.0188
+  volume_ratio: 1.4
+  trend: -0.0247
+
+Date: 2022-06-30
+Signal: BUY
+Indicators:
+  rsi: 41.32
+  volatility: 0.0217
+  volume_ratio: 1.2
+  trend: -0.0384
+
+Date: 2022-07-20
+Signal: SELL
+Indicators:
+  rsi: 56.7
+  volatility: 0.0134
+  volume_ratio: 0.93
+  trend: 0.0276
+
+Date: 2022-07-21
+Signal: SELL
+Indicators:
+  rsi: 59.5
+  volatility: 0.0184
+  volume_ratio: 0.85
+  trend: 0.0288
+
+Date: 2022-07-22
+Signal: SELL
+Indicators:
+  rsi: 55.92
+  volatility: 0.0189
+  volume_ratio: 0.95
+  trend: 0.0191
+
+Date: 2022-07-28
+Signal: SELL
+Indicators:
+  rsi: 62.55
+  volatility: 0.0217
+  volume_ratio: 1.01
+  trend: 0.0126
+
+Date: 2022-07-29
+Signal: SELL
+Indicators:
+  rsi: 65.91
+  volatility: 0.0154
+  volume_ratio: 1.21
+  trend: 0.0431
+
+Date: 2022-08-01
+Signal: SELL
+Indicators:
+  rsi: 64.62
+  volatility: 0.0123
+  volume_ratio: 0.98
+  trend: 0.0364
+
+Date: 2022-08-02
+Signal: SELL
+Indicators:
+  rsi: 61.74
+  volatility: 0.0152
+  volume_ratio: 0.9
+  trend: 0.0218
+
+Date: 2022-08-10
+Signal: SELL
+Indicators:
+  rsi: 67.81
+  volatility: 0.0082
+  volume_ratio: 1.02
+  trend: 0.0174
+
+Date: 2022-08-11
+Signal: SELL
+Indicators:
+  rsi: 67.81
+  volatility: 0.0137
+  volume_ratio: 0.91
+  trend: 0.0179
+
+Date: 2022-08-12
+Signal: SELL
+Indicators:
+  rsi: 72.03
+  volatility: 0.0147
+  volume_ratio: 0.95
+  trend: 0.0264
+
+Date: 2022-08-15
+Signal: SELL
+Indicators:
+  rsi: 72.97
+  volatility: 0.0111
+  volume_ratio: 0.84
+  trend: 0.0192
+
+Date: 2022-08-16
+Signal: SELL
+Indicators:
+  rsi: 73.43
+  volatility: 0.0114
+  volume_ratio: 0.94
+  trend: 0.0183
+
+Date: 2022-08-26
+Signal: BUY
+Indicators:
+  rsi: 44.18
+  volatility: 0.0363
+  volume_ratio: 1.69
+  trend: -0.0158
+
+Date: 2022-08-30
+Signal: BUY
+Indicators:
+  rsi: 39.12
+  volatility: 0.0205
+  volume_ratio: 1.39
+  trend: -0.0437
+
+Date: 2022-08-31
+Signal: BUY
+Indicators:
+  rsi: 37.11
+  volatility: 0.0157
+  volume_ratio: 1.23
+  trend: -0.0252
+
+Date: 2022-09-01
+Signal: BUY
+Indicators:
+  rsi: 38.5
+  volatility: 0.0173
+  volume_ratio: 1.24
+  trend: -0.0278
+
+Date: 2022-09-02
+Signal: BUY
+Indicators:
+  rsi: 35.64
+  volatility: 0.0288
+  volume_ratio: 1.51
+  trend: -0.0143
+
+Date: 2022-09-21
+Signal: BUY
+Indicators:
+  rsi: 33.5
+  volatility: 0.0316
+  volume_ratio: 1.3
+  trend: -0.0124
+
+Date: 2022-09-23
+Signal: BUY
+Indicators:
+  rsi: 28.91
+  volatility: 0.0202
+  volume_ratio: 1.4
+  trend: -0.047
+
+Date: 2022-09-27
+Signal: BUY
+Indicators:
+  rsi: 26.91
+  volatility: 0.0264
+  volume_ratio: 1.22
+  trend: -0.0337
+
+Date: 2022-09-30
+Signal: BUY
+Indicators:
+  rsi: 28.45
+  volatility: 0.0248
+  volume_ratio: 1.6
+  trend: -0.0106
+
+Date: 2022-10-13
+Signal: BUY
+Indicators:
+  rsi: 43.07
+  volatility: 0.0557
+  volume_ratio: 1.46
+  trend: -0.0267
+
+Date: 2022-10-25
+Signal: SELL
+Indicators:
+  rsi: 57.73
+  volatility: 0.0174
+  volume_ratio: 0.78
+  trend: 0.0386
+
+Date: 2022-10-26
+Signal: SELL
+Indicators:
+  rsi: 55.47
+  volatility: 0.0163
+  volume_ratio: 1.03
+  trend: 0.049
+
+Date: 2022-11-01
+Signal: SELL
+Indicators:
+  rsi: 55.73
+  volatility: 0.0185
+  volume_ratio: 0.89
+  trend: 0.0104
+
+Date: 2022-11-02
+Signal: BUY
+Indicators:
+  rsi: 48.41
+  volatility: 0.037
+  volume_ratio: 1.3
+  trend: -0.013
+
+Date: 2022-11-10
+Signal: SELL
+Indicators:
+  rsi: 60.27
+  volatility: 0.0244
+  volume_ratio: 1.46
+  trend: 0.0269
+
+Date: 2022-11-11
+Signal: SELL
+Indicators:
+  rsi: 62.08
+  volatility: 0.0146
+  volume_ratio: 0.98
+  trend: 0.0421
+
+Date: 2022-11-14
+Signal: SELL
+Indicators:
+  rsi: 59.49
+  volatility: 0.0135
+  volume_ratio: 0.76
+  trend: 0.0568
+
+Date: 2022-11-15
+Signal: SELL
+Indicators:
+  rsi: 61.22
+  volatility: 0.0198
+  volume_ratio: 0.99
+  trend: 0.0229
+
+Date: 2022-11-22
+Signal: SELL
+Indicators:
+  rsi: 61.01
+  volatility: 0.0124
+  volume_ratio: 0.68
+  trend: 0.0128
+
+Date: 2022-11-23
+Signal: SELL
+Indicators:
+  rsi: 62.55
+  volatility: 0.0091
+  volume_ratio: 0.79
+  trend: 0.016
+
+Date: 2022-11-25
+Signal: SELL
+Indicators:
+  rsi: 62.46
+  volatility: 0.0034
+  volume_ratio: 0.36
+  trend: 0.0226
+
+Date: 2022-12-01
+Signal: SELL
+Indicators:
+  rsi: 63.39
+  volatility: 0.013
+  volume_ratio: 0.95
+  trend: 0.0244
+
+Date: 2022-12-02
+Signal: SELL
+Indicators:
+  rsi: 62.88
+  volatility: 0.0142
+  volume_ratio: 1.06
+  trend: 0.0225
+
+Date: 2022-12-13
+Signal: SELL
+Indicators:
+  rsi: 56.93
+  volatility: 0.0286
+  volume_ratio: 1.62
+  trend: 0.0148
+
+Date: 2022-12-15
+Signal: BUY
+Indicators:
+  rsi: 45.61
+  volatility: 0.019
+  volume_ratio: 1.48
+  trend: -0.014
+
+Date: 2023-01-11
+Signal: SELL
+Indicators:
+  rsi: 57.82
+  volatility: 0.0108
+  volume_ratio: 0.82
+  trend: 0.0315
+
+Date: 2023-01-12
+Signal: SELL
+Indicators:
+  rsi: 58.99
+  volatility: 0.0155
+  volume_ratio: 1.09
+  trend: 0.0123
+
+Date: 2023-01-13
+Signal: SELL
+Indicators:
+  rsi: 60.25
+  volatility: 0.0146
+  volume_ratio: 0.79
+  trend: 0.0183
+
+Date: 2023-01-17
+Signal: SELL
+Indicators:
+  rsi: 59.32
+  volatility: 0.008
+  volume_ratio: 0.81
+  trend: 0.0145
+
+Date: 2023-01-24
+Signal: SELL
+Indicators:
+  rsi: 59.23
+  volatility: 0.0088
+  volume_ratio: 0.78
+  trend: 0.0268
+
+Date: 2023-01-25
+Signal: SELL
+Indicators:
+  rsi: 59.36
+  volatility: 0.0181
+  volume_ratio: 1.1
+  trend: 0.0133
+
+Date: 2023-01-27
+Signal: SELL
+Indicators:
+  rsi: 63.84
+  volatility: 0.0117
+  volume_ratio: 0.87
+  trend: 0.0146
+
+Date: 2023-01-30
+Signal: SELL
+Indicators:
+  rsi: 56.98
+  volatility: 0.0121
+  volume_ratio: 0.94
+  trend: 0.0171
+
+Date: 2023-02-02
+Signal: SELL
+Indicators:
+  rsi: 69.21
+  volatility: 0.0132
+  volume_ratio: 1.26
+  trend: 0.0315
+
+Date: 2023-02-03
+Signal: SELL
+Indicators:
+  rsi: 63.5
+  volatility: 0.0143
+  volume_ratio: 1.16
+  trend: 0.0258
+
+Date: 2023-02-15
+Signal: SELL
+Indicators:
+  rsi: 60.92
+  volatility: 0.0112
+  volume_ratio: 0.77
+  trend: 0.011
+
+Date: 2023-03-09
+Signal: BUY
+Indicators:
+  rsi: 39.54
+  volatility: 0.028
+  volume_ratio: 1.3
+  trend: -0.0334
+
+Date: 2023-03-10
+Signal: BUY
+Indicators:
+  rsi: 35.06
+  volatility: 0.023
+  volume_ratio: 2.07
+  trend: -0.0335
+
+Date: 2023-03-13
+Signal: BUY
+Indicators:
+  rsi: 34.65
+  volatility: 0.0256
+  volume_ratio: 1.64
+  trend: -0.0402
+
+Date: 2023-03-29
+Signal: SELL
+Indicators:
+  rsi: 55.09
+  volatility: 0.0073
+  volume_ratio: 0.69
+  trend: 0.0238
+
+Date: 2023-03-30
+Signal: SELL
+Indicators:
+  rsi: 57.23
+  volatility: 0.0064
+  volume_ratio: 0.63
+  trend: 0.0157
+
+Date: 2023-03-31
+Signal: SELL
+Indicators:
+  rsi: 61.97
+  volatility: 0.0127
+  volume_ratio: 1.0
+  trend: 0.0276
+
+Date: 2023-04-03
+Signal: SELL
+Indicators:
+  rsi: 63.18
+  volatility: 0.0072
+  volume_ratio: 0.6
+  trend: 0.0245
+
+Date: 2023-04-04
+Signal: SELL
+Indicators:
+  rsi: 60.18
+  volatility: 0.0115
+  volume_ratio: 0.61
+  trend: 0.0136
+
+Date: 2023-04-28
+Signal: SELL
+Indicators:
+  rsi: 61.08
+  volatility: 0.011
+  volume_ratio: 1.19
+  trend: 0.0133
+
+Date: 2023-05-01
+Signal: SELL
+Indicators:
+  rsi: 60.38
+  volatility: 0.0057
+  volume_ratio: 0.85
+  trend: 0.0284
+
+Date: 2023-05-18
+Signal: SELL
+Indicators:
+  rsi: 61.78
+  volatility: 0.0121
+  volume_ratio: 1.24
+  trend: 0.0108
+
+Date: 2023-05-19
+Signal: SELL
+Indicators:
+  rsi: 60.73
+  volatility: 0.0081
+  volume_ratio: 1.3
+  trend: 0.0173
+
+Date: 2023-05-22
+Signal: SELL
+Indicators:
+  rsi: 60.93
+  volatility: 0.0073
+  volume_ratio: 0.76
+  trend: 0.0164
+
+Date: 2023-05-30
+Signal: SELL
+Indicators:
+  rsi: 59.9
+  volatility: 0.0092
+  volume_ratio: 0.9
+  trend: 0.0216
+
+Date: 2023-06-02
+Signal: SELL
+Indicators:
+  rsi: 66.46
+  volatility: 0.0113
+  volume_ratio: 1.14
+  trend: 0.0125
+
+Date: 2023-06-05
+Signal: SELL
+Indicators:
+  rsi: 65.07
+  volatility: 0.0076
+  volume_ratio: 0.83
+  trend: 0.0244
+
+Date: 2023-06-06
+Signal: SELL
+Indicators:
+  rsi: 65.94
+  volatility: 0.0061
+  volume_ratio: 0.8
+  trend: 0.0221
+
+Date: 2023-06-13
+Signal: SELL
+Indicators:
+  rsi: 72.61
+  volatility: 0.0062
+  volume_ratio: 1.16
+  trend: 0.0207
+
+Date: 2023-06-14
+Signal: SELL
+Indicators:
+  rsi: 73.02
+  volatility: 0.0126
+  volume_ratio: 1.18
+  trend: 0.011
+
+Date: 2023-06-15
+Signal: SELL
+Indicators:
+  rsi: 76.96
+  volatility: 0.0176
+  volume_ratio: 1.28
+  trend: 0.0141
+
+Date: 2023-06-30
+Signal: SELL
+Indicators:
+  rsi: 68.11
+  volatility: 0.0072
+  volume_ratio: 1.26
+  trend: 0.0214
+
+Date: 2023-07-03
+Signal: SELL
+Indicators:
+  rsi: 68.57
+  volatility: 0.0033
+  volume_ratio: 0.41
+  trend: 0.0189
+
+Date: 2023-07-05
+Signal: SELL
+Indicators:
+  rsi: 67.21
+  volatility: 0.0045
+  volume_ratio: 0.73
+  trend: 0.0146
+
+Date: 2023-07-12
+Signal: SELL
+Indicators:
+  rsi: 67.22
+  volatility: 0.0058
+  volume_ratio: 1.14
+  trend: 0.0151
+
+Date: 2023-07-13
+Signal: SELL
+Indicators:
+  rsi: 70.57
+  volatility: 0.0065
+  volume_ratio: 0.91
+  trend: 0.0225
+
+Date: 2023-07-14
+Signal: SELL
+Indicators:
+  rsi: 69.96
+  volatility: 0.0064
+  volume_ratio: 0.9
+  trend: 0.0206
+
+Date: 2023-07-19
+Signal: SELL
+Indicators:
+  rsi: 75.18
+  volatility: 0.0051
+  volume_ratio: 0.91
+  trend: 0.0125
+
+Date: 2023-08-30
+Signal: SELL
+Indicators:
+  rsi: 58.74
+  volatility: 0.0064
+  volume_ratio: 0.9
+  trend: 0.0317
+
+Date: 2023-08-31
+Signal: SELL
+Indicators:
+  rsi: 57.74
+  volatility: 0.0059
+  volume_ratio: 0.86
+  trend: 0.0232
+
+Date: 2023-10-03
+Signal: BUY
+Indicators:
+  rsi: 28.54
+  volatility: 0.0171
+  volume_ratio: 1.25
+  trend: -0.011
+
+Date: 2023-10-19
+Signal: BUY
+Indicators:
+  rsi: 40.27
+  volatility: 0.0167
+  volume_ratio: 1.35
+  trend: -0.0181
+
+Date: 2023-11-03
+Signal: SELL
+Indicators:
+  rsi: 58.17
+  volatility: 0.0076
+  volume_ratio: 1.09
+  trend: 0.0454
+
+Date: 2023-11-06
+Signal: SELL
+Indicators:
+  rsi: 59.03
+  volatility: 0.0057
+  volume_ratio: 0.74
+  trend: 0.0359
+
+Date: 2023-11-07
+Signal: SELL
+Indicators:
+  rsi: 60.12
+  volatility: 0.0071
+  volume_ratio: 0.71
+  trend: 0.0186
+
+Date: 2023-11-14
+Signal: SELL
+Indicators:
+  rsi: 68.06
+  volatility: 0.0089
+  volume_ratio: 1.08
+  trend: 0.0293
+
+Date: 2023-11-15
+Signal: SELL
+Indicators:
+  rsi: 68.71
+  volatility: 0.0057
+  volume_ratio: 0.87
+  trend: 0.0345
+
+Date: 2023-11-16
+Signal: SELL
+Indicators:
+  rsi: 69.09
+  volatility: 0.0054
+  volume_ratio: 0.77
+  trend: 0.0221
+
+Date: 2023-11-22
+Signal: SELL
+Indicators:
+  rsi: 71.57
+  volatility: 0.0055
+  volume_ratio: 0.74
+  trend: 0.0102
+
+Date: 2023-12-13
+Signal: SELL
+Indicators:
+  rsi: 78.78
+  volatility: 0.0143
+  volume_ratio: 1.36
+  trend: 0.0151
+
+Date: 2023-12-14
+Signal: SELL
+Indicators:
+  rsi: 79.75
+  volatility: 0.0095
+  volume_ratio: 1.69
+  trend: 0.0213
+
+Date: 2023-12-15
+Signal: SELL
+Indicators:
+  rsi: 73.33
+  volatility: 0.007
+  volume_ratio: 1.91
+  trend: 0.0148
+
+Date: 2024-01-10
+Signal: SELL
+Indicators:
+  rsi: 64.35
+  volatility: 0.0076
+  volume_ratio: 0.78
+  trend: 0.016
+
+Date: 2024-01-22
+Signal: SELL
+Indicators:
+  rsi: 68.48
+  volatility: 0.0051
+  volume_ratio: 0.92
+  trend: 0.0275
+
+Date: 2024-01-23
+Signal: SELL
+Indicators:
+  rsi: 69.82
+  volatility: 0.0046
+  volume_ratio: 0.62
+  trend: 0.0222
+
+Date: 2024-01-24
+Signal: SELL
+Indicators:
+  rsi: 70.33
+  volatility: 0.008
+  volume_ratio: 0.99
+  trend: 0.0175
+
+Date: 2024-02-05
+Signal: SELL
+Indicators:
+  rsi: 65.51
+  volatility: 0.0085
+  volume_ratio: 0.97
+  trend: 0.0153
+
+Date: 2024-02-06
+Signal: SELL
+Indicators:
+  rsi: 66.77
+  volatility: 0.0046
+  volume_ratio: 0.72
+  trend: 0.0171
+
+Date: 2024-02-09
+Signal: SELL
+Indicators:
+  rsi: 72.56
+  volatility: 0.0063
+  volume_ratio: 0.84
+  trend: 0.0131
+
+Date: 2024-02-16
+Signal: SELL
+Indicators:
+  rsi: 62.93
+  volatility: 0.0083
+  volume_ratio: 1.02
+  trend: 0.0164
+
+Date: 2024-02-23
+Signal: SELL
+Indicators:
+  rsi: 68.53
+  volatility: 0.006
+  volume_ratio: 0.83
+  trend: 0.0256
+
+Date: 2024-02-26
+Signal: SELL
+Indicators:
+  rsi: 65.5
+  volatility: 0.0057
+  volume_ratio: 0.69
+  trend: 0.0249
+
+Date: 2024-03-04
+Signal: SELL
+Indicators:
+  rsi: 69.84
+  volatility: 0.0043
+  volume_ratio: 0.75
+  trend: 0.0139
+
+Date: 2024-03-08
+Signal: SELL
+Indicators:
+  rsi: 62.77
+  volatility: 0.0139
+  volume_ratio: 1.27
+  trend: 0.0123
+
+Date: 2024-03-20
+Signal: SELL
+Indicators:
+  rsi: 66.28
+  volatility: 0.0108
+  volume_ratio: 0.99
+  trend: 0.0137
+
+Date: 2024-03-21
+Signal: SELL
+Indicators:
+  rsi: 67.7
+  volatility: 0.0042
+  volume_ratio: 0.87
+  trend: 0.0185
+
+Date: 2024-03-22
+Signal: SELL
+Indicators:
+  rsi: 65.98
+  volatility: 0.0031
+  volume_ratio: 1.12
+  trend: 0.0193
+
+Date: 2024-04-04
+Signal: BUY
+Indicators:
+  rsi: 48.55
+  volatility: 0.0217
+  volume_ratio: 1.29
+  trend: -0.0158
+
+Date: 2024-04-15
+Signal: BUY
+Indicators:
+  rsi: 38.79
+  volatility: 0.0233
+  volume_ratio: 1.26
+  trend: -0.0166
+
+Date: 2024-05-06
+Signal: SELL
+Indicators:
+  rsi: 58.43
+  volatility: 0.0064
+  volume_ratio: 0.66
+  trend: 0.0269
+
+Date: 2024-05-07
+Signal: SELL
+Indicators:
+  rsi: 58.91
+  volatility: 0.0041
+  volume_ratio: 0.74
+  trend: 0.0338
+
+Date: 2024-05-08
+Signal: SELL
+Indicators:
+  rsi: 58.96
+  volatility: 0.005
+  volume_ratio: 0.61
+  trend: 0.0129
+
+Date: 2024-05-15
+Signal: SELL
+Indicators:
+  rsi: 69.93
+  volatility: 0.0093
+  volume_ratio: 0.97
+  trend: 0.0108
+
+Date: 2024-05-16
+Signal: SELL
+Indicators:
+  rsi: 68.07
+  volatility: 0.0056
+  volume_ratio: 0.83
+  trend: 0.0169
+
+Date: 2024-05-17
+Signal: SELL
+Indicators:
+  rsi: 68.7
+  volatility: 0.0042
+  volume_ratio: 1.02
+  trend: 0.013
+
+Date: 2024-06-05
+Signal: SELL
+Indicators:
+  rsi: 65.81
+  volatility: 0.0113
+  volume_ratio: 0.98
+  trend: 0.02
+
+Date: 2024-06-06
+Signal: SELL
+Indicators:
+  rsi: 65.8
+  volatility: 0.0051
+  volume_ratio: 0.64
+  trend: 0.0193
+
+Date: 2024-06-07
+Signal: SELL
+Indicators:
+  rsi: 64.53
+  volatility: 0.0082
+  volume_ratio: 0.9
+  trend: 0.0144
+
+Date: 2024-06-12
+Signal: SELL
+Indicators:
+  rsi: 71.87
+  volatility: 0.0071
+  volume_ratio: 1.34
+  trend: 0.0146
+
+Date: 2024-06-13
+Signal: SELL
+Indicators:
+  rsi: 72.8
+  volatility: 0.0069
+  volume_ratio: 0.96
+  trend: 0.0132
+
+Date: 2024-06-14
+Signal: SELL
+Indicators:
+  rsi: 73.1
+  volatility: 0.0055
+  volume_ratio: 0.87
+  trend: 0.0147
+
+Date: 2024-07-05
+Signal: SELL
+Indicators:
+  rsi: 74.67
+  volatility: 0.0071
+  volume_ratio: 0.91
+  trend: 0.0159
+
+Date: 2024-07-08
+Signal: SELL
+Indicators:
+  rsi: 75.23
+  volatility: 0.0037
+  volume_ratio: 0.78
+  trend: 0.0194
+
+Date: 2024-07-10
+Signal: SELL
+Indicators:
+  rsi: 80.04
+  volatility: 0.0088
+  volume_ratio: 0.85
+  trend: 0.0103
+
+Date: 2024-07-24
+Signal: BUY
+Indicators:
+  rsi: 41.64
+  volatility: 0.0164
+  volume_ratio: 1.62
+  trend: -0.0139
+
+Date: 2024-07-25
+Signal: BUY
+Indicators:
+  rsi: 39.34
+  volatility: 0.0186
+  volume_ratio: 1.3
+  trend: -0.0246
+
+Date: 2024-08-02
+Signal: BUY
+Indicators:
+  rsi: 38.69
+  volatility: 0.0159
+  volume_ratio: 1.59
+  trend: -0.0184
+
+Date: 2024-08-05
+Signal: BUY
+Indicators:
+  rsi: 30.71
+  volatility: 0.0261
+  volume_ratio: 2.54
+  trend: -0.0681
+
+Date: 2024-08-06
+Signal: BUY
+Indicators:
+  rsi: 35.14
+  volatility: 0.0229
+  volume_ratio: 1.4
+  trend: -0.04
+
+Date: 2024-08-15
+Signal: SELL
+Indicators:
+  rsi: 58.8
+  volatility: 0.0082
+  volume_ratio: 0.97
+  trend: 0.0338
+
+Date: 2024-08-16
+Signal: SELL
+Indicators:
+  rsi: 59.51
+  volatility: 0.0068
+  volume_ratio: 0.72
+  trend: 0.0279
+
+Date: 2024-08-19
+Signal: SELL
+Indicators:
+  rsi: 62.52
+  volatility: 0.0104
+  volume_ratio: 0.64
+  trend: 0.0254
+
+Date: 2024-08-20
+Signal: SELL
+Indicators:
+  rsi: 61.67
+  volatility: 0.0063
+  volume_ratio: 0.55
+  trend: 0.0154
+
+Date: 2024-09-06
+Signal: BUY
+Indicators:
+  rsi: 41.17
+  volatility: 0.0225
+  volume_ratio: 1.46
+  trend: -0.0183
+
+Date: 2024-09-12
+Signal: SELL
+Indicators:
+  rsi: 56.94
+  volatility: 0.012
+  volume_ratio: 1.08
+  trend: 0.0185
+
+Date: 2024-09-13
+Signal: SELL
+Indicators:
+  rsi: 59.0
+  volatility: 0.0064
+  volume_ratio: 0.84
+  trend: 0.0296
+
+Date: 2024-09-16
+Signal: SELL
+Indicators:
+  rsi: 59.59
+  volatility: 0.0057
+  volume_ratio: 0.79
+  trend: 0.0369
+
+Date: 2024-09-17
+Signal: SELL
+Indicators:
+  rsi: 59.76
+  volatility: 0.0103
+  volume_ratio: 1.05
+  trend: 0.0146
+
+Date: 2024-09-19
+Signal: SELL
+Indicators:
+  rsi: 64.86
+  volatility: 0.0084
+  volume_ratio: 1.5
+  trend: 0.0146
+
+Date: 2024-10-11
+Signal: SELL
+Indicators:
+  rsi: 64.49
+  volatility: 0.0077
+  volume_ratio: 0.86
+  trend: 0.0112
+
+Date: 2024-10-14
+Signal: SELL
+Indicators:
+  rsi: 68.05
+  volatility: 0.0078
+  volume_ratio: 0.73
+  trend: 0.0143
+
+Date: 2024-11-06
+Signal: SELL
+Indicators:
+  rsi: 64.64
+  volatility: 0.0112
+  volume_ratio: 1.61
+  trend: 0.0259
+
+Date: 2024-11-07
+Signal: SELL
+Indicators:
+  rsi: 67.53
+  volatility: 0.0062
+  volume_ratio: 1.11
+  trend: 0.0442
+
+Date: 2024-11-08
+Signal: SELL
+Indicators:
+  rsi: 69.06
+  volatility: 0.0058
+  volume_ratio: 1.09
+  trend: 0.045
+
+Date: 2024-11-11
+Signal: SELL
+Indicators:
+  rsi: 69.4
+  volatility: 0.0053
+  volume_ratio: 0.88
+  trend: 0.0198
+
+Date: 2024-11-25
+Signal: SELL
+Indicators:
+  rsi: 63.39
+  volatility: 0.0095
+  volume_ratio: 0.91
+  trend: 0.0181
+
+Date: 2024-11-26
+Signal: SELL
+Indicators:
+  rsi: 66.07
+  volatility: 0.0055
+  volume_ratio: 0.97
+  trend: 0.0181
+
+
+Comparison with Original Signals:
+Matched Records: 22
+Total Original: 96
+Total Generated: 165
+Accuracy: 22.92%
