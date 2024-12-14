@@ -1,3 +1,6 @@
+version* is the best for now
+
+
 https://my.simplertrading.com/trading-education/tutorials/about-scalper-alert
 
 https://pkg.go.dev/github.com/orshemtov/go-tdameritrade#section-readme

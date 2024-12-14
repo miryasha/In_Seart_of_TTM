@@ -4,35 +4,32 @@ function detectPriceSignal(prices, previousState = {
     previousLow: null,
     n: 8 // lookback period
 }) {
-    // Get last n bars of data
-    const lastNBars = Array(previousState.n).fill().map((_, i) => prices[`p${i}`]);
+    // Exact TTMScalperStyle logic implementation
+    const highestHigh = Math.max(...Array(previousState.n).fill().map((_, i) => 
+        prices[`p${i}`]?.high || 0));
     
-    // Find highest high and lowest low in lookback period
-    const highest = Math.max(...lastNBars.map(bar => bar.high));
-    const lowest = Math.min(...lastNBars.map(bar => bar.low));
+    const lowestLow = Math.min(...Array(previousState.n).fill().map((_, i) => 
+        prices[`p${i}`]?.low || Infinity));
     
-    // Check if current bar makes new high/low
-    const isNewHigh = prices.p0.high === highest;
-    const isNewLow = prices.p0.low === lowest;
+    const isHighestBar = prices.p0.high === highestHigh;
+    const isLowestBar = prices.p0.low === lowestLow;
     
-    // Update previous levels
-    let currentHigh = isNewHigh ? highest : previousState.previousHigh;
-    let currentLow = isNewLow ? lowest : previousState.previousLow;
+    // Update previous levels only when new highs/lows are made
+    const currentHigh = isHighestBar ? highestHigh : previousState.previousHigh;
+    const currentLow = isLowestBar ? lowestLow : previousState.previousLow;
     
-    // Generate signals
-    const isSellSignal = prices.p0.low < currentLow;
-    const isBuySignal = prices.p0.high > currentHigh;
-    
-    // Calculate buySellSwitch (0 for buy, 1 for sell)
-    const buySellSwitch = isSellSignal ? 1 : (isBuySignal ? 0 : previousState.buySellSwitch ?? 0);
+    // Calculate signals based on new highs/lows
+    const buySellSwitch = isHighestBar ? 0 : (isLowestBar ? 1 : previousState.buySellSwitch ?? 0);
 
     return {
         buySellSwitch,
         previousHigh: currentHigh,
         previousLow: currentLow,
         n: previousState.n,
-        isNewSell: isSellSignal,
-        isNewBuy: isBuySignal
+        isNewSell: isLowestBar,
+        isNewBuy: isHighestBar,
+        pivotHigh: isHighestBar ? highestHigh : null,
+        pivotLow: isLowestBar ? lowestLow : null
     };
 }
 
@@ -65,6 +62,8 @@ function criteriaCheck(backTestFrom, indicators, priceDataObj, priceDateArry) {
                 date: priceDateArry[i],
                 type: signal.isNewBuy ? 'BUY' : 'SELL',
                 price: prices.p0.close,
+                pivotHigh: signal.pivotHigh,
+                pivotLow: signal.pivotLow,
                 level: signal.isNewBuy ? signal.previousHigh : signal.previousLow
             });
         }
