@@ -1,0 +1,7 @@
+
+Suggested Formula:
+BUY when ALL of:
+    price_change > -0.0092 AND low_change_3d > -0.0319 AND high_change_3d > -0.0242 AND high_change_1d > -0.0142 AND low_change_1d > -0.0136
+
+SELL when ALL of:
+    price_change < 0.0052 AND low_change_3d < 0.0304 AND high_change_3d < 0.0258 AND high_change_1d < 0.0109 AND low_change_1d < 0.0147

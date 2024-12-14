@@ -1,0 +1,9340 @@
+[
+  {
+    "date": "2022-01-18",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 456.49,
+    "indicators": {
+      "rsi": 0.0,
+      "stoch_k": 0.0,
+      "cci": 0.0,
+      "macd_diff": 0.0,
+      "trend_strength": 0.6989,
+      "pivot_position": 0.2538
+    }
+  },
+  {
+    "date": "2022-01-19",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 451.75,
+    "indicators": {
+      "rsi": 0.0,
+      "stoch_k": 0.0,
+      "cci": 0.0,
+      "macd_diff": 0.0,
+      "trend_strength": 0.7826,
+      "pivot_position": 0.0356
+    }
+  },
+  {
+    "date": "2022-01-20",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 446.75,
+    "indicators": {
+      "rsi": 0.0,
+      "stoch_k": 0.0,
+      "cci": 0.0,
+      "macd_diff": 0.0,
+      "trend_strength": 0.4916,
+      "pivot_position": 0.158
+    }
+  },
+  {
+    "date": "2022-01-21",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 437.98,
+    "indicators": {
+      "rsi": 9.24,
+      "stoch_k": 0.07,
+      "cci": 0.0,
+      "macd_diff": 0.0,
+      "trend_strength": 0.7498,
+      "pivot_position": 0.003
+    }
+  },
+  {
+    "date": "2022-01-24",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 439.84,
+    "indicators": {
+      "rsi": 13.82,
+      "stoch_k": 32.22,
+      "cci": 0.0,
+      "macd_diff": 0.0,
+      "trend_strength": 0.3981,
+      "pivot_position": 0.9725
+    }
+  },
+  {
+    "date": "2022-01-25",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 434.47,
+    "indicators": {
+      "rsi": 11.95,
+      "stoch_k": 23.96,
+      "cci": 0.0,
+      "macd_diff": 0.0,
+      "trend_strength": 0.1122,
+      "pivot_position": 0.5823
+    }
+  },
+  {
+    "date": "2022-01-26",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 433.38,
+    "indicators": {
+      "rsi": 11.6,
+      "stoch_k": 24.07,
+      "cci": 0.0,
+      "macd_diff": 0.0,
+      "trend_strength": 0.4835,
+      "pivot_position": 0.2978
+    }
+  },
+  {
+    "date": "2022-01-27",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 431.24,
+    "indicators": {
+      "rsi": 10.94,
+      "stoch_k": 19.98,
+      "cci": 0.0,
+      "macd_diff": 0.0,
+      "trend_strength": 0.5783,
+      "pivot_position": 0.1474
+    }
+  },
+  {
+    "date": "2022-01-28",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 441.95,
+    "indicators": {
+      "rsi": 31.99,
+      "stoch_k": 40.41,
+      "cci": 0.0,
+      "macd_diff": 0.0,
+      "trend_strength": 0.6537,
+      "pivot_position": 0.9965
+    }
+  },
+  {
+    "date": "2022-01-31",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 449.91,
+    "indicators": {
+      "rsi": 42.81,
+      "stoch_k": 55.59,
+      "cci": -44.79,
+      "macd_diff": 0.0,
+      "trend_strength": 0.8281,
+      "pivot_position": 0.9647
+    }
+  },
+  {
+    "date": "2022-02-02",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 457.35,
+    "indicators": {
+      "rsi": 51.01,
+      "stoch_k": 70.2,
+      "cci": 15.63,
+      "macd_diff": 0.0,
+      "trend_strength": 0.3649,
+      "pivot_position": 0.8481
+    }
+  },
+  {
+    "date": "2022-02-03",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 446.6,
+    "indicators": {
+      "rsi": 41.48,
+      "stoch_k": 58.29,
+      "cci": -23.08,
+      "macd_diff": 0.0,
+      "trend_strength": 0.5992,
+      "pivot_position": 0.1226
+    }
+  },
+  {
+    "date": "2022-02-04",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 448.7,
+    "indicators": {
+      "rsi": 43.69,
+      "stoch_k": 71.28,
+      "cci": -18.27,
+      "macd_diff": 0.0,
+      "trend_strength": 0.2626,
+      "pivot_position": 0.5441
+    }
+  },
+  {
+    "date": "2022-02-07",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 447.26,
+    "indicators": {
+      "rsi": 42.5,
+      "stoch_k": 68.21,
+      "cci": -15.98,
+      "macd_diff": 0.0,
+      "trend_strength": 0.4377,
+      "pivot_position": 0.2743
+    }
+  },
+  {
+    "date": "2022-02-08",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 450.94,
+    "indicators": {
+      "rsi": 46.5,
+      "stoch_k": 79.46,
+      "cci": -2.44,
+      "macd_diff": 0.0,
+      "trend_strength": 0.6284,
+      "pivot_position": 0.8537
+    }
+  },
+  {
+    "date": "2022-02-09",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 457.54,
+    "indicators": {
+      "rsi": 52.84,
+      "stoch_k": 98.45,
+      "cci": 60.21,
+      "macd_diff": 0.0,
+      "trend_strength": 0.807,
+      "pivot_position": 0.8817
+    }
+  },
+  {
+    "date": "2022-02-10",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 449.32,
+    "indicators": {
+      "rsi": 45.6,
+      "stoch_k": 76.45,
+      "cci": 28.55,
+      "macd_diff": 0.0,
+      "trend_strength": 0.1922,
+      "pivot_position": 0.2017
+    }
+  },
+  {
+    "date": "2022-02-11",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 440.46,
+    "indicators": {
+      "rsi": 39.34,
+      "stoch_k": 42.98,
+      "cci": -31.81,
+      "macd_diff": 0.0,
+      "trend_strength": 0.7067,
+      "pivot_position": 0.12
+    }
+  },
+  {
+    "date": "2022-02-14",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 439.02,
+    "indicators": {
+      "rsi": 38.41,
+      "stoch_k": 36.96,
+      "cci": -69.51,
+      "macd_diff": 0.0,
+      "trend_strength": 0.1438,
+      "pivot_position": 0.5879
+    }
+  },
+  {
+    "date": "2022-02-15",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 446.1,
+    "indicators": {
+      "rsi": 45.22,
+      "stoch_k": 60.33,
+      "cci": -0.04,
+      "macd_diff": 0.0,
+      "trend_strength": 0.7645,
+      "pivot_position": 0.9419
+    }
+  },
+  {
+    "date": "2022-02-17",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 437.06,
+    "indicators": {
+      "rsi": 39.0,
+      "stoch_k": 7.55,
+      "cci": -46.79,
+      "macd_diff": 0.0,
+      "trend_strength": 0.6072,
+      "pivot_position": 0.0631
+    }
+  },
+  {
+    "date": "2022-02-18",
+    "signal": "buy",
+    "confidence": 1.0,
+    "price": 434.23,
+    "indicators": {
+      "rsi": 37.26,
+      "stoch_k": 9.16,
+      "cci": -94.15,
+      "macd_diff": -0.5163,
+      "trend_strength": 0.4532,
+      "pivot_position": 0.3523
+    }
+  },
+  {
+    "date": "2022-02-22",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 429.57,
+    "indicators": {
+      "rsi": 34.52,
+      "stoch_k": 11.5,
+      "cci": -136.36,
+      "macd_diff": -1.0046,
+      "trend_strength": 0.2407,
+      "pivot_position": 0.3849
+    }
+  },
+  {
+    "date": "2022-02-23",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 421.95,
+    "indicators": {
+      "rsi": 30.57,
+      "stoch_k": 1.64,
+      "cci": -168.29,
+      "macd_diff": -1.6993,
+      "trend_strength": 0.8992,
+      "pivot_position": 0.0504
+    }
+  },
+  {
+    "date": "2022-02-24",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 428.3,
+    "indicators": {
+      "rsi": 37.04,
+      "stoch_k": 37.38,
+      "cci": -171.37,
+      "macd_diff": -1.5915,
+      "trend_strength": 0.9536,
+      "pivot_position": 0.9746
+    }
+  },
+  {
+    "date": "2022-02-25",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 437.75,
+    "indicators": {
+      "rsi": 45.21,
+      "stoch_k": 57.39,
+      "cci": -70.36,
+      "macd_diff": -0.785,
+      "trend_strength": 0.8156,
+      "pivot_position": 0.991
+    }
+  },
+  {
+    "date": "2022-02-28",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 436.63,
+    "indicators": {
+      "rsi": 44.48,
+      "stoch_k": 55.02,
+      "cci": -62.56,
+      "macd_diff": -0.2555,
+      "trend_strength": 0.6133,
+      "pivot_position": 0.7907
+    }
+  },
+  {
+    "date": "2022-03-01",
+    "signal": "buy",
+    "confidence": 1.0,
+    "price": 429.98,
+    "indicators": {
+      "rsi": 40.28,
+      "stoch_k": 40.94,
+      "cci": -83.16,
+      "macd_diff": -0.2797,
+      "trend_strength": 0.503,
+      "pivot_position": 0.2853
+    }
+  },
+  {
+    "date": "2022-03-02",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 437.89,
+    "indicators": {
+      "rsi": 46.72,
+      "stoch_k": 57.89,
+      "cci": -38.55,
+      "macd_diff": 0.2801,
+      "trend_strength": 0.6773,
+      "pivot_position": 0.7755
+    }
+  },
+  {
+    "date": "2022-03-03",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 435.71,
+    "indicators": {
+      "rsi": 45.27,
+      "stoch_k": 61.2,
+      "cci": -29.04,
+      "macd_diff": 0.532,
+      "trend_strength": 0.6512,
+      "pivot_position": 0.2613
+    }
+  },
+  {
+    "date": "2022-03-04",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 432.17,
+    "indicators": {
+      "rsi": 42.94,
+      "stoch_k": 57.54,
+      "cci": -72.68,
+      "macd_diff": 0.4898,
+      "trend_strength": 0.0765,
+      "pivot_position": 0.7814
+    }
+  },
+  {
+    "date": "2022-03-07",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 419.43,
+    "indicators": {
+      "rsi": 35.8,
+      "stoch_k": 23.49,
+      "cci": -125.72,
+      "macd_diff": -0.3229,
+      "trend_strength": 0.9365,
+      "pivot_position": 0.0054
+    }
+  },
+  {
+    "date": "2022-03-08",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 416.25,
+    "indicators": {
+      "rsi": 34.27,
+      "stoch_k": 14.99,
+      "cci": -146.55,
+      "macd_diff": -0.9649,
+      "trend_strength": 0.2787,
+      "pivot_position": 0.0935
+    }
+  },
+  {
+    "date": "2022-03-09",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 427.41,
+    "indicators": {
+      "rsi": 43.42,
+      "stoch_k": 46.68,
+      "cci": -79.12,
+      "macd_diff": -0.5491,
+      "trend_strength": 0.3393,
+      "pivot_position": 0.6861
+    }
+  },
+  {
+    "date": "2022-03-10",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 425.48,
+    "indicators": {
+      "rsi": 42.32,
+      "stoch_k": 48.7,
+      "cci": -92.98,
+      "macd_diff": -0.3261,
+      "trend_strength": 0.4942,
+      "pivot_position": 0.8414
+    }
+  },
+  {
+    "date": "2022-03-11",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 420.07,
+    "indicators": {
+      "rsi": 39.32,
+      "stoch_k": 30.95,
+      "cci": -96.46,
+      "macd_diff": -0.4571,
+      "trend_strength": 0.8712,
+      "pivot_position": 0.0584
+    }
+  },
+  {
+    "date": "2022-03-14",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 417.0,
+    "indicators": {
+      "rsi": 37.69,
+      "stoch_k": 20.87,
+      "cci": -120.92,
+      "macd_diff": -0.6526,
+      "trend_strength": 0.4441,
+      "pivot_position": 0.1381
+    }
+  },
+  {
+    "date": "2022-03-15",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 426.17,
+    "indicators": {
+      "rsi": 45.03,
+      "stoch_k": 50.97,
+      "cci": -66.6,
+      "macd_diff": -0.0957,
+      "trend_strength": 0.7601,
+      "pivot_position": 0.9204
+    }
+  },
+  {
+    "date": "2022-03-17",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 441.07,
+    "indicators": {
+      "rsi": 54.64,
+      "stoch_k": 99.85,
+      "cci": 104.7,
+      "macd_diff": 1.917,
+      "trend_strength": 0.9492,
+      "pivot_position": 1.0
+    }
+  },
+  {
+    "date": "2022-03-18",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 444.52,
+    "indicators": {
+      "rsi": 56.62,
+      "stoch_k": 98.86,
+      "cci": 144.67,
+      "macd_diff": 2.7142,
+      "trend_strength": 0.8534,
+      "pivot_position": 0.9555
+    }
+  },
+  {
+    "date": "2022-03-21",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 444.39,
+    "indicators": {
+      "rsi": 56.52,
+      "stoch_k": 93.4,
+      "cci": 148.13,
+      "macd_diff": 3.1109,
+      "trend_strength": 0.0087,
+      "pivot_position": 0.6419
+    }
+  },
+  {
+    "date": "2022-03-22",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 449.59,
+    "indicators": {
+      "rsi": 59.6,
+      "stoch_k": 97.21,
+      "cci": 167.76,
+      "macd_diff": 3.5688,
+      "trend_strength": 0.7903,
+      "pivot_position": 0.7903
+    }
+  },
+  {
+    "date": "2022-03-23",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 443.8,
+    "indicators": {
+      "rsi": 54.94,
+      "stoch_k": 80.88,
+      "cci": 120.36,
+      "macd_diff": 3.3315,
+      "trend_strength": 0.6506,
+      "pivot_position": 0.0188
+    }
+  },
+  {
+    "date": "2022-03-24",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 450.49,
+    "indicators": {
+      "rsi": 58.94,
+      "stoch_k": 99.75,
+      "cci": 131.57,
+      "macd_diff": 3.4599,
+      "trend_strength": 0.7927,
+      "pivot_position": 0.9983
+    }
+  },
+  {
+    "date": "2022-03-25",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 452.69,
+    "indicators": {
+      "rsi": 60.19,
+      "stoch_k": 99.23,
+      "cci": 133.68,
+      "macd_diff": 3.5162,
+      "trend_strength": 0.3363,
+      "pivot_position": 0.9363
+    }
+  },
+  {
+    "date": "2022-03-28",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 455.91,
+    "indicators": {
+      "rsi": 62.01,
+      "stoch_k": 100.0,
+      "cci": 132.08,
+      "macd_diff": 3.5815,
+      "trend_strength": 0.6581,
+      "pivot_position": 1.0
+    }
+  },
+  {
+    "date": "2022-03-29",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 461.55,
+    "indicators": {
+      "rsi": 65.04,
+      "stoch_k": 98.88,
+      "cci": 151.05,
+      "macd_diff": 3.7954,
+      "trend_strength": 0.3129,
+      "pivot_position": 0.8937
+    }
+  },
+  {
+    "date": "2022-03-30",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 458.7,
+    "indicators": {
+      "rsi": 62.34,
+      "stoch_k": 92.72,
+      "cci": 122.13,
+      "macd_diff": 3.5406,
+      "trend_strength": 0.3467,
+      "pivot_position": 0.4725
+    }
+  },
+  {
+    "date": "2022-03-31",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 451.64,
+    "indicators": {
+      "rsi": 56.12,
+      "stoch_k": 77.46,
+      "cci": 83.83,
+      "macd_diff": 2.7287,
+      "trend_strength": 0.8224,
+      "pivot_position": 0.0632
+    }
+  },
+  {
+    "date": "2022-04-01",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 452.92,
+    "indicators": {
+      "rsi": 56.96,
+      "stoch_k": 79.04,
+      "cci": 66.2,
+      "macd_diff": 2.1362,
+      "trend_strength": 0.0903,
+      "pivot_position": 0.875
+    }
+  },
+  {
+    "date": "2022-04-04",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 456.8,
+    "indicators": {
+      "rsi": 59.49,
+      "stoch_k": 85.86,
+      "cci": 78.3,
+      "macd_diff": 1.8733,
+      "trend_strength": 0.7892,
+      "pivot_position": 0.9763
+    }
+  },
+  {
+    "date": "2022-04-05",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 451.03,
+    "indicators": {
+      "rsi": 54.38,
+      "stoch_k": 61.77,
+      "cci": 60.49,
+      "macd_diff": 1.2108,
+      "trend_strength": 0.5231,
+      "pivot_position": 0.1511
+    }
+  },
+  {
+    "date": "2022-04-06",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 446.52,
+    "indicators": {
+      "rsi": 50.71,
+      "stoch_k": 37.42,
+      "cci": 16.98,
+      "macd_diff": 0.4101,
+      "trend_strength": 0.0678,
+      "pivot_position": 0.5586
+    }
+  },
+  {
+    "date": "2022-04-07",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 448.77,
+    "indicators": {
+      "rsi": 52.43,
+      "stoch_k": 37.82,
+      "cci": 20.41,
+      "macd_diff": -0.0048,
+      "trend_strength": 0.4441,
+      "pivot_position": 0.7318
+    }
+  },
+  {
+    "date": "2022-04-08",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 447.57,
+    "indicators": {
+      "rsi": 51.4,
+      "stoch_k": 22.04,
+      "cci": 16.48,
+      "macd_diff": -0.3763,
+      "trend_strength": 0.0853,
+      "pivot_position": 0.3475
+    }
+  },
+  {
+    "date": "2022-04-11",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 439.92,
+    "indicators": {
+      "rsi": 45.28,
+      "stoch_k": 2.34,
+      "cci": -59.95,
+      "macd_diff": -1.1118,
+      "trend_strength": 0.7469,
+      "pivot_position": 0.0945
+    }
+  },
+  {
+    "date": "2022-04-12",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 438.29,
+    "indicators": {
+      "rsi": 44.08,
+      "stoch_k": 6.45,
+      "cci": -94.83,
+      "macd_diff": -1.6502,
+      "trend_strength": 0.5264,
+      "pivot_position": 0.1802
+    }
+  },
+  {
+    "date": "2022-04-13",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 443.31,
+    "indicators": {
+      "rsi": 48.61,
+      "stoch_k": 26.2,
+      "cci": -90.23,
+      "macd_diff": -1.6087,
+      "trend_strength": 0.8421,
+      "pivot_position": 0.8724
+    }
+  },
+  {
+    "date": "2022-04-14",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 437.79,
+    "indicators": {
+      "rsi": 44.35,
+      "stoch_k": 4.48,
+      "cci": -115.51,
+      "macd_diff": -1.8749,
+      "trend_strength": 0.817,
+      "pivot_position": 0.0156
+    }
+  },
+  {
+    "date": "2022-04-18",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 437.97,
+    "indicators": {
+      "rsi": 44.52,
+      "stoch_k": 8.92,
+      "cci": -137.4,
+      "macd_diff": -1.952,
+      "trend_strength": 0.2802,
+      "pivot_position": 0.57
+    }
+  },
+  {
+    "date": "2022-04-19",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 445.04,
+    "indicators": {
+      "rsi": 50.89,
+      "stoch_k": 36.86,
+      "cci": -70.58,
+      "macd_diff": -1.4623,
+      "trend_strength": 0.8842,
+      "pivot_position": 0.9064
+    }
+  },
+  {
+    "date": "2022-04-20",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 444.71,
+    "indicators": {
+      "rsi": 50.6,
+      "stoch_k": 39.31,
+      "cci": -36.62,
+      "macd_diff": -1.112,
+      "trend_strength": 0.5403,
+      "pivot_position": 0.3007
+    }
+  },
+  {
+    "date": "2022-04-21",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 438.06,
+    "indicators": {
+      "rsi": 45.0,
+      "stoch_k": 11.03,
+      "cci": -76.15,
+      "macd_diff": -1.2682,
+      "trend_strength": 0.8118,
+      "pivot_position": 0.0744
+    }
+  },
+  {
+    "date": "2022-04-22",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 426.04,
+    "indicators": {
+      "rsi": 37.02,
+      "stoch_k": 1.85,
+      "cci": -181.0,
+      "macd_diff": -2.0734,
+      "trend_strength": 0.8598,
+      "pivot_position": 0.0475
+    }
+  },
+  {
+    "date": "2022-04-25",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 428.51,
+    "indicators": {
+      "rsi": 39.4,
+      "stoch_k": 24.8,
+      "cci": -190.8,
+      "macd_diff": -2.3139,
+      "trend_strength": 0.4914,
+      "pivot_position": 0.9817
+    }
+  },
+  {
+    "date": "2022-04-26",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 416.1,
+    "indicators": {
+      "rsi": 32.71,
+      "stoch_k": 0.09,
+      "cci": -205.5,
+      "macd_diff": -3.1321,
+      "trend_strength": 0.9759,
+      "pivot_position": 0.003
+    }
+  },
+  {
+    "date": "2022-04-27",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 417.27,
+    "indicators": {
+      "rsi": 33.85,
+      "stoch_k": 6.33,
+      "cci": -188.15,
+      "macd_diff": -3.3957,
+      "trend_strength": 0.0038,
+      "pivot_position": 0.2857
+    }
+  },
+  {
+    "date": "2022-04-28",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 427.81,
+    "indicators": {
+      "rsi": 43.19,
+      "stoch_k": 35.93,
+      "cci": -118.21,
+      "macd_diff": -2.6921,
+      "trend_strength": 0.4585,
+      "pivot_position": 0.848
+    }
+  },
+  {
+    "date": "2022-04-29",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 412.0,
+    "indicators": {
+      "rsi": 35.17,
+      "stoch_k": 2.04,
+      "cci": -152.13,
+      "macd_diff": -3.0948,
+      "trend_strength": 0.7906,
+      "pivot_position": 0.0539
+    }
+  },
+  {
+    "date": "2022-05-02",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 414.48,
+    "indicators": {
+      "rsi": 37.14,
+      "stoch_k": 21.03,
+      "cci": -151.04,
+      "macd_diff": -2.9953,
+      "trend_strength": 0.2211,
+      "pivot_position": 0.8679
+    }
+  },
+  {
+    "date": "2022-05-03",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 416.38,
+    "indicators": {
+      "rsi": 38.68,
+      "stoch_k": 25.25,
+      "cci": -107.4,
+      "macd_diff": -2.6166,
+      "trend_strength": 0.246,
+      "pivot_position": 0.5422
+    }
+  },
+  {
+    "date": "2022-05-05",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 413.81,
+    "indicators": {
+      "rsi": 40.09,
+      "stoch_k": 19.54,
+      "cci": -91.53,
+      "macd_diff": -1.4724,
+      "trend_strength": 0.6902,
+      "pivot_position": 0.2808
+    }
+  },
+  {
+    "date": "2022-05-06",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 411.34,
+    "indicators": {
+      "rsi": 38.98,
+      "stoch_k": 14.05,
+      "cci": -112.28,
+      "macd_diff": -1.5546,
+      "trend_strength": 0.0265,
+      "pivot_position": 0.6185
+    }
+  },
+  {
+    "date": "2022-05-09",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 398.17,
+    "indicators": {
+      "rsi": 33.66,
+      "stoch_k": 3.12,
+      "cci": -154.7,
+      "macd_diff": -2.311,
+      "trend_strength": 0.6993,
+      "pivot_position": 0.1685
+    }
+  },
+  {
+    "date": "2022-05-10",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 399.09,
+    "indicators": {
+      "rsi": 34.34,
+      "stoch_k": 7.74,
+      "cci": -141.73,
+      "macd_diff": -2.5458,
+      "trend_strength": 0.4796,
+      "pivot_position": 0.3792
+    }
+  },
+  {
+    "date": "2022-05-11",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 392.75,
+    "indicators": {
+      "rsi": 31.93,
+      "stoch_k": 1.71,
+      "cci": -143.47,
+      "macd_diff": -2.8989,
+      "trend_strength": 0.4404,
+      "pivot_position": 0.0654
+    }
+  },
+  {
+    "date": "2022-05-12",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 392.34,
+    "indicators": {
+      "rsi": 31.77,
+      "stoch_k": 16.15,
+      "cci": -152.62,
+      "macd_diff": -2.9226,
+      "trend_strength": 0.2789,
+      "pivot_position": 0.6751
+    }
+  },
+  {
+    "date": "2022-05-13",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 401.72,
+    "indicators": {
+      "rsi": 39.07,
+      "stoch_k": 37.23,
+      "cci": -97.09,
+      "macd_diff": -2.1072,
+      "trend_strength": 0.6618,
+      "pivot_position": 0.8071
+    }
+  },
+  {
+    "date": "2022-05-16",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 400.09,
+    "indicators": {
+      "rsi": 38.3,
+      "stoch_k": 33.57,
+      "cci": -86.98,
+      "macd_diff": -1.5063,
+      "trend_strength": 0.0173,
+      "pivot_position": 0.3909
+    }
+  },
+  {
+    "date": "2022-05-17",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 408.32,
+    "indicators": {
+      "rsi": 44.25,
+      "stoch_k": 52.06,
+      "cci": -47.73,
+      "macd_diff": -0.4388,
+      "trend_strength": 0.299,
+      "pivot_position": 0.9582
+    }
+  },
+  {
+    "date": "2022-05-18",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 391.86,
+    "indicators": {
+      "rsi": 36.64,
+      "stoch_k": 15.08,
+      "cci": -102.28,
+      "macd_diff": -0.7095,
+      "trend_strength": 0.8785,
+      "pivot_position": 0.0989
+    }
+  },
+  {
+    "date": "2022-05-19",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 389.46,
+    "indicators": {
+      "rsi": 35.68,
+      "stoch_k": 9.68,
+      "cci": -121.6,
+      "macd_diff": -0.9057,
+      "trend_strength": 0.1195,
+      "pivot_position": 0.3343
+    }
+  },
+  {
+    "date": "2022-05-20",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 389.63,
+    "indicators": {
+      "rsi": 35.81,
+      "stoch_k": 18.51,
+      "cci": -115.91,
+      "macd_diff": -0.879,
+      "trend_strength": 0.2195,
+      "pivot_position": 0.5512
+    }
+  },
+  {
+    "date": "2022-05-23",
+    "signal": "buy",
+    "confidence": 0.8,
+    "price": 396.92,
+    "indicators": {
+      "rsi": 41.24,
+      "stoch_k": 33.35,
+      "cci": -71.86,
+      "macd_diff": -0.2575,
+      "trend_strength": 0.5565,
+      "pivot_position": 0.8898
+    }
+  },
+  {
+    "date": "2022-05-24",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 393.89,
+    "indicators": {
+      "rsi": 39.73,
+      "stoch_k": 30.03,
+      "cci": -83.21,
+      "macd_diff": 0.0461,
+      "trend_strength": 0.1624,
+      "pivot_position": 0.8462
+    }
+  },
+  {
+    "date": "2022-05-25",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 397.37,
+    "indicators": {
+      "rsi": 42.34,
+      "stoch_k": 49.12,
+      "cci": -50.73,
+      "macd_diff": 0.55,
+      "trend_strength": 0.6693,
+      "pivot_position": 0.7249
+    }
+  },
+  {
+    "date": "2022-05-26",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 405.31,
+    "indicators": {
+      "rsi": 47.87,
+      "stoch_k": 88.37,
+      "cci": 7.99,
+      "macd_diff": 1.4363,
+      "trend_strength": 0.773,
+      "pivot_position": 0.7986
+    }
+  },
+  {
+    "date": "2022-05-27",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 415.26,
+    "indicators": {
+      "rsi": 53.84,
+      "stoch_k": 99.66,
+      "cci": 83.83,
+      "macd_diff": 2.6409,
+      "trend_strength": 0.957,
+      "pivot_position": 0.9844
+    }
+  },
+  {
+    "date": "2022-05-31",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 412.93,
+    "indicators": {
+      "rsi": 52.33,
+      "stoch_k": 90.17,
+      "cci": 85.37,
+      "macd_diff": 3.1921,
+      "trend_strength": 0.0964,
+      "pivot_position": 0.451
+    }
+  },
+  {
+    "date": "2022-06-01",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 409.59,
+    "indicators": {
+      "rsi": 50.16,
+      "stoch_k": 80.87,
+      "cci": 72.49,
+      "macd_diff": 3.2332,
+      "trend_strength": 0.5994,
+      "pivot_position": 0.2857
+    }
+  },
+  {
+    "date": "2022-06-02",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 417.39,
+    "indicators": {
+      "rsi": 54.87,
+      "stoch_k": 99.86,
+      "cci": 110.43,
+      "macd_diff": 3.6559,
+      "trend_strength": 0.7663,
+      "pivot_position": 0.9952
+    }
+  },
+  {
+    "date": "2022-06-03",
+    "signal": "sell",
+    "confidence": 0.45,
+    "price": 410.54,
+    "indicators": {
+      "rsi": 50.36,
+      "stoch_k": 81.3,
+      "cci": 92.74,
+      "macd_diff": 3.3525,
+      "trend_strength": 0.4106,
+      "pivot_position": 0.2274
+    }
+  },
+  {
+    "date": "2022-06-06",
+    "signal": "sell",
+    "confidence": 0.45,
+    "price": 411.79,
+    "indicators": {
+      "rsi": 51.15,
+      "stoch_k": 84.69,
+      "cci": 104.73,
+      "macd_diff": 3.119,
+      "trend_strength": 0.4937,
+      "pivot_position": 0.2044
+    }
+  },
+  {
+    "date": "2022-06-07",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 415.74,
+    "indicators": {
+      "rsi": 53.66,
+      "stoch_k": 95.39,
+      "cci": 93.23,
+      "macd_diff": 3.1069,
+      "trend_strength": 0.8873,
+      "pivot_position": 0.9443
+    }
+  },
+  {
+    "date": "2022-06-09",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 401.44,
+    "indicators": {
+      "rsi": 44.33,
+      "stoch_k": 56.64,
+      "cci": 13.35,
+      "macd_diff": 1.6904,
+      "trend_strength": 0.767,
+      "pivot_position": 0.0
+    }
+  },
+  {
+    "date": "2022-06-10",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 389.8,
+    "indicators": {
+      "rsi": 38.35,
+      "stoch_k": 9.32,
+      "cci": -96.92,
+      "macd_diff": 0.2632,
+      "trend_strength": 0.8428,
+      "pivot_position": 0.0083
+    }
+  },
+  {
+    "date": "2022-06-13",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 375.0,
+    "indicators": {
+      "rsi": 32.37,
+      "stoch_k": 3.85,
+      "cci": -183.8,
+      "macd_diff": -1.5617,
+      "trend_strength": 0.5699,
+      "pivot_position": 0.1998
+    }
+  },
+  {
+    "date": "2022-06-14",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 373.87,
+    "indicators": {
+      "rsi": 31.96,
+      "stoch_k": 7.0,
+      "cci": -166.59,
+      "macd_diff": -2.6642,
+      "trend_strength": 0.4054,
+      "pivot_position": 0.4463
+    }
+  },
+  {
+    "date": "2022-06-15",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 379.2,
+    "indicators": {
+      "rsi": 36.07,
+      "stoch_k": 18.38,
+      "cci": -121.61,
+      "macd_diff": -2.8379,
+      "trend_strength": 0.1562,
+      "pivot_position": 0.601
+    }
+  },
+  {
+    "date": "2022-06-16",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 366.65,
+    "indicators": {
+      "rsi": 31.28,
+      "stoch_k": 4.82,
+      "cci": -158.77,
+      "macd_diff": -3.5548,
+      "trend_strength": 0.5627,
+      "pivot_position": 0.3746
+    }
+  },
+  {
+    "date": "2022-06-17",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 365.86,
+    "indicators": {
+      "rsi": 31.0,
+      "stoch_k": 6.68,
+      "cci": -145.99,
+      "macd_diff": -3.816,
+      "trend_strength": 0.0485,
+      "pivot_position": 0.5118
+    }
+  },
+  {
+    "date": "2022-06-21",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 375.07,
+    "indicators": {
+      "rsi": 37.95,
+      "stoch_k": 23.34,
+      "cci": -96.61,
+      "macd_diff": -3.1311,
+      "trend_strength": 0.6744,
+      "pivot_position": 0.6914
+    }
+  },
+  {
+    "date": "2022-06-22",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 374.39,
+    "indicators": {
+      "rsi": 37.65,
+      "stoch_k": 22.11,
+      "cci": -85.66,
+      "macd_diff": -2.5131,
+      "trend_strength": 0.4415,
+      "pivot_position": 0.493
+    }
+  },
+  {
+    "date": "2022-06-23",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 378.06,
+    "indicators": {
+      "rsi": 40.4,
+      "stoch_k": 29.19,
+      "cci": -69.77,
+      "macd_diff": -1.6861,
+      "trend_strength": 0.2391,
+      "pivot_position": 0.8704
+    }
+  },
+  {
+    "date": "2022-06-27",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 388.59,
+    "indicators": {
+      "rsi": 47.58,
+      "stoch_k": 48.88,
+      "cci": -15.66,
+      "macd_diff": 0.6704,
+      "trend_strength": 0.6276,
+      "pivot_position": 0.2934
+    }
+  },
+  {
+    "date": "2022-06-28",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 380.65,
+    "indicators": {
+      "rsi": 43.2,
+      "stoch_k": 34.45,
+      "cci": -28.81,
+      "macd_diff": 0.7723,
+      "trend_strength": 0.7585,
+      "pivot_position": 0.0095
+    }
+  },
+  {
+    "date": "2022-06-29",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 380.34,
+    "indicators": {
+      "rsi": 43.03,
+      "stoch_k": 36.66,
+      "cci": -42.73,
+      "macd_diff": 0.8508,
+      "trend_strength": 0.2312,
+      "pivot_position": 0.4987
+    }
+  },
+  {
+    "date": "2022-06-30",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 377.25,
+    "indicators": {
+      "rsi": 41.32,
+      "stoch_k": 44.87,
+      "cci": -53.62,
+      "macd_diff": 0.731,
+      "trend_strength": 0.1247,
+      "pivot_position": 0.5791
+    }
+  },
+  {
+    "date": "2022-07-01",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 381.24,
+    "indicators": {
+      "rsi": 44.39,
+      "stoch_k": 61.54,
+      "cci": -39.21,
+      "macd_diff": 0.9435,
+      "trend_strength": 0.5924,
+      "pivot_position": 0.9418
+    }
+  },
+  {
+    "date": "2022-07-05",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 381.96,
+    "indicators": {
+      "rsi": 44.95,
+      "stoch_k": 63.86,
+      "cci": -34.29,
+      "macd_diff": 1.1422,
+      "trend_strength": 0.6696,
+      "pivot_position": 0.9978
+    }
+  },
+  {
+    "date": "2022-07-06",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 383.25,
+    "indicators": {
+      "rsi": 46.0,
+      "stoch_k": 68.02,
+      "cci": -3.68,
+      "macd_diff": 1.3557,
+      "trend_strength": 0.1818,
+      "pivot_position": 0.5821
+    }
+  },
+  {
+    "date": "2022-07-11",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 384.23,
+    "indicators": {
+      "rsi": 46.78,
+      "stoch_k": 61.14,
+      "cci": 57.37,
+      "macd_diff": 1.9165,
+      "trend_strength": 0.4807,
+      "pivot_position": 0.2166
+    }
+  },
+  {
+    "date": "2022-07-12",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 380.83,
+    "indicators": {
+      "rsi": 44.24,
+      "stoch_k": 46.34,
+      "cci": 32.59,
+      "macd_diff": 1.535,
+      "trend_strength": 0.3933,
+      "pivot_position": 0.2566
+    }
+  },
+  {
+    "date": "2022-07-13",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 378.83,
+    "indicators": {
+      "rsi": 42.77,
+      "stoch_k": 30.44,
+      "cci": -14.22,
+      "macd_diff": 1.1343,
+      "trend_strength": 0.5136,
+      "pivot_position": 0.5745
+    }
+  },
+  {
+    "date": "2022-07-14",
+    "signal": "buy",
+    "confidence": 0.8,
+    "price": 377.91,
+    "indicators": {
+      "rsi": 42.08,
+      "stoch_k": 31.06,
+      "cci": -48.59,
+      "macd_diff": 0.8088,
+      "trend_strength": 0.5368,
+      "pivot_position": 0.8577
+    }
+  },
+  {
+    "date": "2022-07-15",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 385.13,
+    "indicators": {
+      "rsi": 49.05,
+      "stoch_k": 63.7,
+      "cci": 48.36,
+      "macd_diff": 1.0653,
+      "trend_strength": 0.5478,
+      "pivot_position": 0.9745
+    }
+  },
+  {
+    "date": "2022-07-19",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 392.27,
+    "indicators": {
+      "rsi": 54.91,
+      "stoch_k": 97.25,
+      "cci": 128.33,
+      "macd_diff": 1.6135,
+      "trend_strength": 0.8275,
+      "pivot_position": 0.9198
+    }
+  },
+  {
+    "date": "2022-07-20",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 394.77,
+    "indicators": {
+      "rsi": 56.7,
+      "stoch_k": 94.09,
+      "cci": 167.96,
+      "macd_diff": 2.1023,
+      "trend_strength": 0.4398,
+      "pivot_position": 0.7151
+    }
+  },
+  {
+    "date": "2022-07-21",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 398.79,
+    "indicators": {
+      "rsi": 59.5,
+      "stoch_k": 99.82,
+      "cci": 179.81,
+      "macd_diff": 2.5839,
+      "trend_strength": 0.6422,
+      "pivot_position": 0.9931
+    }
+  },
+  {
+    "date": "2022-07-22",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 395.09,
+    "indicators": {
+      "rsi": 55.92,
+      "stoch_k": 82.53,
+      "cci": 151.04,
+      "macd_diff": 2.5372,
+      "trend_strength": 0.5155,
+      "pivot_position": 0.3149
+    }
+  },
+  {
+    "date": "2022-07-25",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 395.57,
+    "indicators": {
+      "rsi": 56.29,
+      "stoch_k": 84.18,
+      "cci": 121.1,
+      "macd_diff": 2.4227,
+      "trend_strength": 0.0552,
+      "pivot_position": 0.7239
+    }
+  },
+  {
+    "date": "2022-07-27",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 401.04,
+    "indicators": {
+      "rsi": 59.39,
+      "stoch_k": 94.22,
+      "cci": 140.42,
+      "macd_diff": 2.186,
+      "trend_strength": 0.7565,
+      "pivot_position": 0.7916
+    }
+  },
+  {
+    "date": "2022-07-28",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 406.07,
+    "indicators": {
+      "rsi": 62.55,
+      "stoch_k": 97.96,
+      "cci": 159.67,
+      "macd_diff": 2.5508,
+      "trend_strength": 0.4832,
+      "pivot_position": 0.9156
+    }
+  },
+  {
+    "date": "2022-07-29",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 411.99,
+    "indicators": {
+      "rsi": 65.91,
+      "stoch_k": 97.52,
+      "cci": 191.18,
+      "macd_diff": 3.02,
+      "trend_strength": 0.7045,
+      "pivot_position": 0.8339
+    }
+  },
+  {
+    "date": "2022-08-01",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 410.77,
+    "indicators": {
+      "rsi": 64.62,
+      "stoch_k": 93.77,
+      "cci": 165.38,
+      "macd_diff": 3.0675,
+      "trend_strength": 0.3234,
+      "pivot_position": 0.4731
+    }
+  },
+  {
+    "date": "2022-08-02",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 408.06,
+    "indicators": {
+      "rsi": 61.74,
+      "stoch_k": 87.37,
+      "cci": 133.49,
+      "macd_diff": 2.7462,
+      "trend_strength": 0.1715,
+      "pivot_position": 0.2006
+    }
+  },
+  {
+    "date": "2022-08-03",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 414.45,
+    "indicators": {
+      "rsi": 65.63,
+      "stoch_k": 96.5,
+      "cci": 143.55,
+      "macd_diff": 2.7849,
+      "trend_strength": 0.7306,
+      "pivot_position": 0.7835
+    }
+  },
+  {
+    "date": "2022-08-04",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 414.17,
+    "indicators": {
+      "rsi": 65.32,
+      "stoch_k": 95.69,
+      "cci": 128.36,
+      "macd_diff": 2.6153,
+      "trend_strength": 0.0755,
+      "pivot_position": 0.6528
+    }
+  },
+  {
+    "date": "2022-08-05",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 413.47,
+    "indicators": {
+      "rsi": 64.49,
+      "stoch_k": 92.7,
+      "cci": 104.05,
+      "macd_diff": 2.2913,
+      "trend_strength": 0.8374,
+      "pivot_position": 0.8505
+    }
+  },
+  {
+    "date": "2022-08-08",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 412.99,
+    "indicators": {
+      "rsi": 63.89,
+      "stoch_k": 83.27,
+      "cci": 101.37,
+      "macd_diff": 1.8963,
+      "trend_strength": 0.3903,
+      "pivot_position": 0.2003
+    }
+  },
+  {
+    "date": "2022-08-10",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 419.99,
+    "indicators": {
+      "rsi": 67.81,
+      "stoch_k": 99.5,
+      "cci": 111.14,
+      "macd_diff": 1.5168,
+      "trend_strength": 0.3538,
+      "pivot_position": 0.9561
+    }
+  },
+  {
+    "date": "2022-08-11",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 419.99,
+    "indicators": {
+      "rsi": 67.81,
+      "stoch_k": 85.83,
+      "cci": 117.5,
+      "macd_diff": 1.4589,
+      "trend_strength": 0.5226,
+      "pivot_position": 0.1359
+    }
+  },
+  {
+    "date": "2022-08-12",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 427.1,
+    "indicators": {
+      "rsi": 72.03,
+      "stoch_k": 99.7,
+      "cci": 130.15,
+      "macd_diff": 1.7444,
+      "trend_strength": 0.8204,
+      "pivot_position": 0.9822
+    }
+  },
+  {
+    "date": "2022-08-15",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 428.86,
+    "indicators": {
+      "rsi": 72.97,
+      "stoch_k": 98.44,
+      "cci": 138.32,
+      "macd_diff": 1.8848,
+      "trend_strength": 0.8713,
+      "pivot_position": 0.883
+    }
+  },
+  {
+    "date": "2022-08-16",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 429.7,
+    "indicators": {
+      "rsi": 73.43,
+      "stoch_k": 93.95,
+      "cci": 142.08,
+      "macd_diff": 1.8638,
+      "trend_strength": 0.4062,
+      "pivot_position": 0.5814
+    }
+  },
+  {
+    "date": "2022-08-17",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 426.65,
+    "indicators": {
+      "rsi": 68.84,
+      "stoch_k": 79.65,
+      "cci": 115.54,
+      "macd_diff": 1.4903,
+      "trend_strength": 0.1492,
+      "pivot_position": 0.4254
+    }
+  },
+  {
+    "date": "2022-08-18",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 427.89,
+    "indicators": {
+      "rsi": 69.67,
+      "stoch_k": 84.58,
+      "cci": 108.0,
+      "macd_diff": 1.1858,
+      "trend_strength": 0.3312,
+      "pivot_position": 0.7685
+    }
+  },
+  {
+    "date": "2022-08-19",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 422.14,
+    "indicators": {
+      "rsi": 61.49,
+      "stoch_k": 61.5,
+      "cci": 67.09,
+      "macd_diff": 0.4918,
+      "trend_strength": 0.703,
+      "pivot_position": 0.2277
+    }
+  },
+  {
+    "date": "2022-08-22",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 413.35,
+    "indicators": {
+      "rsi": 51.53,
+      "stoch_k": 16.95,
+      "cci": -7.75,
+      "macd_diff": -0.6052,
+      "trend_strength": 0.766,
+      "pivot_position": 0.1967
+    }
+  },
+  {
+    "date": "2022-08-24",
+    "signal": "buy",
+    "confidence": 0.45,
+    "price": 413.67,
+    "indicators": {
+      "rsi": 51.86,
+      "stoch_k": 18.39,
+      "cci": -37.99,
+      "macd_diff": -1.8092,
+      "trend_strength": 0.4193,
+      "pivot_position": 0.6129
+    }
+  },
+  {
+    "date": "2022-08-25",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 419.51,
+    "indicators": {
+      "rsi": 57.33,
+      "stoch_k": 43.19,
+      "cci": 0.07,
+      "macd_diff": -1.6654,
+      "trend_strength": 0.7806,
+      "pivot_position": 0.9909
+    }
+  },
+  {
+    "date": "2022-08-26",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 405.31,
+    "indicators": {
+      "rsi": 44.18,
+      "stoch_k": 0.23,
+      "cci": -86.24,
+      "macd_diff": -2.457,
+      "trend_strength": 0.9572,
+      "pivot_position": 0.0041
+    }
+  },
+  {
+    "date": "2022-08-29",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 402.63,
+    "indicators": {
+      "rsi": 42.22,
+      "stoch_k": 4.68,
+      "cci": -152.55,
+      "macd_diff": -3.0525,
+      "trend_strength": 0.0927,
+      "pivot_position": 0.3082
+    }
+  },
+  {
+    "date": "2022-08-30",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 398.21,
+    "indicators": {
+      "rsi": 39.12,
+      "stoch_k": 6.19,
+      "cci": -175.57,
+      "macd_diff": -3.5979,
+      "trend_strength": 0.6963,
+      "pivot_position": 0.2728
+    }
+  },
+  {
+    "date": "2022-08-31",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 395.18,
+    "indicators": {
+      "rsi": 37.11,
+      "stoch_k": 0.38,
+      "cci": -171.47,
+      "macd_diff": -3.9866,
+      "trend_strength": 0.7661,
+      "pivot_position": 0.0226
+    }
+  },
+  {
+    "date": "2022-09-01",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 396.42,
+    "indicators": {
+      "rsi": 38.5,
+      "stoch_k": 15.3,
+      "cci": -167.49,
+      "macd_diff": -3.9749,
+      "trend_strength": 0.5237,
+      "pivot_position": 0.9466
+    }
+  },
+  {
+    "date": "2022-09-02",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 392.24,
+    "indicators": {
+      "rsi": 35.64,
+      "stoch_k": 5.28,
+      "cci": -143.66,
+      "macd_diff": -4.0499,
+      "trend_strength": 0.7163,
+      "pivot_position": 0.1702
+    }
+  },
+  {
+    "date": "2022-09-06",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 390.76,
+    "indicators": {
+      "rsi": 34.66,
+      "stoch_k": 5.7,
+      "cci": -142.67,
+      "macd_diff": -3.9936,
+      "trend_strength": 0.4158,
+      "pivot_position": 0.4105
+    }
+  },
+  {
+    "date": "2022-09-07",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 397.78,
+    "indicators": {
+      "rsi": 42.72,
+      "stoch_k": 23.29,
+      "cci": -99.38,
+      "macd_diff": -3.3064,
+      "trend_strength": 0.876,
+      "pivot_position": 0.9035
+    }
+  },
+  {
+    "date": "2022-09-08",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 400.38,
+    "indicators": {
+      "rsi": 45.41,
+      "stoch_k": 32.46,
+      "cci": -72.87,
+      "macd_diff": -2.5345,
+      "trend_strength": 0.7404,
+      "pivot_position": 0.9288
+    }
+  },
+  {
+    "date": "2022-09-09",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 406.6,
+    "indicators": {
+      "rsi": 51.3,
+      "stoch_k": 57.64,
+      "cci": -28.39,
+      "macd_diff": -1.513,
+      "trend_strength": 0.7644,
+      "pivot_position": 0.8198
+    }
+  },
+  {
+    "date": "2022-09-12",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 410.97,
+    "indicators": {
+      "rsi": 54.97,
+      "stoch_k": 71.5,
+      "cci": 4.61,
+      "macd_diff": -0.5033,
+      "trend_strength": 0.6697,
+      "pivot_position": 0.7676
+    }
+  },
+  {
+    "date": "2022-09-13",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 393.1,
+    "indicators": {
+      "rsi": 41.26,
+      "stoch_k": 14.84,
+      "cci": -76.3,
+      "macd_diff": -0.9721,
+      "trend_strength": 0.7809,
+      "pivot_position": 0.1055
+    }
+  },
+  {
+    "date": "2022-09-14",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 394.6,
+    "indicators": {
+      "rsi": 42.56,
+      "stoch_k": 19.59,
+      "cci": -82.4,
+      "macd_diff": -1.1046,
+      "trend_strength": 0.0256,
+      "pivot_position": 0.685
+    }
+  },
+  {
+    "date": "2022-09-15",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 390.12,
+    "indicators": {
+      "rsi": 39.74,
+      "stoch_k": 5.39,
+      "cci": -91.39,
+      "macd_diff": -1.3985,
+      "trend_strength": 0.3955,
+      "pivot_position": 0.1866
+    }
+  },
+  {
+    "date": "2022-09-16",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 385.56,
+    "indicators": {
+      "rsi": 37.05,
+      "stoch_k": 11.65,
+      "cci": -132.59,
+      "macd_diff": -1.7801,
+      "trend_strength": 0.343,
+      "pivot_position": 0.8333
+    }
+  },
+  {
+    "date": "2022-09-19",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 388.55,
+    "indicators": {
+      "rsi": 39.92,
+      "stoch_k": 21.74,
+      "cci": -113.12,
+      "macd_diff": -1.7107,
+      "trend_strength": 0.9872,
+      "pivot_position": 1.0
+    }
+  },
+  {
+    "date": "2022-09-20",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 384.09,
+    "indicators": {
+      "rsi": 37.2,
+      "stoch_k": 9.48,
+      "cci": -125.95,
+      "macd_diff": -1.8339,
+      "trend_strength": 0.197,
+      "pivot_position": 0.5878
+    }
+  },
+  {
+    "date": "2022-09-21",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 377.39,
+    "indicators": {
+      "rsi": 33.5,
+      "stoch_k": 0.03,
+      "cci": -136.36,
+      "macd_diff": -2.2101,
+      "trend_strength": 0.7309,
+      "pivot_position": 0.0008
+    }
+  },
+  {
+    "date": "2022-09-22",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 374.22,
+    "indicators": {
+      "rsi": 31.88,
+      "stoch_k": 2.04,
+      "cci": -174.06,
+      "macd_diff": -2.4949,
+      "trend_strength": 0.5592,
+      "pivot_position": 0.1848
+    }
+  },
+  {
+    "date": "2022-09-23",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 367.95,
+    "indicators": {
+      "rsi": 28.91,
+      "stoch_k": 9.62,
+      "cci": -207.18,
+      "macd_diff": -2.8995,
+      "trend_strength": 0.3588,
+      "pivot_position": 0.6357
+    }
+  },
+  {
+    "date": "2022-09-26",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 364.31,
+    "indicators": {
+      "rsi": 27.32,
+      "stoch_k": 2.63,
+      "cci": -182.52,
+      "macd_diff": -3.1836,
+      "trend_strength": 0.2925,
+      "pivot_position": 0.1783
+    }
+  },
+  {
+    "date": "2022-09-27",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 363.38,
+    "indicators": {
+      "rsi": 26.91,
+      "stoch_k": 4.94,
+      "cci": -157.3,
+      "macd_diff": -3.1971,
+      "trend_strength": 0.4869,
+      "pivot_position": 0.2634
+    }
+  },
+  {
+    "date": "2022-09-28",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 370.53,
+    "indicators": {
+      "rsi": 34.95,
+      "stoch_k": 18.99,
+      "cci": -116.21,
+      "macd_diff": -2.5173,
+      "trend_strength": 0.634,
+      "pivot_position": 0.8175
+    }
+  },
+  {
+    "date": "2022-09-29",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 362.79,
+    "indicators": {
+      "rsi": 30.98,
+      "stoch_k": 5.94,
+      "cci": -128.8,
+      "macd_diff": -2.3831,
+      "trend_strength": 0.5425,
+      "pivot_position": 0.417
+    }
+  },
+  {
+    "date": "2022-09-30",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 357.18,
+    "indicators": {
+      "rsi": 28.45,
+      "stoch_k": 0.3,
+      "cci": -127.07,
+      "macd_diff": -2.4566,
+      "trend_strength": 0.5209,
+      "pivot_position": 0.0158
+    }
+  },
+  {
+    "date": "2022-10-03",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 366.61,
+    "indicators": {
+      "rsi": 37.65,
+      "stoch_k": 24.44,
+      "cci": -89.86,
+      "macd_diff": -1.691,
+      "trend_strength": 0.5921,
+      "pivot_position": 0.7923
+    }
+  },
+  {
+    "date": "2022-10-04",
+    "signal": "buy",
+    "confidence": 0.45,
+    "price": 377.97,
+    "indicators": {
+      "rsi": 46.56,
+      "stoch_k": 53.78,
+      "cci": -37.77,
+      "macd_diff": -0.3125,
+      "trend_strength": 0.4872,
+      "pivot_position": 0.9974
+    }
+  },
+  {
+    "date": "2022-10-06",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 373.2,
+    "indicators": {
+      "rsi": 43.57,
+      "stoch_k": 50.08,
+      "cci": -25.47,
+      "macd_diff": 0.9724,
+      "trend_strength": 0.4007,
+      "pivot_position": 0.0861
+    }
+  },
+  {
+    "date": "2022-10-07",
+    "signal": "buy",
+    "confidence": 0.8,
+    "price": 362.79,
+    "indicators": {
+      "rsi": 37.78,
+      "stoch_k": 17.82,
+      "cci": -71.93,
+      "macd_diff": 0.5742,
+      "trend_strength": 0.5003,
+      "pivot_position": 0.1498
+    }
+  },
+  {
+    "date": "2022-10-10",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 360.02,
+    "indicators": {
+      "rsi": 36.4,
+      "stoch_k": 9.23,
+      "cci": -101.0,
+      "macd_diff": 0.1986,
+      "trend_strength": 0.6024,
+      "pivot_position": 0.3593
+    }
+  },
+  {
+    "date": "2022-10-11",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 357.74,
+    "indicators": {
+      "rsi": 35.25,
+      "stoch_k": 8.55,
+      "cci": -104.29,
+      "macd_diff": -0.1124,
+      "trend_strength": 0.0676,
+      "pivot_position": 0.2773
+    }
+  },
+  {
+    "date": "2022-10-12",
+    "signal": "buy",
+    "confidence": 0.8,
+    "price": 356.56,
+    "indicators": {
+      "rsi": 34.65,
+      "stoch_k": 3.58,
+      "cci": -105.47,
+      "macd_diff": -0.2962,
+      "trend_strength": 0.4577,
+      "pivot_position": 0.0739
+    }
+  },
+  {
+    "date": "2022-10-13",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 365.97,
+    "indicators": {
+      "rsi": 43.07,
+      "stoch_k": 56.97,
+      "cci": -77.74,
+      "macd_diff": 0.286,
+      "trend_strength": 0.8642,
+      "pivot_position": 0.9206
+    }
+  },
+  {
+    "date": "2022-10-14",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 357.63,
+    "indicators": {
+      "rsi": 38.35,
+      "stoch_k": 30.37,
+      "cci": -64.4,
+      "macd_diff": 0.1842,
+      "trend_strength": 0.8211,
+      "pivot_position": 0.0504
+    }
+  },
+  {
+    "date": "2022-10-17",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 366.82,
+    "indicators": {
+      "rsi": 45.44,
+      "stoch_k": 59.68,
+      "cci": -36.78,
+      "macd_diff": 0.7775,
+      "trend_strength": 0.2626,
+      "pivot_position": 0.8916
+    }
+  },
+  {
+    "date": "2022-10-18",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 371.13,
+    "indicators": {
+      "rsi": 48.44,
+      "stoch_k": 73.43,
+      "cci": 56.28,
+      "macd_diff": 1.462,
+      "trend_strength": 0.5044,
+      "pivot_position": 0.4552
+    }
+  },
+  {
+    "date": "2022-10-19",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 368.5,
+    "indicators": {
+      "rsi": 46.75,
+      "stoch_k": 65.04,
+      "cci": 35.41,
+      "macd_diff": 1.7217,
+      "trend_strength": 0.0778,
+      "pivot_position": 0.4683
+    }
+  },
+  {
+    "date": "2022-10-20",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 365.41,
+    "indicators": {
+      "rsi": 44.78,
+      "stoch_k": 55.18,
+      "cci": 28.16,
+      "macd_diff": 1.6682,
+      "trend_strength": 0.3251,
+      "pivot_position": 0.0993
+    }
+  },
+  {
+    "date": "2022-10-24",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 378.87,
+    "indicators": {
+      "rsi": 54.11,
+      "stoch_k": 96.28,
+      "cci": 143.36,
+      "macd_diff": 2.7432,
+      "trend_strength": 0.4288,
+      "pivot_position": 0.8288
+    }
+  },
+  {
+    "date": "2022-10-25",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 384.92,
+    "indicators": {
+      "rsi": 57.73,
+      "stoch_k": 99.11,
+      "cci": 179.39,
+      "macd_diff": 3.3938,
+      "trend_strength": 0.9318,
+      "pivot_position": 0.9498
+    }
+  },
+  {
+    "date": "2022-10-26",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 382.02,
+    "indicators": {
+      "rsi": 55.47,
+      "stoch_k": 85.91,
+      "cci": 156.39,
+      "macd_diff": 3.487,
+      "trend_strength": 0.0642,
+      "pivot_position": 0.1075
+    }
+  },
+  {
+    "date": "2022-10-27",
+    "signal": "sell",
+    "confidence": 0.45,
+    "price": 379.98,
+    "indicators": {
+      "rsi": 53.87,
+      "stoch_k": 80.74,
+      "cci": 116.6,
+      "macd_diff": 3.2729,
+      "trend_strength": 0.545,
+      "pivot_position": 0.1146
+    }
+  },
+  {
+    "date": "2022-10-28",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 389.02,
+    "indicators": {
+      "rsi": 59.45,
+      "stoch_k": 98.79,
+      "cci": 140.32,
+      "macd_diff": 3.5771,
+      "trend_strength": 0.9299,
+      "pivot_position": 0.9492
+    }
+  },
+  {
+    "date": "2022-10-31",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 386.21,
+    "indicators": {
+      "rsi": 57.14,
+      "stoch_k": 92.01,
+      "cci": 126.97,
+      "macd_diff": 3.4257,
+      "trend_strength": 0.0732,
+      "pivot_position": 0.3025
+    }
+  },
+  {
+    "date": "2022-11-01",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 384.52,
+    "indicators": {
+      "rsi": 55.73,
+      "stoch_k": 86.12,
+      "cci": 108.37,
+      "macd_diff": 3.0605,
+      "trend_strength": 0.7915,
+      "pivot_position": 0.1732
+    }
+  },
+  {
+    "date": "2022-11-03",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 371.01,
+    "indicators": {
+      "rsi": 45.82,
+      "stoch_k": 41.47,
+      "cci": -5.97,
+      "macd_diff": 1.0923,
+      "trend_strength": 0.0841,
+      "pivot_position": 0.4104
+    }
+  },
+  {
+    "date": "2022-11-04",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 376.35,
+    "indicators": {
+      "rsi": 49.82,
+      "stoch_k": 47.71,
+      "cci": 19.46,
+      "macd_diff": 0.7688,
+      "trend_strength": 0.0733,
+      "pivot_position": 0.7159
+    }
+  },
+  {
+    "date": "2022-11-09",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 374.13,
+    "indicators": {
+      "rsi": 47.83,
+      "stoch_k": 39.44,
+      "cci": 7.1,
+      "macd_diff": 0.3428,
+      "trend_strength": 0.7703,
+      "pivot_position": 0.0691
+    }
+  },
+  {
+    "date": "2022-11-10",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 394.69,
+    "indicators": {
+      "rsi": 60.27,
+      "stoch_k": 98.67,
+      "cci": 145.28,
+      "macd_diff": 1.3222,
+      "trend_strength": 0.7065,
+      "pivot_position": 0.9628
+    }
+  },
+  {
+    "date": "2022-11-11",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 398.51,
+    "indicators": {
+      "rsi": 62.08,
+      "stoch_k": 97.25,
+      "cci": 179.55,
+      "macd_diff": 2.1042,
+      "trend_strength": 0.5087,
+      "pivot_position": 0.8537
+    }
+  },
+  {
+    "date": "2022-11-14",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 395.12,
+    "indicators": {
+      "rsi": 59.49,
+      "stoch_k": 83.88,
+      "cci": 156.89,
+      "macd_diff": 2.2566,
+      "trend_strength": 0.2879,
+      "pivot_position": 0.0542
+    }
+  },
+  {
+    "date": "2022-11-15",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 398.49,
+    "indicators": {
+      "rsi": 61.22,
+      "stoch_k": 88.6,
+      "cci": 152.18,
+      "macd_diff": 2.4326,
+      "trend_strength": 0.3402,
+      "pivot_position": 0.5115
+    }
+  },
+  {
+    "date": "2022-11-16",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 395.45,
+    "indicators": {
+      "rsi": 58.78,
+      "stoch_k": 79.53,
+      "cci": 116.11,
+      "macd_diff": 2.1997,
+      "trend_strength": 0.4448,
+      "pivot_position": 0.2207
+    }
+  },
+  {
+    "date": "2022-11-17",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 394.24,
+    "indicators": {
+      "rsi": 57.79,
+      "stoch_k": 75.92,
+      "cci": 80.34,
+      "macd_diff": 1.8343,
+      "trend_strength": 0.7859,
+      "pivot_position": 0.8524
+    }
+  },
+  {
+    "date": "2022-11-18",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 396.03,
+    "indicators": {
+      "rsi": 58.89,
+      "stoch_k": 81.26,
+      "cci": 94.01,
+      "macd_diff": 1.5923,
+      "trend_strength": 0.3585,
+      "pivot_position": 0.6268
+    }
+  },
+  {
+    "date": "2022-11-21",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 394.59,
+    "indicators": {
+      "rsi": 57.59,
+      "stoch_k": 76.97,
+      "cci": 73.44,
+      "macd_diff": 1.2307,
+      "trend_strength": 0.0158,
+      "pivot_position": 0.6108
+    }
+  },
+  {
+    "date": "2022-11-22",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 399.9,
+    "indicators": {
+      "rsi": 61.01,
+      "stoch_k": 92.81,
+      "cci": 97.57,
+      "macd_diff": 1.241,
+      "trend_strength": 0.665,
+      "pivot_position": 0.9654
+    }
+  },
+  {
+    "date": "2022-11-23",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 402.42,
+    "indicators": {
+      "rsi": 62.55,
+      "stoch_k": 98.45,
+      "cci": 110.21,
+      "macd_diff": 1.3029,
+      "trend_strength": 0.7928,
+      "pivot_position": 0.8591
+    }
+  },
+  {
+    "date": "2022-11-25",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 402.33,
+    "indicators": {
+      "rsi": 62.46,
+      "stoch_k": 97.95,
+      "cci": 104.15,
+      "macd_diff": 1.2244,
+      "trend_strength": 0.3636,
+      "pivot_position": 0.5782
+    }
+  },
+  {
+    "date": "2022-11-28",
+    "signal": "sell",
+    "confidence": 0.45,
+    "price": 395.91,
+    "indicators": {
+      "rsi": 55.93,
+      "stoch_k": 76.06,
+      "cci": 58.64,
+      "macd_diff": 0.6553,
+      "trend_strength": 0.5579,
+      "pivot_position": 0.1404
+    }
+  },
+  {
+    "date": "2022-11-29",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 395.23,
+    "indicators": {
+      "rsi": 55.27,
+      "stoch_k": 73.74,
+      "cci": 39.45,
+      "macd_diff": 0.1734,
+      "trend_strength": 0.205,
+      "pivot_position": 0.4825
+    }
+  },
+  {
+    "date": "2022-11-30",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 407.68,
+    "indicators": {
+      "rsi": 63.7,
+      "stoch_k": 100.0,
+      "cci": 92.88,
+      "macd_diff": 0.6088,
+      "trend_strength": 0.8585,
+      "pivot_position": 1.0
+    }
+  },
+  {
+    "date": "2022-12-01",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 407.38,
+    "indicators": {
+      "rsi": 63.39,
+      "stoch_k": 86.81,
+      "cci": 122.55,
+      "macd_diff": 0.7814,
+      "trend_strength": 0.2648,
+      "pivot_position": 0.501
+    }
+  },
+  {
+    "date": "2022-12-02",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 406.91,
+    "indicators": {
+      "rsi": 62.88,
+      "stoch_k": 84.44,
+      "cci": 109.59,
+      "macd_diff": 0.7675,
+      "trend_strength": 0.8147,
+      "pivot_position": 0.8339
+    }
+  },
+  {
+    "date": "2022-12-06",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 393.83,
+    "indicators": {
+      "rsi": 50.2,
+      "stoch_k": 18.58,
+      "cci": -17.1,
+      "macd_diff": -0.5892,
+      "trend_strength": 0.6695,
+      "pivot_position": 0.2623
+    }
+  },
+  {
+    "date": "2022-12-07",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 393.16,
+    "indicators": {
+      "rsi": 49.63,
+      "stoch_k": 15.21,
+      "cci": -53.99,
+      "macd_diff": -1.1468,
+      "trend_strength": 0.0599,
+      "pivot_position": 0.3243
+    }
+  },
+  {
+    "date": "2022-12-08",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 396.24,
+    "indicators": {
+      "rsi": 52.33,
+      "stoch_k": 25.05,
+      "cci": -46.03,
+      "macd_diff": -1.289,
+      "trend_strength": 0.2688,
+      "pivot_position": 0.7263
+    }
+  },
+  {
+    "date": "2022-12-09",
+    "signal": "buy",
+    "confidence": 0.45,
+    "price": 393.28,
+    "indicators": {
+      "rsi": 49.58,
+      "stoch_k": 8.93,
+      "cci": -69.79,
+      "macd_diff": -1.5458,
+      "trend_strength": 0.3714,
+      "pivot_position": 0.0291
+    }
+  },
+  {
+    "date": "2022-12-13",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 401.97,
+    "indicators": {
+      "rsi": 56.93,
+      "stoch_k": 54.8,
+      "cci": 101.69,
+      "macd_diff": -0.9356,
+      "trend_strength": 0.7224,
+      "pivot_position": 0.2539
+    }
+  },
+  {
+    "date": "2022-12-14",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 399.4,
+    "indicators": {
+      "rsi": 54.29,
+      "stoch_k": 41.17,
+      "cci": 33.78,
+      "macd_diff": -0.8556,
+      "trend_strength": 0.2405,
+      "pivot_position": 0.3362
+    }
+  },
+  {
+    "date": "2022-12-15",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 389.63,
+    "indicators": {
+      "rsi": 45.61,
+      "stoch_k": 7.72,
+      "cci": -127.49,
+      "macd_diff": -1.42,
+      "trend_strength": 0.6341,
+      "pivot_position": 0.2369
+    }
+  },
+  {
+    "date": "2022-12-16",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 383.27,
+    "indicators": {
+      "rsi": 41.02,
+      "stoch_k": 7.57,
+      "cci": -220.89,
+      "macd_diff": -2.1377,
+      "trend_strength": 0.3451,
+      "pivot_position": 0.4029
+    }
+  },
+  {
+    "date": "2022-12-19",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 380.02,
+    "indicators": {
+      "rsi": 38.86,
+      "stoch_k": 5.4,
+      "cci": -219.26,
+      "macd_diff": -2.7106,
+      "trend_strength": 0.6227,
+      "pivot_position": 0.3141
+    }
+  },
+  {
+    "date": "2022-12-20",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 380.54,
+    "indicators": {
+      "rsi": 39.41,
+      "stoch_k": 8.24,
+      "cci": -187.22,
+      "macd_diff": -2.9159,
+      "trend_strength": 0.2991,
+      "pivot_position": 0.6142
+    }
+  },
+  {
+    "date": "2022-12-21",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 386.23,
+    "indicators": {
+      "rsi": 45.2,
+      "stoch_k": 25.67,
+      "cci": -110.51,
+      "macd_diff": -2.5435,
+      "trend_strength": 0.6314,
+      "pivot_position": 0.75
+    }
+  },
+  {
+    "date": "2022-12-22",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 380.72,
+    "indicators": {
+      "rsi": 41.1,
+      "stoch_k": 16.66,
+      "cci": -138.99,
+      "macd_diff": -2.5374,
+      "trend_strength": 0.2036,
+      "pivot_position": 0.52
+    }
+  },
+  {
+    "date": "2022-12-23",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 382.91,
+    "indicators": {
+      "rsi": 43.3,
+      "stoch_k": 22.79,
+      "cci": -112.85,
+      "macd_diff": -2.2642,
+      "trend_strength": 0.6481,
+      "pivot_position": 0.9702
+    }
+  },
+  {
+    "date": "2022-12-27",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 381.4,
+    "indicators": {
+      "rsi": 42.14,
+      "stoch_k": 18.56,
+      "cci": -97.14,
+      "macd_diff": -2.0687,
+      "trend_strength": 0.3971,
+      "pivot_position": 0.5
+    }
+  },
+  {
+    "date": "2022-12-28",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 376.66,
+    "indicators": {
+      "rsi": 38.61,
+      "stoch_k": 5.29,
+      "cci": -103.34,
+      "macd_diff": -2.1336,
+      "trend_strength": 0.67,
+      "pivot_position": 0.0344
+    }
+  },
+  {
+    "date": "2022-12-29",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 383.44,
+    "indicators": {
+      "rsi": 45.62,
+      "stoch_k": 24.27,
+      "cci": -68.58,
+      "macd_diff": -1.6183,
+      "trend_strength": 0.723,
+      "pivot_position": 0.8273
+    }
+  },
+  {
+    "date": "2022-12-30",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 382.43,
+    "indicators": {
+      "rsi": 44.8,
+      "stoch_k": 21.44,
+      "cci": -70.02,
+      "macd_diff": -1.2598,
+      "trend_strength": 0.4313,
+      "pivot_position": 0.9639
+    }
+  },
+  {
+    "date": "2023-01-03",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 380.82,
+    "indicators": {
+      "rsi": 43.46,
+      "stoch_k": 16.94,
+      "cci": -59.5,
+      "macd_diff": -1.0538,
+      "trend_strength": 0.4128,
+      "pivot_position": 0.3476
+    }
+  },
+  {
+    "date": "2023-01-04",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 383.76,
+    "indicators": {
+      "rsi": 46.6,
+      "stoch_k": 29.25,
+      "cci": -41.31,
+      "macd_diff": -0.6614,
+      "trend_strength": 0.0986,
+      "pivot_position": 0.6395
+    }
+  },
+  {
+    "date": "2023-01-05",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 379.38,
+    "indicators": {
+      "rsi": 42.78,
+      "stoch_k": 22.51,
+      "cci": -66.69,
+      "macd_diff": -0.6384,
+      "trend_strength": 0.7597,
+      "pivot_position": 0.2013
+    }
+  },
+  {
+    "date": "2023-01-06",
+    "signal": "sell",
+    "confidence": 0.45,
+    "price": 388.08,
+    "indicators": {
+      "rsi": 51.31,
+      "stoch_k": 91.92,
+      "cci": -8.85,
+      "macd_diff": -0.0119,
+      "trend_strength": 0.556,
+      "pivot_position": 0.8811
+    }
+  },
+  {
+    "date": "2023-01-11",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 395.52,
+    "indicators": {
+      "rsi": 57.82,
+      "stoch_k": 99.62,
+      "cci": 104.43,
+      "macd_diff": 1.3799,
+      "trend_strength": 0.7796,
+      "pivot_position": 0.981
+    }
+  },
+  {
+    "date": "2023-01-12",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 396.96,
+    "indicators": {
+      "rsi": 58.99,
+      "stoch_k": 93.57,
+      "cci": 145.22,
+      "macd_diff": 1.7688,
+      "trend_strength": 0.0478,
+      "pivot_position": 0.7486
+    }
+  },
+  {
+    "date": "2023-01-13",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 398.5,
+    "indicators": {
+      "rsi": 60.25,
+      "stoch_k": 97.35,
+      "cci": 168.64,
+      "macd_diff": 2.0315,
+      "trend_strength": 0.8472,
+      "pivot_position": 0.8958
+    }
+  },
+  {
+    "date": "2023-01-17",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 397.77,
+    "indicators": {
+      "rsi": 59.32,
+      "stoch_k": 89.67,
+      "cci": 166.75,
+      "macd_diff": 2.052,
+      "trend_strength": 0.224,
+      "pivot_position": 0.224
+    }
+  },
+  {
+    "date": "2023-01-19",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 388.64,
+    "indicators": {
+      "rsi": 48.84,
+      "stoch_k": 48.26,
+      "cci": 30.12,
+      "macd_diff": 0.9895,
+      "trend_strength": 0.1885,
+      "pivot_position": 0.3613
+    }
+  },
+  {
+    "date": "2023-01-23",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 400.63,
+    "indicators": {
+      "rsi": 59.74,
+      "stoch_k": 91.88,
+      "cci": 126.43,
+      "macd_diff": 1.3164,
+      "trend_strength": 0.5646,
+      "pivot_position": 0.709
+    }
+  },
+  {
+    "date": "2023-01-24",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 400.2,
+    "indicators": {
+      "rsi": 59.23,
+      "stoch_k": 89.76,
+      "cci": 113.79,
+      "macd_diff": 1.3861,
+      "trend_strength": 0.3761,
+      "pivot_position": 0.7293
+    }
+  },
+  {
+    "date": "2023-01-25",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 400.35,
+    "indicators": {
+      "rsi": 59.36,
+      "stoch_k": 90.39,
+      "cci": 89.11,
+      "macd_diff": 1.3565,
+      "trend_strength": 0.6162,
+      "pivot_position": 0.951
+    }
+  },
+  {
+    "date": "2023-01-26",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 404.75,
+    "indicators": {
+      "rsi": 63.08,
+      "stoch_k": 99.33,
+      "cci": 125.06,
+      "macd_diff": 1.5344,
+      "trend_strength": 0.3313,
+      "pivot_position": 0.9652
+    }
+  },
+  {
+    "date": "2023-01-27",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 405.68,
+    "indicators": {
+      "rsi": 63.84,
+      "stoch_k": 88.67,
+      "cci": 136.42,
+      "macd_diff": 1.608,
+      "trend_strength": 0.429,
+      "pivot_position": 0.4746
+    }
+  },
+  {
+    "date": "2023-01-30",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 400.59,
+    "indicators": {
+      "rsi": 56.98,
+      "stoch_k": 65.42,
+      "cci": 91.72,
+      "macd_diff": 1.2246,
+      "trend_strength": 0.4557,
+      "pivot_position": 0.0639
+    }
+  },
+  {
+    "date": "2023-01-31",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 406.48,
+    "indicators": {
+      "rsi": 62.06,
+      "stoch_k": 91.96,
+      "cci": 111.16,
+      "macd_diff": 1.2728,
+      "trend_strength": 0.9288,
+      "pivot_position": 0.9913
+    }
+  },
+  {
+    "date": "2023-02-01",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 410.8,
+    "indicators": {
+      "rsi": 65.3,
+      "stoch_k": 89.13,
+      "cci": 143.98,
+      "macd_diff": 1.4858,
+      "trend_strength": 0.4937,
+      "pivot_position": 0.7465
+    }
+  },
+  {
+    "date": "2023-02-02",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 416.78,
+    "indicators": {
+      "rsi": 69.21,
+      "stoch_k": 95.07,
+      "cci": 195.22,
+      "macd_diff": 1.8935,
+      "trend_strength": 0.3536,
+      "pivot_position": 0.7182
+    }
+  },
+  {
+    "date": "2023-02-03",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 412.35,
+    "indicators": {
+      "rsi": 63.5,
+      "stoch_k": 80.81,
+      "cci": 153.76,
+      "macd_diff": 1.7333,
+      "trend_strength": 0.1293,
+      "pivot_position": 0.2143
+    }
+  },
+  {
+    "date": "2023-02-06",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 409.83,
+    "indicators": {
+      "rsi": 60.44,
+      "stoch_k": 72.69,
+      "cci": 102.17,
+      "macd_diff": 1.3434,
+      "trend_strength": 0.0125,
+      "pivot_position": 0.5423
+    }
+  },
+  {
+    "date": "2023-02-07",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 415.19,
+    "indicators": {
+      "rsi": 64.37,
+      "stoch_k": 89.95,
+      "cci": 120.55,
+      "macd_diff": 1.3298,
+      "trend_strength": 0.7085,
+      "pivot_position": 0.8543
+    }
+  },
+  {
+    "date": "2023-02-08",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 410.65,
+    "indicators": {
+      "rsi": 59.02,
+      "stoch_k": 74.41,
+      "cci": 95.58,
+      "macd_diff": 0.918,
+      "trend_strength": 0.5391,
+      "pivot_position": 0.1565
+    }
+  },
+  {
+    "date": "2023-02-13",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 412.83,
+    "indicators": {
+      "rsi": 60.0,
+      "stoch_k": 77.86,
+      "cci": 74.14,
+      "macd_diff": 0.002,
+      "trend_strength": 0.8689,
+      "pivot_position": 0.9704
+    }
+  },
+  {
+    "date": "2023-02-14",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 412.64,
+    "indicators": {
+      "rsi": 59.76,
+      "stoch_k": 68.98,
+      "cci": 74.59,
+      "macd_diff": -0.0378,
+      "trend_strength": 0.2141,
+      "pivot_position": 0.6314
+    }
+  },
+  {
+    "date": "2023-02-15",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 413.98,
+    "indicators": {
+      "rsi": 60.92,
+      "stoch_k": 75.98,
+      "cci": 73.36,
+      "macd_diff": -0.0218,
+      "trend_strength": 0.7908,
+      "pivot_position": 0.9826
+    }
+  },
+  {
+    "date": "2023-02-21",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 399.09,
+    "indicators": {
+      "rsi": 44.31,
+      "stoch_k": 1.39,
+      "cci": -111.47,
+      "macd_diff": -1.4975,
+      "trend_strength": 0.7434,
+      "pivot_position": 0.0506
+    }
+  },
+  {
+    "date": "2023-02-22",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 398.54,
+    "indicators": {
+      "rsi": 43.81,
+      "stoch_k": 7.14,
+      "cci": -137.74,
+      "macd_diff": -1.957,
+      "trend_strength": 0.2384,
+      "pivot_position": 0.3698
+    }
+  },
+  {
+    "date": "2023-02-23",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 400.66,
+    "indicators": {
+      "rsi": 46.34,
+      "stoch_k": 21.28,
+      "cci": -128.81,
+      "macd_diff": -2.043,
+      "trend_strength": 0.1513,
+      "pivot_position": 0.7412
+    }
+  },
+  {
+    "date": "2023-02-24",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 396.38,
+    "indicators": {
+      "rsi": 42.21,
+      "stoch_k": 11.99,
+      "cci": -169.04,
+      "macd_diff": -2.2943,
+      "trend_strength": 0.2659,
+      "pivot_position": 0.759
+    }
+  },
+  {
+    "date": "2023-02-27",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 397.73,
+    "indicators": {
+      "rsi": 43.91,
+      "stoch_k": 17.9,
+      "cci": -112.93,
+      "macd_diff": -2.2715,
+      "trend_strength": 0.4714,
+      "pivot_position": 0.2159
+    }
+  },
+  {
+    "date": "2023-02-28",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 396.26,
+    "indicators": {
+      "rsi": 42.44,
+      "stoch_k": 12.24,
+      "cci": -120.95,
+      "macd_diff": -2.2529,
+      "trend_strength": 0.3099,
+      "pivot_position": 0.0351
+    }
+  },
+  {
+    "date": "2023-03-01",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 394.74,
+    "indicators": {
+      "rsi": 40.92,
+      "stoch_k": 6.28,
+      "cci": -129.57,
+      "macd_diff": -2.2358,
+      "trend_strength": 0.2024,
+      "pivot_position": 0.4109
+    }
+  },
+  {
+    "date": "2023-03-02",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 397.81,
+    "indicators": {
+      "rsi": 45.19,
+      "stoch_k": 24.12,
+      "cci": -98.87,
+      "macd_diff": -1.9227,
+      "trend_strength": 0.8066,
+      "pivot_position": 0.8616
+    }
+  },
+  {
+    "date": "2023-03-07",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 398.27,
+    "indicators": {
+      "rsi": 45.97,
+      "stoch_k": 27.34,
+      "cci": -46.64,
+      "macd_diff": -0.7458,
+      "trend_strength": 0.873,
+      "pivot_position": 0.0916
+    }
+  },
+  {
+    "date": "2023-03-08",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 398.92,
+    "indicators": {
+      "rsi": 46.78,
+      "stoch_k": 32.02,
+      "cci": -61.45,
+      "macd_diff": -0.6886,
+      "trend_strength": 0.1699,
+      "pivot_position": 0.7468
+    }
+  },
+  {
+    "date": "2023-03-09",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 391.56,
+    "indicators": {
+      "rsi": 39.54,
+      "stoch_k": 6.07,
+      "cci": -101.08,
+      "macd_diff": -1.085,
+      "trend_strength": 0.747,
+      "pivot_position": 0.0941
+    }
+  },
+  {
+    "date": "2023-03-10",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 385.91,
+    "indicators": {
+      "rsi": 35.06,
+      "stoch_k": 6.87,
+      "cci": -166.1,
+      "macd_diff": -1.6333,
+      "trend_strength": 0.5747,
+      "pivot_position": 0.1799
+    }
+  },
+  {
+    "date": "2023-03-13",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 385.36,
+    "indicators": {
+      "rsi": 34.65,
+      "stoch_k": 17.57,
+      "cci": -174.2,
+      "macd_diff": -1.9188,
+      "trend_strength": 0.3645,
+      "pivot_position": 0.4836
+    }
+  },
+  {
+    "date": "2023-03-14",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 391.73,
+    "indicators": {
+      "rsi": 43.0,
+      "stoch_k": 41.34,
+      "cci": -105.5,
+      "macd_diff": -1.5788,
+      "trend_strength": 0.1922,
+      "pivot_position": 0.7313
+    }
+  },
+  {
+    "date": "2023-03-15",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 389.28,
+    "indicators": {
+      "rsi": 40.84,
+      "stoch_k": 32.2,
+      "cci": -133.67,
+      "macd_diff": -1.4237,
+      "trend_strength": 0.5865,
+      "pivot_position": 0.9637
+    }
+  },
+  {
+    "date": "2023-03-17",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 389.99,
+    "indicators": {
+      "rsi": 43.14,
+      "stoch_k": 34.85,
+      "cci": -77.06,
+      "macd_diff": -0.7326,
+      "trend_strength": 0.5521,
+      "pivot_position": 0.2462
+    }
+  },
+  {
+    "date": "2023-03-20",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 393.74,
+    "indicators": {
+      "rsi": 47.06,
+      "stoch_k": 48.84,
+      "cci": -45.5,
+      "macd_diff": -0.3922,
+      "trend_strength": 0.7171,
+      "pivot_position": 0.8951
+    }
+  },
+  {
+    "date": "2023-03-21",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 398.91,
+    "indicators": {
+      "rsi": 51.98,
+      "stoch_k": 68.13,
+      "cci": 41.14,
+      "macd_diff": 0.1948,
+      "trend_strength": 0.436,
+      "pivot_position": 0.8695
+    }
+  },
+  {
+    "date": "2023-03-22",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 392.11,
+    "indicators": {
+      "rsi": 45.93,
+      "stoch_k": 42.76,
+      "cci": 5.06,
+      "macd_diff": 0.1413,
+      "trend_strength": 0.6353,
+      "pivot_position": 0.0038
+    }
+  },
+  {
+    "date": "2023-03-23",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 393.17,
+    "indicators": {
+      "rsi": 46.97,
+      "stoch_k": 46.72,
+      "cci": -12.51,
+      "macd_diff": 0.1904,
+      "trend_strength": 0.2148,
+      "pivot_position": 0.3154
+    }
+  },
+  {
+    "date": "2023-03-27",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 396.49,
+    "indicators": {
+      "rsi": 50.24,
+      "stoch_k": 72.53,
+      "cci": 39.03,
+      "macd_diff": 0.5753,
+      "trend_strength": 0.4851,
+      "pivot_position": 0.2768
+    }
+  },
+  {
+    "date": "2023-03-28",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 395.6,
+    "indicators": {
+      "rsi": 49.31,
+      "stoch_k": 68.45,
+      "cci": 10.24,
+      "macd_diff": 0.6193,
+      "trend_strength": 0.0607,
+      "pivot_position": 0.6821
+    }
+  },
+  {
+    "date": "2023-03-29",
+    "signal": "sell",
+    "confidence": 0.45,
+    "price": 401.35,
+    "indicators": {
+      "rsi": 55.09,
+      "stoch_k": 94.78,
+      "cci": 94.48,
+      "macd_diff": 0.9997,
+      "trend_strength": 0.488,
+      "pivot_position": 0.9144
+    }
+  },
+  {
+    "date": "2023-03-30",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 403.7,
+    "indicators": {
+      "rsi": 57.23,
+      "stoch_k": 97.26,
+      "cci": 123.62,
+      "macd_diff": 1.3518,
+      "trend_strength": 0.1506,
+      "pivot_position": 0.749
+    }
+  },
+  {
+    "date": "2023-03-31",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 409.39,
+    "indicators": {
+      "rsi": 61.97,
+      "stoch_k": 98.81,
+      "cci": 178.86,
+      "macd_diff": 1.8777,
+      "trend_strength": 0.9184,
+      "pivot_position": 0.9398
+    }
+  },
+  {
+    "date": "2023-04-03",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 410.95,
+    "indicators": {
+      "rsi": 63.18,
+      "stoch_k": 98.48,
+      "cci": 197.05,
+      "macd_diff": 2.2171,
+      "trend_strength": 0.7167,
+      "pivot_position": 0.8567
+    }
+  },
+  {
+    "date": "2023-04-04",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 408.67,
+    "indicators": {
+      "rsi": 60.18,
+      "stoch_k": 87.32,
+      "cci": 159.63,
+      "macd_diff": 2.1718,
+      "trend_strength": 0.6303,
+      "pivot_position": 0.3056
+    }
+  },
+  {
+    "date": "2023-04-05",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 407.6,
+    "indicators": {
+      "rsi": 58.77,
+      "stoch_k": 81.51,
+      "cci": 119.09,
+      "macd_diff": 1.96,
+      "trend_strength": 0.1099,
+      "pivot_position": 0.6099
+    }
+  },
+  {
+    "date": "2023-04-06",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 409.19,
+    "indicators": {
+      "rsi": 60.26,
+      "stoch_k": 87.88,
+      "cci": 109.15,
+      "macd_diff": 1.8201,
+      "trend_strength": 0.6365,
+      "pivot_position": 0.9237
+    }
+  },
+  {
+    "date": "2023-04-10",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 409.61,
+    "indicators": {
+      "rsi": 60.66,
+      "stoch_k": 89.74,
+      "cci": 98.43,
+      "macd_diff": 1.654,
+      "trend_strength": 0.8065,
+      "pivot_position": 0.9785
+    }
+  },
+  {
+    "date": "2023-04-11",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 409.72,
+    "indicators": {
+      "rsi": 60.77,
+      "stoch_k": 90.23,
+      "cci": 100.63,
+      "macd_diff": 1.4564,
+      "trend_strength": 0.2389,
+      "pivot_position": 0.354
+    }
+  },
+  {
+    "date": "2023-04-12",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 408.05,
+    "indicators": {
+      "rsi": 58.06,
+      "stoch_k": 81.91,
+      "cci": 84.06,
+      "macd_diff": 1.1327,
+      "trend_strength": 0.8076,
+      "pivot_position": 0.129
+    }
+  },
+  {
+    "date": "2023-04-13",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 413.47,
+    "indicators": {
+      "rsi": 63.73,
+      "stoch_k": 98.49,
+      "cci": 98.48,
+      "macd_diff": 1.1967,
+      "trend_strength": 0.7336,
+      "pivot_position": 0.9367
+    }
+  },
+  {
+    "date": "2023-04-14",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 412.46,
+    "indicators": {
+      "rsi": 62.04,
+      "stoch_k": 87.71,
+      "cci": 96.47,
+      "macd_diff": 1.0873,
+      "trend_strength": 0.0696,
+      "pivot_position": 0.4771
+    }
+  },
+  {
+    "date": "2023-04-17",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 413.94,
+    "indicators": {
+      "rsi": 63.56,
+      "stoch_k": 94.63,
+      "cci": 93.42,
+      "macd_diff": 1.0314,
+      "trend_strength": 0.5461,
+      "pivot_position": 0.993
+    }
+  },
+  {
+    "date": "2023-04-18",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 414.21,
+    "indicators": {
+      "rsi": 63.85,
+      "stoch_k": 91.14,
+      "cci": 99.07,
+      "macd_diff": 0.9324,
+      "trend_strength": 0.466,
+      "pivot_position": 0.4864
+    }
+  },
+  {
+    "date": "2023-04-19",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 414.14,
+    "indicators": {
+      "rsi": 63.71,
+      "stoch_k": 88.68,
+      "cci": 87.94,
+      "macd_diff": 0.7877,
+      "trend_strength": 0.6575,
+      "pivot_position": 0.6781
+    }
+  },
+  {
+    "date": "2023-04-21",
+    "signal": "sell",
+    "confidence": 0.55,
+    "price": 412.2,
+    "indicators": {
+      "rsi": 59.66,
+      "stoch_k": 64.95,
+      "cci": 59.11,
+      "macd_diff": 0.2509,
+      "trend_strength": 0.004,
+      "pivot_position": 0.8088
+    }
+  },
+  {
+    "date": "2023-04-24",
+    "signal": "sell",
+    "confidence": 0.55,
+    "price": 412.63,
+    "indicators": {
+      "rsi": 60.27,
+      "stoch_k": 69.23,
+      "cci": 63.21,
+      "macd_diff": 0.0886,
+      "trend_strength": 0.2591,
+      "pivot_position": 0.8219
+    }
+  },
+  {
+    "date": "2023-04-25",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 406.08,
+    "indicators": {
+      "rsi": 48.31,
+      "stoch_k": 4.0,
+      "cci": -23.76,
+      "macd_diff": -0.4687,
+      "trend_strength": 0.8755,
+      "pivot_position": 0.0117
+    }
+  },
+  {
+    "date": "2023-04-26",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 404.36,
+    "indicators": {
+      "rsi": 45.74,
+      "stoch_k": 4.86,
+      "cci": -101.04,
+      "macd_diff": -0.9351,
+      "trend_strength": 0.5813,
+      "pivot_position": 0.1429
+    }
+  },
+  {
+    "date": "2023-04-27",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 412.41,
+    "indicators": {
+      "rsi": 57.21,
+      "stoch_k": 72.28,
+      "cci": 20.19,
+      "macd_diff": -0.6944,
+      "trend_strength": 0.9092,
+      "pivot_position": 0.9529
+    }
+  },
+  {
+    "date": "2023-04-28",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 415.93,
+    "indicators": {
+      "rsi": 61.08,
+      "stoch_k": 99.92,
+      "cci": 123.81,
+      "macd_diff": -0.3106,
+      "trend_strength": 0.9845,
+      "pivot_position": 0.9978
+    }
+  },
+  {
+    "date": "2023-05-01",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 415.51,
+    "indicators": {
+      "rsi": 60.38,
+      "stoch_k": 84.75,
+      "cci": 154.03,
+      "macd_diff": -0.1081,
+      "trend_strength": 0.017,
+      "pivot_position": 0.104
+    }
+  },
+  {
+    "date": "2023-05-02",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 410.84,
+    "indicators": {
+      "rsi": 53.07,
+      "stoch_k": 51.01,
+      "cci": 6.47,
+      "macd_diff": -0.3007,
+      "trend_strength": 0.5614,
+      "pivot_position": 0.4314
+    }
+  },
+  {
+    "date": "2023-05-03",
+    "signal": "buy",
+    "confidence": 0.45,
+    "price": 408.02,
+    "indicators": {
+      "rsi": 49.2,
+      "stoch_k": 30.64,
+      "cci": -32.79,
+      "macd_diff": -0.6121,
+      "trend_strength": 0.5475,
+      "pivot_position": 0.041
+    }
+  },
+  {
+    "date": "2023-05-04",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 405.13,
+    "indicators": {
+      "rsi": 45.53,
+      "stoch_k": 10.01,
+      "cci": -157.88,
+      "macd_diff": -0.9848,
+      "trend_strength": 0.5099,
+      "pivot_position": 0.3938
+    }
+  },
+  {
+    "date": "2023-05-05",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 412.63,
+    "indicators": {
+      "rsi": 54.92,
+      "stoch_k": 64.05,
+      "cci": 18.72,
+      "macd_diff": -0.711,
+      "trend_strength": 0.7323,
+      "pivot_position": 0.7854
+    }
+  },
+  {
+    "date": "2023-05-08",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 412.74,
+    "indicators": {
+      "rsi": 55.04,
+      "stoch_k": 64.84,
+      "cci": 37.67,
+      "macd_diff": -0.5163,
+      "trend_strength": 0.1173,
+      "pivot_position": 0.7449
+    }
+  },
+  {
+    "date": "2023-05-10",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 412.85,
+    "indicators": {
+      "rsi": 54.88,
+      "stoch_k": 65.63,
+      "cci": 22.19,
+      "macd_diff": -0.3644,
+      "trend_strength": 0.1818,
+      "pivot_position": 0.7026
+    }
+  },
+  {
+    "date": "2023-05-15",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 413.01,
+    "indicators": {
+      "rsi": 54.96,
+      "stoch_k": 66.79,
+      "cci": 32.13,
+      "macd_diff": -0.2454,
+      "trend_strength": 0.2469,
+      "pivot_position": 0.8687
+    }
+  },
+  {
+    "date": "2023-05-17",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 415.23,
+    "indicators": {
+      "rsi": 57.25,
+      "stoch_k": 82.78,
+      "cci": 105.05,
+      "macd_diff": -0.1275,
+      "trend_strength": 0.5517,
+      "pivot_position": 0.8803
+    }
+  },
+  {
+    "date": "2023-05-18",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 419.23,
+    "indicators": {
+      "rsi": 61.78,
+      "stoch_k": 97.24,
+      "cci": 216.75,
+      "macd_diff": 0.2721,
+      "trend_strength": 0.866,
+      "pivot_position": 0.912
+    }
+  },
+  {
+    "date": "2023-05-19",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 418.62,
+    "indicators": {
+      "rsi": 60.73,
+      "stoch_k": 87.63,
+      "cci": 201.02,
+      "macd_diff": 0.4539,
+      "trend_strength": 0.4599,
+      "pivot_position": 0.3769
+    }
+  },
+  {
+    "date": "2023-05-22",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 418.79,
+    "indicators": {
+      "rsi": 60.93,
+      "stoch_k": 88.63,
+      "cci": 163.19,
+      "macd_diff": 0.5383,
+      "trend_strength": 0.0493,
+      "pivot_position": 0.4737
+    }
+  },
+  {
+    "date": "2023-05-24",
+    "signal": "buy",
+    "confidence": 0.8,
+    "price": 411.09,
+    "indicators": {
+      "rsi": 48.48,
+      "stoch_k": 20.28,
+      "cci": -42.32,
+      "macd_diff": -0.1611,
+      "trend_strength": 0.4523,
+      "pivot_position": 0.4117
+    }
+  },
+  {
+    "date": "2023-05-26",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 420.02,
+    "indicators": {
+      "rsi": 59.72,
+      "stoch_k": 93.7,
+      "cci": 128.66,
+      "macd_diff": 0.1142,
+      "trend_strength": 0.8496,
+      "pivot_position": 0.8641
+    }
+  },
+  {
+    "date": "2023-05-30",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 420.18,
+    "indicators": {
+      "rsi": 59.9,
+      "stoch_k": 82.49,
+      "cci": 152.49,
+      "macd_diff": 0.2964,
+      "trend_strength": 0.4811,
+      "pivot_position": 0.3758
+    }
+  },
+  {
+    "date": "2023-05-31",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 417.85,
+    "indicators": {
+      "rsi": 56.1,
+      "stoch_k": 64.99,
+      "cci": 82.25,
+      "macd_diff": 0.2278,
+      "trend_strength": 0.1433,
+      "pivot_position": 0.5433
+    }
+  },
+  {
+    "date": "2023-06-01",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 421.82,
+    "indicators": {
+      "rsi": 60.67,
+      "stoch_k": 92.06,
+      "cci": 121.6,
+      "macd_diff": 0.4073,
+      "trend_strength": 0.6085,
+      "pivot_position": 0.8206
+    }
+  },
+  {
+    "date": "2023-06-02",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 427.92,
+    "indicators": {
+      "rsi": 66.46,
+      "stoch_k": 95.65,
+      "cci": 208.8,
+      "macd_diff": 0.8678,
+      "trend_strength": 0.714,
+      "pivot_position": 0.8288
+    }
+  },
+  {
+    "date": "2023-06-05",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 427.1,
+    "indicators": {
+      "rsi": 65.07,
+      "stoch_k": 87.23,
+      "cci": 184.12,
+      "macd_diff": 1.0368,
+      "trend_strength": 0.3631,
+      "pivot_position": 0.2246
+    }
+  },
+  {
+    "date": "2023-06-06",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 428.03,
+    "indicators": {
+      "rsi": 65.94,
+      "stoch_k": 91.95,
+      "cci": 155.34,
+      "macd_diff": 1.1234,
+      "trend_strength": 0.5257,
+      "pivot_position": 0.7885
+    }
+  },
+  {
+    "date": "2023-06-07",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 426.55,
+    "indicators": {
+      "rsi": 63.25,
+      "stoch_k": 84.45,
+      "cci": 137.1,
+      "macd_diff": 0.9975,
+      "trend_strength": 0.5385,
+      "pivot_position": 0.1254
+    }
+  },
+  {
+    "date": "2023-06-08",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 429.13,
+    "indicators": {
+      "rsi": 65.86,
+      "stoch_k": 97.52,
+      "cci": 130.09,
+      "macd_diff": 1.0019,
+      "trend_strength": 0.664,
+      "pivot_position": 0.8757
+    }
+  },
+  {
+    "date": "2023-06-09",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 429.9,
+    "indicators": {
+      "rsi": 66.63,
+      "stoch_k": 90.55,
+      "cci": 135.67,
+      "macd_diff": 0.9699,
+      "trend_strength": 0.0192,
+      "pivot_position": 0.3301
+    }
+  },
+  {
+    "date": "2023-06-12",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 433.8,
+    "indicators": {
+      "rsi": 70.25,
+      "stoch_k": 99.67,
+      "cci": 142.1,
+      "macd_diff": 1.1143,
+      "trend_strength": 0.7763,
+      "pivot_position": 0.9784
+    }
+  },
+  {
+    "date": "2023-06-13",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 436.66,
+    "indicators": {
+      "rsi": 72.61,
+      "stoch_k": 97.56,
+      "cci": 153.96,
+      "macd_diff": 1.2927,
+      "trend_strength": 0.4963,
+      "pivot_position": 0.7519
+    }
+  },
+  {
+    "date": "2023-06-14",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 437.18,
+    "indicators": {
+      "rsi": 73.02,
+      "stoch_k": 92.94,
+      "cci": 137.31,
+      "macd_diff": 1.3309,
+      "trend_strength": 0.0311,
+      "pivot_position": 0.6562
+    }
+  },
+  {
+    "date": "2023-06-15",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 442.6,
+    "indicators": {
+      "rsi": 76.96,
+      "stoch_k": 95.46,
+      "cci": 156.89,
+      "macd_diff": 1.5889,
+      "trend_strength": 0.8175,
+      "pivot_position": 0.8305
+    }
+  },
+  {
+    "date": "2023-06-16",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 439.46,
+    "indicators": {
+      "rsi": 70.53,
+      "stoch_k": 83.96,
+      "cci": 136.61,
+      "macd_diff": 1.4212,
+      "trend_strength": 0.7676,
+      "pivot_position": 0.1057
+    }
+  },
+  {
+    "date": "2023-06-20",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 437.18,
+    "indicators": {
+      "rsi": 66.21,
+      "stoch_k": 75.72,
+      "cci": 93.32,
+      "macd_diff": 1.0471,
+      "trend_strength": 0.0808,
+      "pivot_position": 0.6437
+    }
+  },
+  {
+    "date": "2023-06-21",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 434.94,
+    "indicators": {
+      "rsi": 62.18,
+      "stoch_k": 66.95,
+      "cci": 74.35,
+      "macd_diff": 0.5634,
+      "trend_strength": 0.4586,
+      "pivot_position": 0.2293
+    }
+  },
+  {
+    "date": "2023-06-22",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 436.51,
+    "indicators": {
+      "rsi": 63.84,
+      "stoch_k": 62.96,
+      "cci": 68.88,
+      "macd_diff": 0.2783,
+      "trend_strength": 0.8477,
+      "pivot_position": 0.9636
+    }
+  },
+  {
+    "date": "2023-06-23",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 433.21,
+    "indicators": {
+      "rsi": 58.06,
+      "stoch_k": 40.87,
+      "cci": 43.01,
+      "macd_diff": -0.1789,
+      "trend_strength": 0.1081,
+      "pivot_position": 0.2857
+    }
+  },
+  {
+    "date": "2023-06-26",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 431.44,
+    "indicators": {
+      "rsi": 55.18,
+      "stoch_k": 31.08,
+      "cci": 24.24,
+      "macd_diff": -0.6219,
+      "trend_strength": 0.345,
+      "pivot_position": 0.0731
+    }
+  },
+  {
+    "date": "2023-06-27",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 436.17,
+    "indicators": {
+      "rsi": 60.78,
+      "stoch_k": 57.25,
+      "cci": 47.74,
+      "macd_diff": -0.6165,
+      "trend_strength": 0.7748,
+      "pivot_position": 0.8702
+    }
+  },
+  {
+    "date": "2023-06-28",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 436.39,
+    "indicators": {
+      "rsi": 61.03,
+      "stoch_k": 58.46,
+      "cci": 56.75,
+      "macd_diff": -0.6169,
+      "trend_strength": 0.4422,
+      "pivot_position": 0.6535
+    }
+  },
+  {
+    "date": "2023-06-29",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 438.11,
+    "indicators": {
+      "rsi": 62.97,
+      "stoch_k": 61.48,
+      "cci": 69.49,
+      "macd_diff": -0.5236,
+      "trend_strength": 0.7847,
+      "pivot_position": 0.938
+    }
+  },
+  {
+    "date": "2023-06-30",
+    "signal": "sell",
+    "confidence": 1.0,
+    "price": 443.28,
+    "indicators": {
+      "rsi": 68.11,
+      "stoch_k": 92.78,
+      "cci": 150.24,
+      "macd_diff": -0.1552,
+      "trend_strength": 0.5768,
+      "pivot_position": 0.6803
+    }
+  },
+  {
+    "date": "2023-07-03",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 443.79,
+    "indicators": {
+      "rsi": 68.57,
+      "stoch_k": 96.11,
+      "cci": 148.19,
+      "macd_diff": 0.0693,
+      "trend_strength": 0.6,
+      "pivot_position": 0.8
+    }
+  },
+  {
+    "date": "2023-07-05",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 443.13,
+    "indicators": {
+      "rsi": 67.21,
+      "stoch_k": 91.08,
+      "cci": 129.25,
+      "macd_diff": 0.117,
+      "trend_strength": 0.6134,
+      "pivot_position": 0.6184
+    }
+  },
+  {
+    "date": "2023-07-06",
+    "signal": "sell",
+    "confidence": 0.55,
+    "price": 439.66,
+    "indicators": {
+      "rsi": 60.42,
+      "stoch_k": 64.61,
+      "cci": 52.49,
+      "macd_diff": -0.1282,
+      "trend_strength": 0.0789,
+      "pivot_position": 0.8553
+    }
+  },
+  {
+    "date": "2023-07-07",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 438.55,
+    "indicators": {
+      "rsi": 58.39,
+      "stoch_k": 56.14,
+      "cci": 61.81,
+      "macd_diff": -0.3932,
+      "trend_strength": 0.0184,
+      "pivot_position": 0.0576
+    }
+  },
+  {
+    "date": "2023-07-10",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 439.66,
+    "indicators": {
+      "rsi": 59.84,
+      "stoch_k": 64.61,
+      "cci": 37.57,
+      "macd_diff": -0.5142,
+      "trend_strength": 0.6563,
+      "pivot_position": 0.9202
+    }
+  },
+  {
+    "date": "2023-07-11",
+    "signal": "sell",
+    "confidence": 1.0,
+    "price": 442.46,
+    "indicators": {
+      "rsi": 63.33,
+      "stoch_k": 85.96,
+      "cci": 84.77,
+      "macd_diff": -0.4295,
+      "trend_strength": 0.5694,
+      "pivot_position": 0.8555
+    }
+  },
+  {
+    "date": "2023-07-12",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 446.02,
+    "indicators": {
+      "rsi": 67.22,
+      "stoch_k": 91.04,
+      "cci": 163.89,
+      "macd_diff": -0.1709,
+      "trend_strength": 0.144,
+      "pivot_position": 0.4319
+    }
+  },
+  {
+    "date": "2023-07-13",
+    "signal": "sell",
+    "confidence": 1.0,
+    "price": 449.56,
+    "indicators": {
+      "rsi": 70.57,
+      "stoch_k": 95.73,
+      "cci": 190.48,
+      "macd_diff": 0.1822,
+      "trend_strength": 0.5666,
+      "pivot_position": 0.7201
+    }
+  },
+  {
+    "date": "2023-07-14",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 449.28,
+    "indicators": {
+      "rsi": 69.96,
+      "stoch_k": 89.69,
+      "cci": 169.55,
+      "macd_diff": 0.332,
+      "trend_strength": 0.4164,
+      "pivot_position": 0.2753
+    }
+  },
+  {
+    "date": "2023-07-17",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 450.84,
+    "indicators": {
+      "rsi": 71.44,
+      "stoch_k": 94.56,
+      "cci": 155.36,
+      "macd_diff": 0.463,
+      "trend_strength": 0.6,
+      "pivot_position": 0.6175
+    }
+  },
+  {
+    "date": "2023-07-18",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 454.19,
+    "indicators": {
+      "rsi": 74.35,
+      "stoch_k": 96.72,
+      "cci": 158.18,
+      "macd_diff": 0.6887,
+      "trend_strength": 0.7669,
+      "pivot_position": 0.8608
+    }
+  },
+  {
+    "date": "2023-07-19",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 455.2,
+    "indicators": {
+      "rsi": 75.18,
+      "stoch_k": 94.11,
+      "cci": 158.49,
+      "macd_diff": 0.8109,
+      "trend_strength": 0.082,
+      "pivot_position": 0.4694
+    }
+  },
+  {
+    "date": "2023-07-20",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 452.18,
+    "indicators": {
+      "rsi": 68.13,
+      "stoch_k": 78.06,
+      "cci": 115.65,
+      "macd_diff": 0.6028,
+      "trend_strength": 0.5437,
+      "pivot_position": 0.2022
+    }
+  },
+  {
+    "date": "2023-07-21",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 452.18,
+    "indicators": {
+      "rsi": 68.13,
+      "stoch_k": 78.06,
+      "cci": 101.36,
+      "macd_diff": 0.39,
+      "trend_strength": 0.8922,
+      "pivot_position": 0.005
+    }
+  },
+  {
+    "date": "2023-07-24",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 454.2,
+    "indicators": {
+      "rsi": 70.29,
+      "stoch_k": 88.49,
+      "cci": 99.5,
+      "macd_diff": 0.3134,
+      "trend_strength": 0.3027,
+      "pivot_position": 0.6937
+    }
+  },
+  {
+    "date": "2023-07-25",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 455.44,
+    "indicators": {
+      "rsi": 71.57,
+      "stoch_k": 93.42,
+      "cci": 104.66,
+      "macd_diff": 0.2756,
+      "trend_strength": 0.5305,
+      "pivot_position": 0.548
+    }
+  },
+  {
+    "date": "2023-07-26",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 455.51,
+    "indicators": {
+      "rsi": 71.64,
+      "stoch_k": 92.37,
+      "cci": 94.49,
+      "macd_diff": 0.189,
+      "trend_strength": 0.2881,
+      "pivot_position": 0.59
+    }
+  },
+  {
+    "date": "2023-07-27",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 452.49,
+    "indicators": {
+      "rsi": 63.92,
+      "stoch_k": 68.2,
+      "cci": 78.52,
+      "macd_diff": -0.1214,
+      "trend_strength": 0.8276,
+      "pivot_position": 0.1191
+    }
+  },
+  {
+    "date": "2023-07-28",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 456.92,
+    "indicators": {
+      "rsi": 69.17,
+      "stoch_k": 87.4,
+      "cci": 86.82,
+      "macd_diff": -0.0801,
+      "trend_strength": 0.1967,
+      "pivot_position": 0.8374
+    }
+  },
+  {
+    "date": "2023-07-31",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 457.79,
+    "indicators": {
+      "rsi": 70.09,
+      "stoch_k": 88.64,
+      "cci": 98.45,
+      "macd_diff": -0.0475,
+      "trend_strength": 0.1797,
+      "pivot_position": 0.8251
+    }
+  },
+  {
+    "date": "2023-08-01",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 456.48,
+    "indicators": {
+      "rsi": 66.85,
+      "stoch_k": 75.31,
+      "cci": 80.58,
+      "macd_diff": -0.1611,
+      "trend_strength": 0.1193,
+      "pivot_position": 0.5625
+    }
+  },
+  {
+    "date": "2023-08-03",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 448.84,
+    "indicators": {
+      "rsi": 51.68,
+      "stoch_k": 12.18,
+      "cci": -30.35,
+      "macd_diff": -1.1054,
+      "trend_strength": 0.2339,
+      "pivot_position": 0.4298
+    }
+  },
+  {
+    "date": "2023-08-04",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 446.81,
+    "indicators": {
+      "rsi": 48.34,
+      "stoch_k": 4.1,
+      "cci": -48.3,
+      "macd_diff": -1.4911,
+      "trend_strength": 0.5902,
+      "pivot_position": 0.0815
+    }
+  },
+  {
+    "date": "2023-08-07",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 450.71,
+    "indicators": {
+      "rsi": 54.43,
+      "stoch_k": 33.71,
+      "cci": -43.55,
+      "macd_diff": -1.4509,
+      "trend_strength": 0.6957,
+      "pivot_position": 0.9461
+    }
+  },
+  {
+    "date": "2023-08-08",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 448.75,
+    "indicators": {
+      "rsi": 51.16,
+      "stoch_k": 24.56,
+      "cci": -95.9,
+      "macd_diff": -1.5164,
+      "trend_strength": 0.1235,
+      "pivot_position": 0.6414
+    }
+  },
+  {
+    "date": "2023-08-09",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 445.75,
+    "indicators": {
+      "rsi": 46.56,
+      "stoch_k": 5.46,
+      "cci": -136.23,
+      "macd_diff": -1.7078,
+      "trend_strength": 0.7736,
+      "pivot_position": 0.1863
+    }
+  },
+  {
+    "date": "2023-08-10",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 445.91,
+    "indicators": {
+      "rsi": 46.84,
+      "stoch_k": 8.21,
+      "cci": -111.06,
+      "macd_diff": -1.7624,
+      "trend_strength": 0.3257,
+      "pivot_position": 0.1729
+    }
+  },
+  {
+    "date": "2023-08-11",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 445.65,
+    "indicators": {
+      "rsi": 46.42,
+      "stoch_k": 14.32,
+      "cci": -144.9,
+      "macd_diff": -1.7512,
+      "trend_strength": 0.5006,
+      "pivot_position": 0.6869
+    }
+  },
+  {
+    "date": "2023-08-14",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 448.11,
+    "indicators": {
+      "rsi": 50.88,
+      "stoch_k": 29.61,
+      "cci": -99.04,
+      "macd_diff": -1.5218,
+      "trend_strength": 0.9142,
+      "pivot_position": 1.0
+    }
+  },
+  {
+    "date": "2023-08-15",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 442.89,
+    "indicators": {
+      "rsi": 42.75,
+      "stoch_k": 3.44,
+      "cci": -135.44,
+      "macd_diff": -1.6543,
+      "trend_strength": 0.7788,
+      "pivot_position": 0.1359
+    }
+  },
+  {
+    "date": "2023-08-16",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 439.64,
+    "indicators": {
+      "rsi": 38.61,
+      "stoch_k": 0.59,
+      "cci": -161.82,
+      "macd_diff": -1.8772,
+      "trend_strength": 0.6065,
+      "pivot_position": 0.0237
+    }
+  },
+  {
+    "date": "2023-08-17",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 436.29,
+    "indicators": {
+      "rsi": 34.86,
+      "stoch_k": 2.41,
+      "cci": -183.99,
+      "macd_diff": -2.1471,
+      "trend_strength": 0.8574,
+      "pivot_position": 0.0951
+    }
+  },
+  {
+    "date": "2023-08-18",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 436.5,
+    "indicators": {
+      "rsi": 35.28,
+      "stoch_k": 14.4,
+      "cci": -183.52,
+      "macd_diff": -2.2004,
+      "trend_strength": 0.6864,
+      "pivot_position": 0.7654
+    }
+  },
+  {
+    "date": "2023-08-21",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 439.34,
+    "indicators": {
+      "rsi": 40.89,
+      "stoch_k": 30.86,
+      "cci": -130.32,
+      "macd_diff": -1.9421,
+      "trend_strength": 0.3737,
+      "pivot_position": 0.8392
+    }
+  },
+  {
+    "date": "2023-08-22",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 438.15,
+    "indicators": {
+      "rsi": 39.35,
+      "stoch_k": 25.85,
+      "cci": -107.99,
+      "macd_diff": -1.7549,
+      "trend_strength": 0.8393,
+      "pivot_position": 0.1607
+    }
+  },
+  {
+    "date": "2023-08-23",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 443.03,
+    "indicators": {
+      "rsi": 47.99,
+      "stoch_k": 50.39,
+      "cci": -62.74,
+      "macd_diff": -1.2307,
+      "trend_strength": 0.8271,
+      "pivot_position": 0.86
+    }
+  },
+  {
+    "date": "2023-08-24",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 436.89,
+    "indicators": {
+      "rsi": 40.23,
+      "stoch_k": 20.76,
+      "cci": -82.34,
+      "macd_diff": -1.2232,
+      "trend_strength": 0.9325,
+      "pivot_position": 0.0042
+    }
+  },
+  {
+    "date": "2023-08-25",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 439.97,
+    "indicators": {
+      "rsi": 45.03,
+      "stoch_k": 37.24,
+      "cci": -84.92,
+      "macd_diff": -0.9488,
+      "trend_strength": 0.2048,
+      "pivot_position": 0.7889
+    }
+  },
+  {
+    "date": "2023-08-28",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 442.76,
+    "indicators": {
+      "rsi": 49.03,
+      "stoch_k": 52.17,
+      "cci": -34.11,
+      "macd_diff": -0.5378,
+      "trend_strength": 0.1517,
+      "pivot_position": 0.8133
+    }
+  },
+  {
+    "date": "2023-08-29",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 449.16,
+    "indicators": {
+      "rsi": 56.79,
+      "stoch_k": 86.41,
+      "cci": 50.78,
+      "macd_diff": 0.1689,
+      "trend_strength": 0.9313,
+      "pivot_position": 0.9585
+    }
+  },
+  {
+    "date": "2023-08-30",
+    "signal": "sell",
+    "confidence": 1.0,
+    "price": 451.01,
+    "indicators": {
+      "rsi": 58.74,
+      "stoch_k": 96.46,
+      "cci": 108.24,
+      "macd_diff": 0.7331,
+      "trend_strength": 0.519,
+      "pivot_position": 0.7716
+    }
+  },
+  {
+    "date": "2023-08-31",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 450.35,
+    "indicators": {
+      "rsi": 57.74,
+      "stoch_k": 87.49,
+      "cci": 113.99,
+      "macd_diff": 1.0165,
+      "trend_strength": 0.4869,
+      "pivot_position": 0.0712
+    }
+  },
+  {
+    "date": "2023-09-01",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 451.19,
+    "indicators": {
+      "rsi": 58.7,
+      "stoch_k": 88.0,
+      "cci": 114.19,
+      "macd_diff": 1.2026,
+      "trend_strength": 0.4962,
+      "pivot_position": 0.3784
+    }
+  },
+  {
+    "date": "2023-09-05",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 449.24,
+    "indicators": {
+      "rsi": 55.53,
+      "stoch_k": 78.56,
+      "cci": 88.11,
+      "macd_diff": 1.137,
+      "trend_strength": 0.7884,
+      "pivot_position": 0.037
+    }
+  },
+  {
+    "date": "2023-09-06",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 446.22,
+    "indicators": {
+      "rsi": 50.93,
+      "stoch_k": 63.94,
+      "cci": 34.16,
+      "macd_diff": 0.8463,
+      "trend_strength": 0.4638,
+      "pivot_position": 0.5128
+    }
+  },
+  {
+    "date": "2023-09-07",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 444.85,
+    "indicators": {
+      "rsi": 48.95,
+      "stoch_k": 57.31,
+      "cci": 7.66,
+      "macd_diff": 0.5332,
+      "trend_strength": 0.6214,
+      "pivot_position": 0.75
+    }
+  },
+  {
+    "date": "2023-09-08",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 445.52,
+    "indicators": {
+      "rsi": 49.98,
+      "stoch_k": 56.35,
+      "cci": 31.41,
+      "macd_diff": 0.3512,
+      "trend_strength": 0.2403,
+      "pivot_position": 0.3837
+    }
+  },
+  {
+    "date": "2023-09-11",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 448.45,
+    "indicators": {
+      "rsi": 54.29,
+      "stoch_k": 72.04,
+      "cci": 63.38,
+      "macd_diff": 0.4046,
+      "trend_strength": 0.0913,
+      "pivot_position": 0.8609
+    }
+  },
+  {
+    "date": "2023-09-14",
+    "signal": "sell",
+    "confidence": 1.0,
+    "price": 450.36,
+    "indicators": {
+      "rsi": 56.76,
+      "stoch_k": 82.27,
+      "cci": 80.84,
+      "macd_diff": 0.3685,
+      "trend_strength": 0.3834,
+      "pivot_position": 0.786
+    }
+  },
+  {
+    "date": "2023-09-15",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 443.37,
+    "indicators": {
+      "rsi": 46.38,
+      "stoch_k": 24.8,
+      "cci": -4.26,
+      "macd_diff": 0.0156,
+      "trend_strength": 0.8268,
+      "pivot_position": 0.0987
+    }
+  },
+  {
+    "date": "2023-09-18",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 443.63,
+    "indicators": {
+      "rsi": 46.77,
+      "stoch_k": 10.44,
+      "cci": -29.1,
+      "macd_diff": -0.1938,
+      "trend_strength": 0.2407,
+      "pivot_position": 0.444
+    }
+  },
+  {
+    "date": "2023-09-19",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 442.71,
+    "indicators": {
+      "rsi": 45.51,
+      "stoch_k": 20.17,
+      "cci": -70.03,
+      "macd_diff": -0.3772,
+      "trend_strength": 0.009,
+      "pivot_position": 0.8269
+    }
+  },
+  {
+    "date": "2023-09-20",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 438.64,
+    "indicators": {
+      "rsi": 40.32,
+      "stoch_k": 1.38,
+      "cci": -104.3,
+      "macd_diff": -0.7348,
+      "trend_strength": 0.8943,
+      "pivot_position": 0.035
+    }
+  },
+  {
+    "date": "2023-09-21",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 431.39,
+    "indicators": {
+      "rsi": 33.1,
+      "stoch_k": 0.71,
+      "cci": -219.77,
+      "macd_diff": -1.3841,
+      "trend_strength": 0.9093,
+      "pivot_position": 0.0338
+    }
+  },
+  {
+    "date": "2023-09-22",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 430.42,
+    "indicators": {
+      "rsi": 32.26,
+      "stoch_k": 2.04,
+      "cci": -211.32,
+      "macd_diff": -1.7783,
+      "trend_strength": 0.4939,
+      "pivot_position": 0.1046
+    }
+  },
+  {
+    "date": "2023-09-25",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 432.23,
+    "indicators": {
+      "rsi": 35.52,
+      "stoch_k": 15.7,
+      "cci": -190.55,
+      "macd_diff": -1.8105,
+      "trend_strength": 0.862,
+      "pivot_position": 0.9887
+    }
+  },
+  {
+    "date": "2023-09-26",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 425.88,
+    "indicators": {
+      "rsi": 30.06,
+      "stoch_k": 3.3,
+      "cci": -196.91,
+      "macd_diff": -2.1307,
+      "trend_strength": 0.6687,
+      "pivot_position": 0.1792
+    }
+  },
+  {
+    "date": "2023-09-27",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 426.05,
+    "indicators": {
+      "rsi": 30.37,
+      "stoch_k": 13.06,
+      "cci": -170.56,
+      "macd_diff": -2.1937,
+      "trend_strength": 0.1933,
+      "pivot_position": 0.6989
+    }
+  },
+  {
+    "date": "2023-09-28",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 428.52,
+    "indicators": {
+      "rsi": 34.87,
+      "stoch_k": 21.64,
+      "cci": -122.53,
+      "macd_diff": -1.9405,
+      "trend_strength": 0.5651,
+      "pivot_position": 0.6785
+    }
+  },
+  {
+    "date": "2023-09-29",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 427.48,
+    "indicators": {
+      "rsi": 33.88,
+      "stoch_k": 18.03,
+      "cci": -101.52,
+      "macd_diff": -1.7218,
+      "trend_strength": 0.7054,
+      "pivot_position": 0.2643
+    }
+  },
+  {
+    "date": "2023-10-02",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 427.31,
+    "indicators": {
+      "rsi": 33.71,
+      "stoch_k": 17.44,
+      "cci": -100.34,
+      "macd_diff": -1.4768,
+      "trend_strength": 0.1667,
+      "pivot_position": 0.6884
+    }
+  },
+  {
+    "date": "2023-10-03",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 421.59,
+    "indicators": {
+      "rsi": 28.54,
+      "stoch_k": 4.56,
+      "cci": -114.79,
+      "macd_diff": -1.579,
+      "trend_strength": 0.4824,
+      "pivot_position": 0.196
+    }
+  },
+  {
+    "date": "2023-10-04",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 424.66,
+    "indicators": {
+      "rsi": 34.35,
+      "stoch_k": 16.41,
+      "cci": -98.71,
+      "macd_diff": -1.3289,
+      "trend_strength": 0.5318,
+      "pivot_position": 0.8419
+    }
+  },
+  {
+    "date": "2023-10-05",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 424.5,
+    "indicators": {
+      "rsi": 34.2,
+      "stoch_k": 17.43,
+      "cci": -88.39,
+      "macd_diff": -1.0742,
+      "trend_strength": 0.0333,
+      "pivot_position": 0.7929
+    }
+  },
+  {
+    "date": "2023-10-06",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 429.54,
+    "indicators": {
+      "rsi": 42.99,
+      "stoch_k": 38.59,
+      "cci": -57.55,
+      "macd_diff": -0.4957,
+      "trend_strength": 0.7192,
+      "pivot_position": 0.8494
+    }
+  },
+  {
+    "date": "2023-10-10",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 434.54,
+    "indicators": {
+      "rsi": 50.32,
+      "stoch_k": 84.27,
+      "cci": 16.41,
+      "macd_diff": 0.6701,
+      "trend_strength": 0.3412,
+      "pivot_position": 0.4286
+    }
+  },
+  {
+    "date": "2023-10-12",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 433.66,
+    "indicators": {
+      "rsi": 48.9,
+      "stoch_k": 78.58,
+      "cci": 29.24,
+      "macd_diff": 1.242,
+      "trend_strength": 0.5389,
+      "pivot_position": 0.398
+    }
+  },
+  {
+    "date": "2023-10-13",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 431.5,
+    "indicators": {
+      "rsi": 45.97,
+      "stoch_k": 65.99,
+      "cci": 21.27,
+      "macd_diff": 1.1381,
+      "trend_strength": 0.5647,
+      "pivot_position": 0.2466
+    }
+  },
+  {
+    "date": "2023-10-16",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 436.04,
+    "indicators": {
+      "rsi": 52.42,
+      "stoch_k": 92.45,
+      "cci": 75.07,
+      "macd_diff": 1.3354,
+      "trend_strength": 0.6218,
+      "pivot_position": 0.6919
+    }
+  },
+  {
+    "date": "2023-10-17",
+    "signal": "sell",
+    "confidence": 0.45,
+    "price": 436.02,
+    "indicators": {
+      "rsi": 52.39,
+      "stoch_k": 88.2,
+      "cci": 84.96,
+      "macd_diff": 1.4169,
+      "trend_strength": 0.5641,
+      "pivot_position": 0.6274
+    }
+  },
+  {
+    "date": "2023-10-18",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 430.21,
+    "indicators": {
+      "rsi": 44.51,
+      "stoch_k": 55.85,
+      "cci": 28.82,
+      "macd_diff": 1.049,
+      "trend_strength": 0.6535,
+      "pivot_position": 0.1839
+    }
+  },
+  {
+    "date": "2023-10-19",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 426.43,
+    "indicators": {
+      "rsi": 40.27,
+      "stoch_k": 34.8,
+      "cci": -25.33,
+      "macd_diff": 0.5458,
+      "trend_strength": 0.6371,
+      "pivot_position": 0.0994
+    }
+  },
+  {
+    "date": "2023-10-20",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 421.19,
+    "indicators": {
+      "rsi": 35.25,
+      "stoch_k": 5.62,
+      "cci": -111.23,
+      "macd_diff": -0.1103,
+      "trend_strength": 0.8773,
+      "pivot_position": 0.0201
+    }
+  },
+  {
+    "date": "2023-10-23",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 420.46,
+    "indicators": {
+      "rsi": 34.6,
+      "stoch_k": 13.08,
+      "cci": -130.31,
+      "macd_diff": -0.5397,
+      "trend_strength": 0.1278,
+      "pivot_position": 0.4
+    }
+  },
+  {
+    "date": "2023-10-24",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 423.63,
+    "indicators": {
+      "rsi": 39.77,
+      "stoch_k": 28.66,
+      "cci": -87.88,
+      "macd_diff": -0.5544,
+      "trend_strength": 0.2402,
+      "pivot_position": 0.7083
+    }
+  },
+  {
+    "date": "2023-10-25",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 417.55,
+    "indicators": {
+      "rsi": 34.19,
+      "stoch_k": 2.53,
+      "cci": -140.7,
+      "macd_diff": -0.8974,
+      "trend_strength": 0.8848,
+      "pivot_position": 0.1091
+    }
+  },
+  {
+    "date": "2023-10-26",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 412.55,
+    "indicators": {
+      "rsi": 30.41,
+      "stoch_k": 3.58,
+      "cci": -177.11,
+      "macd_diff": -1.3574,
+      "trend_strength": 0.6812,
+      "pivot_position": 0.1659
+    }
+  },
+  {
+    "date": "2023-10-27",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 410.68,
+    "indicators": {
+      "rsi": 29.11,
+      "stoch_k": 5.08,
+      "cci": -172.12,
+      "macd_diff": -1.6636,
+      "trend_strength": 0.6512,
+      "pivot_position": 0.2727
+    }
+  },
+  {
+    "date": "2023-10-30",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 415.59,
+    "indicators": {
+      "rsi": 36.74,
+      "stoch_k": 22.05,
+      "cci": -115.98,
+      "macd_diff": -1.4209,
+      "trend_strength": 0.4552,
+      "pivot_position": 0.7556
+    }
+  },
+  {
+    "date": "2023-10-31",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 418.2,
+    "indicators": {
+      "rsi": 40.41,
+      "stoch_k": 31.08,
+      "cci": -86.64,
+      "macd_diff": -0.9905,
+      "trend_strength": 0.4676,
+      "pivot_position": 0.9236
+    }
+  },
+  {
+    "date": "2023-11-01",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 422.66,
+    "indicators": {
+      "rsi": 46.16,
+      "stoch_k": 46.49,
+      "cci": -39.61,
+      "macd_diff": -0.3446,
+      "trend_strength": 0.7134,
+      "pivot_position": 0.8268
+    }
+  },
+  {
+    "date": "2023-11-02",
+    "signal": "sell",
+    "confidence": 0.3,
+    "price": 430.76,
+    "indicators": {
+      "rsi": 54.7,
+      "stoch_k": 74.49,
+      "cci": 33.1,
+      "macd_diff": 0.6355,
+      "trend_strength": 0.9598,
+      "pivot_position": 0.9644
+    }
+  },
+  {
+    "date": "2023-11-03",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 434.69,
+    "indicators": {
+      "rsi": 58.17,
+      "stoch_k": 88.07,
+      "cci": 76.24,
+      "macd_diff": 1.5062,
+      "trend_strength": 0.4726,
+      "pivot_position": 0.5122
+    }
+  },
+  {
+    "date": "2023-11-06",
+    "signal": "sell",
+    "confidence": 0.55,
+    "price": 435.69,
+    "indicators": {
+      "rsi": 59.03,
+      "stoch_k": 97.78,
+      "cci": 76.76,
+      "macd_diff": 2.0722,
+      "trend_strength": 0.0891,
+      "pivot_position": 0.8138
+    }
+  },
+  {
+    "date": "2023-11-07",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 436.93,
+    "indicators": {
+      "rsi": 60.12,
+      "stoch_k": 97.69,
+      "cci": 85.67,
+      "macd_diff": 2.4282,
+      "trend_strength": 0.4033,
+      "pivot_position": 0.787
+    }
+  },
+  {
+    "date": "2023-11-08",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 437.25,
+    "indicators": {
+      "rsi": 60.42,
+      "stoch_k": 97.09,
+      "cci": 87.83,
+      "macd_diff": 2.5697,
+      "trend_strength": 0.0932,
+      "pivot_position": 0.7391
+    }
+  },
+  {
+    "date": "2023-11-10",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 440.61,
+    "indicators": {
+      "rsi": 62.04,
+      "stoch_k": 98.99,
+      "cci": 95.88,
+      "macd_diff": 2.4963,
+      "trend_strength": 0.6524,
+      "pivot_position": 0.9549
+    }
+  },
+  {
+    "date": "2023-11-13",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 440.19,
+    "indicators": {
+      "rsi": 61.45,
+      "stoch_k": 96.45,
+      "cci": 104.24,
+      "macd_diff": 2.4542,
+      "trend_strength": 0.3299,
+      "pivot_position": 0.6082
+    }
+  },
+  {
+    "date": "2023-11-14",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 448.73,
+    "indicators": {
+      "rsi": 68.06,
+      "stoch_k": 96.74,
+      "cci": 156.24,
+      "macd_diff": 2.8469,
+      "trend_strength": 0.6071,
+      "pivot_position": 0.665
+    }
+  },
+  {
+    "date": "2023-11-15",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 449.68,
+    "indicators": {
+      "rsi": 68.71,
+      "stoch_k": 95.97,
+      "cci": 146.95,
+      "macd_diff": 3.0006,
+      "trend_strength": 0.1667,
+      "pivot_position": 0.3411
+    }
+  },
+  {
+    "date": "2023-11-16",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 450.23,
+    "indicators": {
+      "rsi": 69.09,
+      "stoch_k": 97.06,
+      "cci": 124.85,
+      "macd_diff": 2.9642,
+      "trend_strength": 0.4139,
+      "pivot_position": 0.8648
+    }
+  },
+  {
+    "date": "2023-11-17",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 450.79,
+    "indicators": {
+      "rsi": 69.51,
+      "stoch_k": 98.31,
+      "cci": 115.63,
+      "macd_diff": 2.8044,
+      "trend_strength": 0.2582,
+      "pivot_position": 0.7042
+    }
+  },
+  {
+    "date": "2023-11-20",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 454.26,
+    "indicators": {
+      "rsi": 72.01,
+      "stoch_k": 97.63,
+      "cci": 119.97,
+      "macd_diff": 2.7549,
+      "trend_strength": 0.81,
+      "pivot_position": 0.8122
+    }
+  },
+  {
+    "date": "2023-11-21",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 453.27,
+    "indicators": {
+      "rsi": 70.24,
+      "stoch_k": 93.51,
+      "cci": 109.41,
+      "macd_diff": 2.4863,
+      "trend_strength": 0.0395,
+      "pivot_position": 0.6034
+    }
+  },
+  {
+    "date": "2023-11-22",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 455.02,
+    "indicators": {
+      "rsi": 71.57,
+      "stoch_k": 94.18,
+      "cci": 111.43,
+      "macd_diff": 2.2636,
+      "trend_strength": 0.0161,
+      "pivot_position": 0.4539
+    }
+  },
+  {
+    "date": "2023-11-24",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 455.3,
+    "indicators": {
+      "rsi": 71.79,
+      "stoch_k": 95.3,
+      "cci": 101.8,
+      "macd_diff": 1.9824,
+      "trend_strength": 0.2987,
+      "pivot_position": 0.7403
+    }
+  },
+  {
+    "date": "2023-11-27",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 454.48,
+    "indicators": {
+      "rsi": 70.1,
+      "stoch_k": 91.73,
+      "cci": 89.77,
+      "macd_diff": 1.6045,
+      "trend_strength": 0.1206,
+      "pivot_position": 0.2837
+    }
+  },
+  {
+    "date": "2023-11-28",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 454.93,
+    "indicators": {
+      "rsi": 70.51,
+      "stoch_k": 93.69,
+      "cci": 82.89,
+      "macd_diff": 1.2633,
+      "trend_strength": 0.3069,
+      "pivot_position": 0.5162
+    }
+  },
+  {
+    "date": "2023-11-29",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 454.61,
+    "indicators": {
+      "rsi": 69.78,
+      "stoch_k": 85.11,
+      "cci": 81.98,
+      "macd_diff": 0.9109,
+      "trend_strength": 0.6165,
+      "pivot_position": 0.0995
+    }
+  },
+  {
+    "date": "2023-11-30",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 456.4,
+    "indicators": {
+      "rsi": 71.56,
+      "stoch_k": 92.16,
+      "cci": 75.78,
+      "macd_diff": 0.7025,
+      "trend_strength": 0.269,
+      "pivot_position": 0.8947
+    }
+  },
+  {
+    "date": "2023-12-01",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 459.1,
+    "indicators": {
+      "rsi": 74.05,
+      "stoch_k": 97.41,
+      "cci": 91.58,
+      "macd_diff": 0.6518,
+      "trend_strength": 0.7416,
+      "pivot_position": 0.8775
+    }
+  },
+  {
+    "date": "2023-12-04",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 456.69,
+    "indicators": {
+      "rsi": 68.3,
+      "stoch_k": 78.17,
+      "cci": 76.91,
+      "macd_diff": 0.375,
+      "trend_strength": 0.228,
+      "pivot_position": 0.4916
+    }
+  },
+  {
+    "date": "2023-12-05",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 456.6,
+    "indicators": {
+      "rsi": 68.09,
+      "stoch_k": 73.55,
+      "cci": 70.47,
+      "macd_diff": 0.1182,
+      "trend_strength": 0.4926,
+      "pivot_position": 0.636
+    }
+  },
+  {
+    "date": "2023-12-06",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 454.76,
+    "indicators": {
+      "rsi": 63.73,
+      "stoch_k": 57.59,
+      "cci": 62.57,
+      "macd_diff": -0.2246,
+      "trend_strength": 0.894,
+      "pivot_position": 0.0993
+    }
+  },
+  {
+    "date": "2023-12-07",
+    "signal": "sell",
+    "confidence": 1.0,
+    "price": 458.23,
+    "indicators": {
+      "rsi": 67.9,
+      "stoch_k": 86.29,
+      "cci": 81.23,
+      "macd_diff": -0.2639,
+      "trend_strength": 0.5057,
+      "pivot_position": 0.7433
+    }
+  },
+  {
+    "date": "2023-12-08",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 460.2,
+    "indicators": {
+      "rsi": 70.02,
+      "stoch_k": 94.67,
+      "cci": 105.72,
+      "macd_diff": -0.206,
+      "trend_strength": 0.7751,
+      "pivot_position": 0.8458
+    }
+  },
+  {
+    "date": "2023-12-11",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 461.99,
+    "indicators": {
+      "rsi": 71.83,
+      "stoch_k": 98.24,
+      "cci": 141.56,
+      "macd_diff": -0.1013,
+      "trend_strength": 0.8519,
+      "pivot_position": 0.9333
+    }
+  },
+  {
+    "date": "2023-12-12",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 464.1,
+    "indicators": {
+      "rsi": 73.84,
+      "stoch_k": 99.08,
+      "cci": 188.23,
+      "macd_diff": 0.0479,
+      "trend_strength": 0.6861,
+      "pivot_position": 0.9722
+    }
+  },
+  {
+    "date": "2023-12-13",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 470.5,
+    "indicators": {
+      "rsi": 78.78,
+      "stoch_k": 98.51,
+      "cci": 262.35,
+      "macd_diff": 0.4909,
+      "trend_strength": 0.9051,
+      "pivot_position": 0.9609
+    }
+  },
+  {
+    "date": "2023-12-14",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 472.01,
+    "indicators": {
+      "rsi": 79.75,
+      "stoch_k": 91.56,
+      "cci": 249.79,
+      "macd_diff": 0.7816,
+      "trend_strength": 0.1094,
+      "pivot_position": 0.6161
+    }
+  },
+  {
+    "date": "2023-12-15",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 469.33,
+    "indicators": {
+      "rsi": 73.33,
+      "stoch_k": 78.42,
+      "cci": 167.96,
+      "macd_diff": 0.6924,
+      "trend_strength": 0.0489,
+      "pivot_position": 0.5815
+    }
+  },
+  {
+    "date": "2023-12-18",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 471.97,
+    "indicators": {
+      "rsi": 75.43,
+      "stoch_k": 91.37,
+      "cci": 166.73,
+      "macd_diff": 0.7077,
+      "trend_strength": 0.3207,
+      "pivot_position": 0.6728
+    }
+  },
+  {
+    "date": "2023-12-19",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 474.84,
+    "indicators": {
+      "rsi": 77.5,
+      "stoch_k": 99.63,
+      "cci": 161.57,
+      "macd_diff": 0.8008,
+      "trend_strength": 0.9352,
+      "pivot_position": 0.9676
+    }
+  },
+  {
+    "date": "2023-12-20",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 468.26,
+    "indicators": {
+      "rsi": 64.15,
+      "stoch_k": 64.63,
+      "cci": 104.83,
+      "macd_diff": 0.3329,
+      "trend_strength": 0.7059,
+      "pivot_position": 0.0545
+    }
+  },
+  {
+    "date": "2023-12-21",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 472.7,
+    "indicators": {
+      "rsi": 68.14,
+      "stoch_k": 85.2,
+      "cci": 99.02,
+      "macd_diff": 0.2403,
+      "trend_strength": 0.3313,
+      "pivot_position": 0.9335
+    }
+  },
+  {
+    "date": "2023-12-22",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 473.65,
+    "indicators": {
+      "rsi": 68.93,
+      "stoch_k": 89.6,
+      "cci": 105.7,
+      "macd_diff": 0.1646,
+      "trend_strength": 0.0571,
+      "pivot_position": 0.5299
+    }
+  },
+  {
+    "date": "2023-12-26",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 475.65,
+    "indicators": {
+      "rsi": 70.6,
+      "stoch_k": 95.82,
+      "cci": 108.6,
+      "macd_diff": 0.1701,
+      "trend_strength": 0.61,
+      "pivot_position": 0.6409
+    }
+  },
+  {
+    "date": "2023-12-27",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 476.51,
+    "indicators": {
+      "rsi": 71.31,
+      "stoch_k": 99.26,
+      "cci": 102.28,
+      "macd_diff": 0.1531,
+      "trend_strength": 0.6045,
+      "pivot_position": 0.9153
+    }
+  },
+  {
+    "date": "2023-12-28",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 476.69,
+    "indicators": {
+      "rsi": 71.47,
+      "stoch_k": 95.77,
+      "cci": 99.83,
+      "macd_diff": 0.0791,
+      "trend_strength": 0.1473,
+      "pivot_position": 0.3333
+    }
+  },
+  {
+    "date": "2023-12-29",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 475.31,
+    "indicators": {
+      "rsi": 68.4,
+      "stoch_k": 87.61,
+      "cci": 78.53,
+      "macd_diff": -0.1266,
+      "trend_strength": 0.3164,
+      "pivot_position": 0.5389
+    }
+  },
+  {
+    "date": "2024-01-02",
+    "signal": "sell",
+    "confidence": 0.55,
+    "price": 472.65,
+    "indicators": {
+      "rsi": 62.8,
+      "stoch_k": 71.09,
+      "cci": 45.77,
+      "macd_diff": -0.4853,
+      "trend_strength": 0.1541,
+      "pivot_position": 0.6792
+    }
+  },
+  {
+    "date": "2024-01-05",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 467.92,
+    "indicators": {
+      "rsi": 54.1,
+      "stoch_k": 13.4,
+      "cci": -22.61,
+      "macd_diff": -1.6373,
+      "trend_strength": 0.1072,
+      "pivot_position": 0.3716
+    }
+  },
+  {
+    "date": "2024-01-08",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 474.6,
+    "indicators": {
+      "rsi": 62.65,
+      "stoch_k": 73.47,
+      "cci": 39.01,
+      "macd_diff": -1.3149,
+      "trend_strength": 0.9566,
+      "pivot_position": 0.9767
+    }
+  },
+  {
+    "date": "2024-01-09",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 473.88,
+    "indicators": {
+      "rsi": 61.33,
+      "stoch_k": 67.0,
+      "cci": 49.24,
+      "macd_diff": -1.1432,
+      "trend_strength": 0.5615,
+      "pivot_position": 0.7067
+    }
+  },
+  {
+    "date": "2024-01-10",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 476.56,
+    "indicators": {
+      "rsi": 64.35,
+      "stoch_k": 91.1,
+      "cci": 102.53,
+      "macd_diff": -0.8553,
+      "trend_strength": 0.6707,
+      "pivot_position": 0.7518
+    }
+  },
+  {
+    "date": "2024-01-11",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 476.35,
+    "indicators": {
+      "rsi": 63.93,
+      "stoch_k": 84.86,
+      "cci": 86.94,
+      "macd_diff": -0.6923,
+      "trend_strength": 0.2116,
+      "pivot_position": 0.698
+    }
+  },
+  {
+    "date": "2024-01-12",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 476.68,
+    "indicators": {
+      "rsi": 64.33,
+      "stoch_k": 84.22,
+      "cci": 110.24,
+      "macd_diff": -0.5799,
+      "trend_strength": 0.3442,
+      "pivot_position": 0.4303
+    }
+  },
+  {
+    "date": "2024-01-16",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 474.93,
+    "indicators": {
+      "rsi": 60.53,
+      "stoch_k": 69.84,
+      "cci": 49.91,
+      "macd_diff": -0.6367,
+      "trend_strength": 0.093,
+      "pivot_position": 0.5268
+    }
+  },
+  {
+    "date": "2024-01-17",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 472.29,
+    "indicators": {
+      "rsi": 55.24,
+      "stoch_k": 48.15,
+      "cci": -46.02,
+      "macd_diff": -0.8518,
+      "trend_strength": 0.161,
+      "pivot_position": 0.8288
+    }
+  },
+  {
+    "date": "2024-01-18",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 476.49,
+    "indicators": {
+      "rsi": 61.07,
+      "stoch_k": 82.66,
+      "cci": 57.56,
+      "macd_diff": -0.7165,
+      "trend_strength": 0.5345,
+      "pivot_position": 0.8772
+    }
+  },
+  {
+    "date": "2024-01-19",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 482.43,
+    "indicators": {
+      "rsi": 67.52,
+      "stoch_k": 98.22,
+      "cci": 179.32,
+      "macd_diff": -0.2559,
+      "trend_strength": 0.7731,
+      "pivot_position": 0.9531
+    }
+  },
+  {
+    "date": "2024-01-22",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 483.45,
+    "indicators": {
+      "rsi": 68.48,
+      "stoch_k": 90.58,
+      "cci": 222.28,
+      "macd_diff": 0.071,
+      "trend_strength": 0.2295,
+      "pivot_position": 0.2746
+    }
+  },
+  {
+    "date": "2024-01-23",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 484.86,
+    "indicators": {
+      "rsi": 69.82,
+      "stoch_k": 98.08,
+      "cci": 201.28,
+      "macd_diff": 0.3217,
+      "trend_strength": 0.3837,
+      "pivot_position": 0.8894
+    }
+  },
+  {
+    "date": "2024-01-24",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 485.39,
+    "indicators": {
+      "rsi": 70.33,
+      "stoch_k": 84.87,
+      "cci": 201.08,
+      "macd_diff": 0.4547,
+      "trend_strength": 0.6224,
+      "pivot_position": 0.1307
+    }
+  },
+  {
+    "date": "2024-01-25",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 488.03,
+    "indicators": {
+      "rsi": 72.79,
+      "stoch_k": 96.69,
+      "cci": 173.63,
+      "macd_diff": 0.6404,
+      "trend_strength": 0.1561,
+      "pivot_position": 0.9057
+    }
+  },
+  {
+    "date": "2024-01-26",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 487.41,
+    "indicators": {
+      "rsi": 71.29,
+      "stoch_k": 91.79,
+      "cci": 147.78,
+      "macd_diff": 0.64,
+      "trend_strength": 0.0698,
+      "pivot_position": 0.3372
+    }
+  },
+  {
+    "date": "2024-01-29",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 491.27,
+    "indicators": {
+      "rsi": 74.77,
+      "stoch_k": 99.33,
+      "cci": 144.51,
+      "macd_diff": 0.8074,
+      "trend_strength": 0.8339,
+      "pivot_position": 0.9658
+    }
+  },
+  {
+    "date": "2024-01-30",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 490.89,
+    "indicators": {
+      "rsi": 73.82,
+      "stoch_k": 96.64,
+      "cci": 130.01,
+      "macd_diff": 0.7988,
+      "trend_strength": 0.2185,
+      "pivot_position": 0.5166
+    }
+  },
+  {
+    "date": "2024-01-31",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 482.88,
+    "indicators": {
+      "rsi": 57.33,
+      "stoch_k": 59.82,
+      "cci": 61.38,
+      "macd_diff": 0.1915,
+      "trend_strength": 0.9226,
+      "pivot_position": 0.0032
+    }
+  },
+  {
+    "date": "2024-02-01",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 489.2,
+    "indicators": {
+      "rsi": 64.14,
+      "stoch_k": 88.87,
+      "cci": 77.91,
+      "macd_diff": 0.1549,
+      "trend_strength": 0.8416,
+      "pivot_position": 0.9945
+    }
+  },
+  {
+    "date": "2024-02-02",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 494.35,
+    "indicators": {
+      "rsi": 68.54,
+      "stoch_k": 93.51,
+      "cci": 124.3,
+      "macd_diff": 0.403,
+      "trend_strength": 0.6963,
+      "pivot_position": 0.7481
+    }
+  },
+  {
+    "date": "2024-02-05",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 492.55,
+    "indicators": {
+      "rsi": 65.51,
+      "stoch_k": 86.63,
+      "cci": 106.49,
+      "macd_diff": 0.3719,
+      "trend_strength": 0.276,
+      "pivot_position": 0.5593
+    }
+  },
+  {
+    "date": "2024-02-06",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 493.98,
+    "indicators": {
+      "rsi": 66.77,
+      "stoch_k": 91.24,
+      "cci": 108.99,
+      "macd_diff": 0.3729,
+      "trend_strength": 0.2026,
+      "pivot_position": 0.8502
+    }
+  },
+  {
+    "date": "2024-02-07",
+    "signal": "sell",
+    "confidence": 1.0,
+    "price": 498.1,
+    "indicators": {
+      "rsi": 70.14,
+      "stoch_k": 98.04,
+      "cci": 139.22,
+      "macd_diff": 0.5647,
+      "trend_strength": 0.571,
+      "pivot_position": 0.8644
+    }
+  },
+  {
+    "date": "2024-02-08",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 498.32,
+    "indicators": {
+      "rsi": 70.32,
+      "stoch_k": 97.55,
+      "cci": 133.41,
+      "macd_diff": 0.6158,
+      "trend_strength": 0.1517,
+      "pivot_position": 0.731
+    }
+  },
+  {
+    "date": "2024-02-09",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 501.2,
+    "indicators": {
+      "rsi": 72.56,
+      "stoch_k": 97.61,
+      "cci": 144.24,
+      "macd_diff": 0.7445,
+      "trend_strength": 0.7468,
+      "pivot_position": 0.8576
+    }
+  },
+  {
+    "date": "2024-02-12",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 500.98,
+    "indicators": {
+      "rsi": 72.11,
+      "stoch_k": 87.79,
+      "cci": 139.15,
+      "macd_diff": 0.7155,
+      "trend_strength": 0.0583,
+      "pivot_position": 0.227
+    }
+  },
+  {
+    "date": "2024-02-13",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 494.08,
+    "indicators": {
+      "rsi": 59.65,
+      "stoch_k": 54.36,
+      "cci": 53.9,
+      "macd_diff": 0.1612,
+      "trend_strength": 0.0706,
+      "pivot_position": 0.5278
+    }
+  },
+  {
+    "date": "2024-02-14",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 498.57,
+    "indicators": {
+      "rsi": 64.01,
+      "stoch_k": 76.11,
+      "cci": 84.39,
+      "macd_diff": 0.0333,
+      "trend_strength": 0.3812,
+      "pivot_position": 0.8929
+    }
+  },
+  {
+    "date": "2024-02-15",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 502.01,
+    "indicators": {
+      "rsi": 66.96,
+      "stoch_k": 92.78,
+      "cci": 118.62,
+      "macd_diff": 0.1123,
+      "trend_strength": 0.7988,
+      "pivot_position": 0.9442
+    }
+  },
+  {
+    "date": "2024-02-16",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 499.51,
+    "indicators": {
+      "rsi": 62.93,
+      "stoch_k": 80.67,
+      "cci": 101.94,
+      "macd_diff": -0.0626,
+      "trend_strength": 0.5316,
+      "pivot_position": 0.1845
+    }
+  },
+  {
+    "date": "2024-02-20",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 496.76,
+    "indicators": {
+      "rsi": 58.74,
+      "stoch_k": 67.34,
+      "cci": 46.16,
+      "macd_diff": -0.4032,
+      "trend_strength": 0.2424,
+      "pivot_position": 0.5833
+    }
+  },
+  {
+    "date": "2024-02-21",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 497.21,
+    "indicators": {
+      "rsi": 59.22,
+      "stoch_k": 68.07,
+      "cci": 33.4,
+      "macd_diff": -0.6246,
+      "trend_strength": 0.4698,
+      "pivot_position": 0.958
+    }
+  },
+  {
+    "date": "2024-02-22",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 507.5,
+    "indicators": {
+      "rsi": 68.27,
+      "stoch_k": 94.84,
+      "cci": 163.55,
+      "macd_diff": -0.1305,
+      "trend_strength": 0.638,
+      "pivot_position": 0.819
+    }
+  },
+  {
+    "date": "2024-02-23",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 507.85,
+    "indicators": {
+      "rsi": 68.53,
+      "stoch_k": 88.54,
+      "cci": 170.27,
+      "macd_diff": 0.1523,
+      "trend_strength": 0.4686,
+      "pivot_position": 0.2475
+    }
+  },
+  {
+    "date": "2024-02-26",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 505.99,
+    "indicators": {
+      "rsi": 65.5,
+      "stoch_k": 78.68,
+      "cci": 135.3,
+      "macd_diff": 0.1464,
+      "trend_strength": 0.7993,
+      "pivot_position": 0.045
+    }
+  },
+  {
+    "date": "2024-02-27",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 506.93,
+    "indicators": {
+      "rsi": 66.31,
+      "stoch_k": 83.52,
+      "cci": 113.9,
+      "macd_diff": 0.1381,
+      "trend_strength": 0.0954,
+      "pivot_position": 0.9046
+    }
+  },
+  {
+    "date": "2024-02-28",
+    "signal": "sell",
+    "confidence": 1.0,
+    "price": 506.26,
+    "indicators": {
+      "rsi": 65.14,
+      "stoch_k": 80.07,
+      "cci": 98.39,
+      "macd_diff": 0.0259,
+      "trend_strength": 0.4908,
+      "pivot_position": 0.686
+    }
+  },
+  {
+    "date": "2024-02-29",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 508.08,
+    "indicators": {
+      "rsi": 66.86,
+      "stoch_k": 89.44,
+      "cci": 110.01,
+      "macd_diff": 0.0131,
+      "trend_strength": 0.0023,
+      "pivot_position": 0.6219
+    }
+  },
+  {
+    "date": "2024-03-01",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 512.85,
+    "indicators": {
+      "rsi": 70.9,
+      "stoch_k": 98.05,
+      "cci": 147.18,
+      "macd_diff": 0.2516,
+      "trend_strength": 0.8182,
+      "pivot_position": 0.907
+    }
+  },
+  {
+    "date": "2024-03-04",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 512.3,
+    "indicators": {
+      "rsi": 69.84,
+      "stoch_k": 91.91,
+      "cci": 141.91,
+      "macd_diff": 0.295,
+      "trend_strength": 0.1227,
+      "pivot_position": 0.1364
+    }
+  },
+  {
+    "date": "2024-03-06",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 509.75,
+    "indicators": {
+      "rsi": 63.33,
+      "stoch_k": 78.44,
+      "cci": 89.29,
+      "macd_diff": -0.2028,
+      "trend_strength": 0.2192,
+      "pivot_position": 0.3645
+    }
+  },
+  {
+    "date": "2024-03-07",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 514.81,
+    "indicators": {
+      "rsi": 67.82,
+      "stoch_k": 95.16,
+      "cci": 120.73,
+      "macd_diff": -0.0049,
+      "trend_strength": 0.2745,
+      "pivot_position": 0.8225
+    }
+  },
+  {
+    "date": "2024-03-08",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 511.72,
+    "indicators": {
+      "rsi": 62.77,
+      "stoch_k": 73.64,
+      "cci": 112.66,
+      "macd_diff": -0.1357,
+      "trend_strength": 0.5275,
+      "pivot_position": 0.0832
+    }
+  },
+  {
+    "date": "2024-03-11",
+    "signal": "sell",
+    "confidence": 0.55,
+    "price": 511.28,
+    "indicators": {
+      "rsi": 62.06,
+      "stoch_k": 71.86,
+      "cci": 67.14,
+      "macd_diff": -0.2961,
+      "trend_strength": 0.2367,
+      "pivot_position": 0.8225
+    }
+  },
+  {
+    "date": "2024-03-12",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 516.78,
+    "indicators": {
+      "rsi": 67.06,
+      "stoch_k": 90.53,
+      "cci": 115.96,
+      "macd_diff": -0.087,
+      "trend_strength": 0.5107,
+      "pivot_position": 0.908
+    }
+  },
+  {
+    "date": "2024-03-13",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 515.97,
+    "indicators": {
+      "rsi": 65.69,
+      "stoch_k": 83.3,
+      "cci": 121.76,
+      "macd_diff": -0.0596,
+      "trend_strength": 0.4071,
+      "pivot_position": 0.5286
+    }
+  },
+  {
+    "date": "2024-03-14",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 514.95,
+    "indicators": {
+      "rsi": 63.91,
+      "stoch_k": 75.72,
+      "cci": 96.12,
+      "macd_diff": -0.161,
+      "trend_strength": 0.3808,
+      "pivot_position": 0.59
+    }
+  },
+  {
+    "date": "2024-03-15",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 509.83,
+    "indicators": {
+      "rsi": 55.77,
+      "stoch_k": 37.71,
+      "cci": 21.72,
+      "macd_diff": -0.599,
+      "trend_strength": 0.1062,
+      "pivot_position": 0.4774
+    }
+  },
+  {
+    "date": "2024-03-18",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 512.86,
+    "indicators": {
+      "rsi": 59.09,
+      "stoch_k": 59.73,
+      "cci": 72.95,
+      "macd_diff": -0.7035,
+      "trend_strength": 0.375,
+      "pivot_position": 0.1382
+    }
+  },
+  {
+    "date": "2024-03-19",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 515.71,
+    "indicators": {
+      "rsi": 61.98,
+      "stoch_k": 81.14,
+      "cci": 80.18,
+      "macd_diff": -0.6034,
+      "trend_strength": 0.7303,
+      "pivot_position": 0.9415
+    }
+  },
+  {
+    "date": "2024-03-20",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 520.48,
+    "indicators": {
+      "rsi": 66.28,
+      "stoch_k": 99.11,
+      "cci": 157.29,
+      "macd_diff": -0.2564,
+      "trend_strength": 0.8502,
+      "pivot_position": 0.9747
+    }
+  },
+  {
+    "date": "2024-03-21",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 522.2,
+    "indicators": {
+      "rsi": 67.7,
+      "stoch_k": 90.05,
+      "cci": 204.77,
+      "macd_diff": 0.0331,
+      "trend_strength": 0.5409,
+      "pivot_position": 0.1318
+    }
+  },
+  {
+    "date": "2024-03-22",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 521.21,
+    "indicators": {
+      "rsi": 65.98,
+      "stoch_k": 84.9,
+      "cci": 159.74,
+      "macd_diff": 0.0984,
+      "trend_strength": 0.5505,
+      "pivot_position": 0.1468
+    }
+  },
+  {
+    "date": "2024-03-25",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 519.77,
+    "indicators": {
+      "rsi": 63.45,
+      "stoch_k": 72.85,
+      "cci": 121.4,
+      "macd_diff": -0.0093,
+      "trend_strength": 0.0224,
+      "pivot_position": 0.1194
+    }
+  },
+  {
+    "date": "2024-03-26",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 518.81,
+    "indicators": {
+      "rsi": 61.76,
+      "stoch_k": 66.85,
+      "cci": 101.83,
+      "macd_diff": -0.189,
+      "trend_strength": 0.761,
+      "pivot_position": 0.1289
+    }
+  },
+  {
+    "date": "2024-03-27",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 523.17,
+    "indicators": {
+      "rsi": 66.18,
+      "stoch_k": 94.12,
+      "cci": 127.86,
+      "macd_diff": -0.0646,
+      "trend_strength": 0.3919,
+      "pivot_position": 0.9893
+    }
+  },
+  {
+    "date": "2024-03-28",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 523.07,
+    "indicators": {
+      "rsi": 65.99,
+      "stoch_k": 90.66,
+      "cci": 133.36,
+      "macd_diff": -0.0405,
+      "trend_strength": 0.0765,
+      "pivot_position": 0.1585
+    }
+  },
+  {
+    "date": "2024-04-01",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 522.16,
+    "indicators": {
+      "rsi": 64.2,
+      "stoch_k": 85.14,
+      "cci": 101.9,
+      "macd_diff": -0.1321,
+      "trend_strength": 0.4897,
+      "pivot_position": 0.349
+    }
+  },
+  {
+    "date": "2024-04-02",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 518.84,
+    "indicators": {
+      "rsi": 58.01,
+      "stoch_k": 65.0,
+      "cci": 27.73,
+      "macd_diff": -0.445,
+      "trend_strength": 0.24,
+      "pivot_position": 0.944
+    }
+  },
+  {
+    "date": "2024-04-03",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 519.41,
+    "indicators": {
+      "rsi": 58.74,
+      "stoch_k": 68.46,
+      "cci": 41.15,
+      "macd_diff": -0.631,
+      "trend_strength": 0.5145,
+      "pivot_position": 0.5312
+    }
+  },
+  {
+    "date": "2024-04-05",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 518.43,
+    "indicators": {
+      "rsi": 55.57,
+      "stoch_k": 54.19,
+      "cci": 2.64,
+      "macd_diff": -1.1452,
+      "trend_strength": 0.6174,
+      "pivot_position": 0.6874
+    }
+  },
+  {
+    "date": "2024-04-09",
+    "signal": "sell",
+    "confidence": 0.55,
+    "price": 519.32,
+    "indicators": {
+      "rsi": 56.68,
+      "stoch_k": 55.38,
+      "cci": 0.09,
+      "macd_diff": -1.0094,
+      "trend_strength": 0.1844,
+      "pivot_position": 0.7766
+    }
+  },
+  {
+    "date": "2024-04-10",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 514.12,
+    "indicators": {
+      "rsi": 48.82,
+      "stoch_k": 16.21,
+      "cci": -94.08,
+      "macd_diff": -1.2721,
+      "trend_strength": 0.1572,
+      "pivot_position": 0.4988
+    }
+  },
+  {
+    "date": "2024-04-11",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 518.0,
+    "indicators": {
+      "rsi": 53.95,
+      "stoch_k": 47.25,
+      "cci": -38.45,
+      "macd_diff": -1.1576,
+      "trend_strength": 0.3135,
+      "pivot_position": 0.8
+    }
+  },
+  {
+    "date": "2024-04-12",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 510.85,
+    "indicators": {
+      "rsi": 44.99,
+      "stoch_k": 11.4,
+      "cci": -137.72,
+      "macd_diff": -1.5139,
+      "trend_strength": 0.5226,
+      "pivot_position": 0.2628
+    }
+  },
+  {
+    "date": "2024-04-15",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 504.45,
+    "indicators": {
+      "rsi": 38.79,
+      "stoch_k": 4.14,
+      "cci": -219.75,
+      "macd_diff": -2.0953,
+      "trend_strength": 0.9113,
+      "pivot_position": 0.0742
+    }
+  },
+  {
+    "date": "2024-04-16",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 503.53,
+    "indicators": {
+      "rsi": 37.98,
+      "stoch_k": 5.89,
+      "cci": -242.83,
+      "macd_diff": -2.4328,
+      "trend_strength": 0.3287,
+      "pivot_position": 0.3077
+    }
+  },
+  {
+    "date": "2024-04-17",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 500.55,
+    "indicators": {
+      "rsi": 35.39,
+      "stoch_k": 5.61,
+      "cci": -221.69,
+      "macd_diff": -2.7257,
+      "trend_strength": 0.7746,
+      "pivot_position": 0.2014
+    }
+  },
+  {
+    "date": "2024-04-18",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 499.52,
+    "indicators": {
+      "rsi": 34.52,
+      "stoch_k": 3.72,
+      "cci": -184.53,
+      "macd_diff": -2.8445,
+      "trend_strength": 0.4417,
+      "pivot_position": 0.1724
+    }
+  },
+  {
+    "date": "2024-04-19",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 495.16,
+    "indicators": {
+      "rsi": 31.03,
+      "stoch_k": 4.33,
+      "cci": -185.62,
+      "macd_diff": -3.0542,
+      "trend_strength": 0.649,
+      "pivot_position": 0.1971
+    }
+  },
+  {
+    "date": "2024-04-22",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 499.72,
+    "indicators": {
+      "rsi": 38.08,
+      "stoch_k": 19.53,
+      "cci": -132.12,
+      "macd_diff": -2.7335,
+      "trend_strength": 0.2719,
+      "pivot_position": 0.6173
+    }
+  },
+  {
+    "date": "2024-04-23",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 505.65,
+    "indicators": {
+      "rsi": 45.84,
+      "stoch_k": 39.29,
+      "cci": -78.72,
+      "macd_diff": -2.0035,
+      "trend_strength": 0.5902,
+      "pivot_position": 0.9329
+    }
+  },
+  {
+    "date": "2024-04-24",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 505.41,
+    "indicators": {
+      "rsi": 45.59,
+      "stoch_k": 42.95,
+      "cci": -57.99,
+      "macd_diff": -1.4445,
+      "trend_strength": 0.2712,
+      "pivot_position": 0.5377
+    }
+  },
+  {
+    "date": "2024-04-25",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 503.49,
+    "indicators": {
+      "rsi": 43.55,
+      "stoch_k": 35.81,
+      "cci": -79.15,
+      "macd_diff": -1.1259,
+      "trend_strength": 0.6357,
+      "pivot_position": 0.885
+    }
+  },
+  {
+    "date": "2024-04-29",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 510.06,
+    "indicators": {
+      "rsi": 51.68,
+      "stoch_k": 63.23,
+      "cci": -1.28,
+      "macd_diff": -0.0188,
+      "trend_strength": 0.0086,
+      "pivot_position": 0.8029
+    }
+  },
+  {
+    "date": "2024-04-30",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 501.98,
+    "indicators": {
+      "rsi": 43.03,
+      "stoch_k": 31.69,
+      "cci": -45.21,
+      "macd_diff": -0.1846,
+      "trend_strength": 0.8681,
+      "pivot_position": 0.0
+    }
+  },
+  {
+    "date": "2024-05-01",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 500.35,
+    "indicators": {
+      "rsi": 41.52,
+      "stoch_k": 29.56,
+      "cci": -58.05,
+      "macd_diff": -0.3636,
+      "trend_strength": 0.1237,
+      "pivot_position": 0.0583
+    }
+  },
+  {
+    "date": "2024-05-02",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 505.03,
+    "indicators": {
+      "rsi": 47.24,
+      "stoch_k": 52.1,
+      "cci": -45.22,
+      "macd_diff": -0.1379,
+      "trend_strength": 0.1388,
+      "pivot_position": 0.8644
+    }
+  },
+  {
+    "date": "2024-05-03",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 511.29,
+    "indicators": {
+      "rsi": 53.76,
+      "stoch_k": 93.26,
+      "cci": 48.35,
+      "macd_diff": 0.4308,
+      "trend_strength": 0.0326,
+      "pivot_position": 0.6842
+    }
+  },
+  {
+    "date": "2024-05-06",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 516.57,
+    "indicators": {
+      "rsi": 58.43,
+      "stoch_k": 99.82,
+      "cci": 113.98,
+      "macd_diff": 1.1211,
+      "trend_strength": 0.852,
+      "pivot_position": 0.9879
+    }
+  },
+  {
+    "date": "2024-05-07",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 517.14,
+    "indicators": {
+      "rsi": 58.91,
+      "stoch_k": 94.21,
+      "cci": 140.46,
+      "macd_diff": 1.5484,
+      "trend_strength": 0.1981,
+      "pivot_position": 0.3255
+    }
+  },
+  {
+    "date": "2024-05-08",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 517.19,
+    "indicators": {
+      "rsi": 58.96,
+      "stoch_k": 94.42,
+      "cci": 126.01,
+      "macd_diff": 1.7516,
+      "trend_strength": 0.7423,
+      "pivot_position": 0.7885
+    }
+  },
+  {
+    "date": "2024-05-09",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 520.17,
+    "indicators": {
+      "rsi": 61.65,
+      "stoch_k": 99.85,
+      "cci": 150.47,
+      "macd_diff": 1.9867,
+      "trend_strength": 0.7966,
+      "pivot_position": 0.9893
+    }
+  },
+  {
+    "date": "2024-05-10",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 520.84,
+    "indicators": {
+      "rsi": 62.25,
+      "stoch_k": 92.86,
+      "cci": 155.15,
+      "macd_diff": 2.0776,
+      "trend_strength": 0.3186,
+      "pivot_position": 0.4105
+    }
+  },
+  {
+    "date": "2024-05-13",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 520.91,
+    "indicators": {
+      "rsi": 62.32,
+      "stoch_k": 93.01,
+      "cci": 131.48,
+      "macd_diff": 2.0303,
+      "trend_strength": 0.5631,
+      "pivot_position": 0.3993
+    }
+  },
+  {
+    "date": "2024-05-14",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 523.3,
+    "indicators": {
+      "rsi": 64.6,
+      "stoch_k": 97.99,
+      "cci": 125.25,
+      "macd_diff": 2.0423,
+      "trend_strength": 0.6697,
+      "pivot_position": 0.8379
+    }
+  },
+  {
+    "date": "2024-05-15",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 529.78,
+    "indicators": {
+      "rsi": 69.93,
+      "stoch_k": 99.02,
+      "cci": 151.65,
+      "macd_diff": 2.3471,
+      "trend_strength": 0.8061,
+      "pivot_position": 0.9388
+    }
+  },
+  {
+    "date": "2024-05-16",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 528.69,
+    "indicators": {
+      "rsi": 68.07,
+      "stoch_k": 91.14,
+      "cci": 139.66,
+      "macd_diff": 2.3311,
+      "trend_strength": 0.3991,
+      "pivot_position": 0.0503
+    }
+  },
+  {
+    "date": "2024-05-17",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 529.45,
+    "indicators": {
+      "rsi": 68.7,
+      "stoch_k": 93.52,
+      "cci": 119.39,
+      "macd_diff": 2.2276,
+      "trend_strength": 0.2909,
+      "pivot_position": 0.9682
+    }
+  },
+  {
+    "date": "2024-05-20",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 530.06,
+    "indicators": {
+      "rsi": 69.22,
+      "stoch_k": 95.31,
+      "cci": 119.35,
+      "macd_diff": 2.06,
+      "trend_strength": 0.205,
+      "pivot_position": 0.3724
+    }
+  },
+  {
+    "date": "2024-05-21",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 531.36,
+    "indicators": {
+      "rsi": 70.35,
+      "stoch_k": 99.37,
+      "cci": 111.38,
+      "macd_diff": 1.9004,
+      "trend_strength": 0.849,
+      "pivot_position": 0.9347
+    }
+  },
+  {
+    "date": "2024-05-22",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 529.83,
+    "indicators": {
+      "rsi": 67.22,
+      "stoch_k": 92.48,
+      "cci": 94.08,
+      "macd_diff": 1.5692,
+      "trend_strength": 0.2169,
+      "pivot_position": 0.5899
+    }
+  },
+  {
+    "date": "2024-05-24",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 529.44,
+    "indicators": {
+      "rsi": 63.75,
+      "stoch_k": 79.75,
+      "cci": 74.92,
+      "macd_diff": 0.7651,
+      "trend_strength": 0.4692,
+      "pivot_position": 0.7551
+    }
+  },
+  {
+    "date": "2024-05-28",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 529.81,
+    "indicators": {
+      "rsi": 64.14,
+      "stoch_k": 81.82,
+      "cci": 71.35,
+      "macd_diff": 0.5631,
+      "trend_strength": 0.1353,
+      "pivot_position": 0.7941
+    }
+  },
+  {
+    "date": "2024-05-30",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 522.61,
+    "indicators": {
+      "rsi": 52.01,
+      "stoch_k": 22.4,
+      "cci": 0.51,
+      "macd_diff": -0.418,
+      "trend_strength": 0.4935,
+      "pivot_position": 0.3307
+    }
+  },
+  {
+    "date": "2024-05-31",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 527.37,
+    "indicators": {
+      "rsi": 57.89,
+      "stoch_k": 61.25,
+      "cci": 4.91,
+      "macd_diff": -0.4763,
+      "trend_strength": 0.4136,
+      "pivot_position": 0.9858
+    }
+  },
+  {
+    "date": "2024-06-03",
+    "signal": "sell",
+    "confidence": 0.55,
+    "price": 527.8,
+    "indicators": {
+      "rsi": 58.39,
+      "stoch_k": 64.17,
+      "cci": 27.03,
+      "macd_diff": -0.5015,
+      "trend_strength": 0.1818,
+      "pivot_position": 0.775
+    }
+  },
+  {
+    "date": "2024-06-04",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 528.39,
+    "indicators": {
+      "rsi": 59.1,
+      "stoch_k": 68.18,
+      "cci": 35.99,
+      "macd_diff": -0.4932,
+      "trend_strength": 0.4606,
+      "pivot_position": 0.8186
+    }
+  },
+  {
+    "date": "2024-06-05",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 534.67,
+    "indicators": {
+      "rsi": 65.81,
+      "stoch_k": 99.88,
+      "cci": 121.8,
+      "macd_diff": -0.1001,
+      "trend_strength": 0.6539,
+      "pivot_position": 0.9966
+    }
+  },
+  {
+    "date": "2024-06-06",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 534.66,
+    "indicators": {
+      "rsi": 65.8,
+      "stoch_k": 95.55,
+      "cci": 146.57,
+      "macd_diff": 0.1123,
+      "trend_strength": 0.1168,
+      "pivot_position": 0.7226
+    }
+  },
+  {
+    "date": "2024-06-07",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 534.01,
+    "indicators": {
+      "rsi": 64.53,
+      "stoch_k": 84.46,
+      "cci": 145.61,
+      "macd_diff": 0.1594,
+      "trend_strength": 0.0804,
+      "pivot_position": 0.3387
+    }
+  },
+  {
+    "date": "2024-06-10",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 535.66,
+    "indicators": {
+      "rsi": 66.3,
+      "stoch_k": 93.36,
+      "cci": 141.98,
+      "macd_diff": 0.2467,
+      "trend_strength": 0.7251,
+      "pivot_position": 0.9035
+    }
+  },
+  {
+    "date": "2024-06-11",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 536.95,
+    "indicators": {
+      "rsi": 67.67,
+      "stoch_k": 99.68,
+      "cci": 143.1,
+      "macd_diff": 0.3311,
+      "trend_strength": 0.5806,
+      "pivot_position": 0.9879
+    }
+  },
+  {
+    "date": "2024-06-12",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 541.36,
+    "indicators": {
+      "rsi": 71.87,
+      "stoch_k": 89.29,
+      "cci": 239.43,
+      "macd_diff": 0.6076,
+      "trend_strength": 0.0707,
+      "pivot_position": 0.2775
+    }
+  },
+  {
+    "date": "2024-06-13",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 542.45,
+    "indicators": {
+      "rsi": 72.8,
+      "stoch_k": 93.52,
+      "cci": 186.35,
+      "macd_diff": 0.7768,
+      "trend_strength": 0.1874,
+      "pivot_position": 0.7657
+    }
+  },
+  {
+    "date": "2024-06-14",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 542.78,
+    "indicators": {
+      "rsi": 73.1,
+      "stoch_k": 94.8,
+      "cci": 152.7,
+      "macd_diff": 0.8196,
+      "trend_strength": 0.6419,
+      "pivot_position": 0.9899
+    }
+  },
+  {
+    "date": "2024-06-17",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 547.1,
+    "indicators": {
+      "rsi": 76.64,
+      "stoch_k": 95.26,
+      "cci": 172.98,
+      "macd_diff": 1.0336,
+      "trend_strength": 0.7251,
+      "pivot_position": 0.7934
+    }
+  },
+  {
+    "date": "2024-06-18",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 548.49,
+    "indicators": {
+      "rsi": 77.66,
+      "stoch_k": 99.57,
+      "cci": 166.47,
+      "macd_diff": 1.1545,
+      "trend_strength": 0.7037,
+      "pivot_position": 0.9312
+    }
+  },
+  {
+    "date": "2024-06-20",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 547.0,
+    "indicators": {
+      "rsi": 73.94,
+      "stoch_k": 90.18,
+      "cci": 137.6,
+      "macd_diff": 1.0242,
+      "trend_strength": 0.4939,
+      "pivot_position": 0.3684
+    }
+  },
+  {
+    "date": "2024-06-21",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 544.51,
+    "indicators": {
+      "rsi": 68.06,
+      "stoch_k": 79.61,
+      "cci": 94.09,
+      "macd_diff": 0.6771,
+      "trend_strength": 0.0418,
+      "pivot_position": 0.5665
+    }
+  },
+  {
+    "date": "2024-06-24",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 542.74,
+    "indicators": {
+      "rsi": 64.15,
+      "stoch_k": 70.67,
+      "cci": 80.57,
+      "macd_diff": 0.2567,
+      "trend_strength": 0.3672,
+      "pivot_position": 0.0277
+    }
+  },
+  {
+    "date": "2024-06-25",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 544.83,
+    "indicators": {
+      "rsi": 66.59,
+      "stoch_k": 75.27,
+      "cci": 72.12,
+      "macd_diff": 0.0583,
+      "trend_strength": 0.3043,
+      "pivot_position": 0.8659
+    }
+  },
+  {
+    "date": "2024-06-26",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 545.51,
+    "indicators": {
+      "rsi": 67.37,
+      "stoch_k": 74.49,
+      "cci": 71.3,
+      "macd_diff": -0.0808,
+      "trend_strength": 0.567,
+      "pivot_position": 0.7726
+    }
+  },
+  {
+    "date": "2024-06-27",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 546.37,
+    "indicators": {
+      "rsi": 68.37,
+      "stoch_k": 79.25,
+      "cci": 74.0,
+      "macd_diff": -0.1638,
+      "trend_strength": 0.4255,
+      "pivot_position": 0.7489
+    }
+  },
+  {
+    "date": "2024-06-28",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 544.22,
+    "indicators": {
+      "rsi": 63.15,
+      "stoch_k": 66.76,
+      "cci": 67.43,
+      "macd_diff": -0.3989,
+      "trend_strength": 0.4011,
+      "pivot_position": 0.1733
+    }
+  },
+  {
+    "date": "2024-07-01",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 545.34,
+    "indicators": {
+      "rsi": 64.66,
+      "stoch_k": 72.9,
+      "cci": 50.31,
+      "macd_diff": -0.5075,
+      "trend_strength": 0.0863,
+      "pivot_position": 0.8393
+    }
+  },
+  {
+    "date": "2024-07-02",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 549.01,
+    "indicators": {
+      "rsi": 69.14,
+      "stoch_k": 88.12,
+      "cci": 79.94,
+      "macd_diff": -0.3671,
+      "trend_strength": 0.9907,
+      "pivot_position": 1.0
+    }
+  },
+  {
+    "date": "2024-07-03",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 551.46,
+    "indicators": {
+      "rsi": 71.71,
+      "stoch_k": 96.98,
+      "cci": 126.43,
+      "macd_diff": -0.1552,
+      "trend_strength": 0.8711,
+      "pivot_position": 0.8836
+    }
+  },
+  {
+    "date": "2024-07-05",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 554.64,
+    "indicators": {
+      "rsi": 74.67,
+      "stoch_k": 97.3,
+      "cci": 165.68,
+      "macd_diff": 0.1375,
+      "trend_strength": 0.7303,
+      "pivot_position": 0.8957
+    }
+  },
+  {
+    "date": "2024-07-08",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 555.28,
+    "indicators": {
+      "rsi": 75.23,
+      "stoch_k": 93.37,
+      "cci": 183.76,
+      "macd_diff": 0.303,
+      "trend_strength": 0.0777,
+      "pivot_position": 0.5291
+    }
+  },
+  {
+    "date": "2024-07-09",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 555.82,
+    "indicators": {
+      "rsi": 75.72,
+      "stoch_k": 90.77,
+      "cci": 179.29,
+      "macd_diff": 0.3731,
+      "trend_strength": 0.2651,
+      "pivot_position": 0.1807
+    }
+  },
+  {
+    "date": "2024-07-10",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 561.32,
+    "indicators": {
+      "rsi": 80.04,
+      "stoch_k": 98.18,
+      "cci": 202.76,
+      "macd_diff": 0.6953,
+      "trend_strength": 0.8673,
+      "pivot_position": 0.9286
+    }
+  },
+  {
+    "date": "2024-07-11",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 556.48,
+    "indicators": {
+      "rsi": 68.49,
+      "stoch_k": 70.59,
+      "cci": 149.08,
+      "macd_diff": 0.4973,
+      "trend_strength": 0.7631,
+      "pivot_position": 0.1
+    }
+  },
+  {
+    "date": "2024-07-12",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 559.99,
+    "indicators": {
+      "rsi": 71.68,
+      "stoch_k": 82.67,
+      "cci": 147.12,
+      "macd_diff": 0.5153,
+      "trend_strength": 0.362,
+      "pivot_position": 0.4356
+    }
+  },
+  {
+    "date": "2024-07-15",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 561.53,
+    "indicators": {
+      "rsi": 72.97,
+      "stoch_k": 85.23,
+      "cci": 142.76,
+      "macd_diff": 0.5408,
+      "trend_strength": 0.096,
+      "pivot_position": 0.3649
+    }
+  },
+  {
+    "date": "2024-07-16",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 564.86,
+    "indicators": {
+      "rsi": 75.57,
+      "stoch_k": 98.67,
+      "cci": 142.38,
+      "macd_diff": 0.6828,
+      "trend_strength": 0.652,
+      "pivot_position": 0.902
+    }
+  },
+  {
+    "date": "2024-07-17",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 556.94,
+    "indicators": {
+      "rsi": 60.64,
+      "stoch_k": 63.69,
+      "cci": 67.73,
+      "macd_diff": 0.1708,
+      "trend_strength": 0.4769,
+      "pivot_position": 0.0846
+    }
+  },
+  {
+    "date": "2024-07-22",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 554.65,
+    "indicators": {
+      "rsi": 56.01,
+      "stoch_k": 51.14,
+      "cci": 11.78,
+      "macd_diff": -1.2373,
+      "trend_strength": 0.3882,
+      "pivot_position": 0.8541
+    }
+  },
+  {
+    "date": "2024-07-24",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 541.23,
+    "indicators": {
+      "rsi": 41.64,
+      "stoch_k": 3.78,
+      "cci": -122.59,
+      "macd_diff": -2.1544,
+      "trend_strength": 0.8592,
+      "pivot_position": 0.1059
+    }
+  },
+  {
+    "date": "2024-07-25",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 538.41,
+    "indicators": {
+      "rsi": 39.34,
+      "stoch_k": 3.46,
+      "cci": -145.19,
+      "macd_diff": -2.7899,
+      "trend_strength": 0.2939,
+      "pivot_position": 0.096
+    }
+  },
+  {
+    "date": "2024-07-26",
+    "signal": "buy",
+    "confidence": 0.45,
+    "price": 544.44,
+    "indicators": {
+      "rsi": 46.18,
+      "stoch_k": 25.23,
+      "cci": -102.36,
+      "macd_diff": -2.6964,
+      "trend_strength": 0.3789,
+      "pivot_position": 0.5175
+    }
+  },
+  {
+    "date": "2024-07-29",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 544.76,
+    "indicators": {
+      "rsi": 46.52,
+      "stoch_k": 26.38,
+      "cci": -95.12,
+      "macd_diff": -2.5092,
+      "trend_strength": 0.291,
+      "pivot_position": 0.4711
+    }
+  },
+  {
+    "date": "2024-07-30",
+    "signal": "buy",
+    "confidence": 0.85,
+    "price": 542.0,
+    "indicators": {
+      "rsi": 43.91,
+      "stoch_k": 16.42,
+      "cci": -117.97,
+      "macd_diff": -2.4638,
+      "trend_strength": 0.4827,
+      "pivot_position": 0.3949
+    }
+  },
+  {
+    "date": "2024-08-01",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 543.01,
+    "indicators": {
+      "rsi": 45.9,
+      "stoch_k": 20.06,
+      "cci": -79.13,
+      "macd_diff": -1.7513,
+      "trend_strength": 0.6192,
+      "pivot_position": 0.2319
+    }
+  },
+  {
+    "date": "2024-08-02",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 532.9,
+    "indicators": {
+      "rsi": 38.69,
+      "stoch_k": 11.76,
+      "cci": -182.83,
+      "macd_diff": -2.3094,
+      "trend_strength": 0.3397,
+      "pivot_position": 0.5125
+    }
+  },
+  {
+    "date": "2024-08-05",
+    "signal": "buy",
+    "confidence": 0.65,
+    "price": 517.38,
+    "indicators": {
+      "rsi": 30.71,
+      "stoch_k": 14.15,
+      "cci": -254.43,
+      "macd_diff": -3.537,
+      "trend_strength": 0.4313,
+      "pivot_position": 0.5342
+    }
+  },
+  {
+    "date": "2024-08-06",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 522.15,
+    "indicators": {
+      "rsi": 35.14,
+      "stoch_k": 24.12,
+      "cci": -170.24,
+      "macd_diff": -3.8172,
+      "trend_strength": 0.2466,
+      "pivot_position": 0.3603
+    }
+  },
+  {
+    "date": "2024-08-07",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 518.66,
+    "indicators": {
+      "rsi": 33.45,
+      "stoch_k": 18.06,
+      "cci": -150.44,
+      "macd_diff": -4.0071,
+      "trend_strength": 0.7246,
+      "pivot_position": 0.0449
+    }
+  },
+  {
+    "date": "2024-08-08",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 530.65,
+    "indicators": {
+      "rsi": 43.48,
+      "stoch_k": 43.86,
+      "cci": -104.74,
+      "macd_diff": -3.1335,
+      "trend_strength": 0.7132,
+      "pivot_position": 0.9323
+    }
+  },
+  {
+    "date": "2024-08-12",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 533.27,
+    "indicators": {
+      "rsi": 45.43,
+      "stoch_k": 51.57,
+      "cci": -54.43,
+      "macd_diff": -1.5274,
+      "trend_strength": 0.1967,
+      "pivot_position": 0.4854
+    }
+  },
+  {
+    "date": "2024-08-14",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 543.75,
+    "indicators": {
+      "rsi": 52.98,
+      "stoch_k": 75.07,
+      "cci": 22.51,
+      "macd_diff": 0.4661,
+      "trend_strength": 0.186,
+      "pivot_position": 0.75
+    }
+  },
+  {
+    "date": "2024-08-15",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 553.07,
+    "indicators": {
+      "rsi": 58.8,
+      "stoch_k": 95.97,
+      "cci": 89.56,
+      "macd_diff": 1.6142,
+      "trend_strength": 0.7969,
+      "pivot_position": 0.9353
+    }
+  },
+  {
+    "date": "2024-08-16",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 554.31,
+    "indicators": {
+      "rsi": 59.51,
+      "stoch_k": 98.41,
+      "cci": 100.25,
+      "macd_diff": 2.3576,
+      "trend_strength": 0.7686,
+      "pivot_position": 0.8112
+    }
+  },
+  {
+    "date": "2024-08-19",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 559.61,
+    "indicators": {
+      "rsi": 62.52,
+      "stoch_k": 100.0,
+      "cci": 127.47,
+      "macd_diff": 3.0621,
+      "trend_strength": 0.8487,
+      "pivot_position": 1.0
+    }
+  },
+  {
+    "date": "2024-08-20",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 558.7,
+    "indicators": {
+      "rsi": 61.67,
+      "stoch_k": 95.77,
+      "cci": 132.62,
+      "macd_diff": 3.3021,
+      "trend_strength": 0.128,
+      "pivot_position": 0.3912
+    }
+  },
+  {
+    "date": "2024-08-21",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 560.62,
+    "indicators": {
+      "rsi": 62.81,
+      "stoch_k": 97.13,
+      "cci": 120.4,
+      "macd_diff": 3.4113,
+      "trend_strength": 0.1152,
+      "pivot_position": 0.7981
+    }
+  },
+  {
+    "date": "2024-08-22",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 556.22,
+    "indicators": {
+      "rsi": 58.51,
+      "stoch_k": 86.85,
+      "cci": 100.99,
+      "macd_diff": 3.0218,
+      "trend_strength": 0.7732,
+      "pivot_position": 0.1512
+    }
+  },
+  {
+    "date": "2024-08-23",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 562.13,
+    "indicators": {
+      "rsi": 62.25,
+      "stoch_k": 97.68,
+      "cci": 106.05,
+      "macd_diff": 2.9912,
+      "trend_strength": 0.4483,
+      "pivot_position": 0.8345
+    }
+  },
+  {
+    "date": "2024-08-26",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 560.79,
+    "indicators": {
+      "rsi": 60.91,
+      "stoch_k": 93.2,
+      "cci": 96.76,
+      "macd_diff": 2.7176,
+      "trend_strength": 0.4918,
+      "pivot_position": 0.358
+    }
+  },
+  {
+    "date": "2024-08-27",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 561.56,
+    "indicators": {
+      "rsi": 61.42,
+      "stoch_k": 94.41,
+      "cci": 83.6,
+      "macd_diff": 2.4346,
+      "trend_strength": 0.5535,
+      "pivot_position": 0.8663
+    }
+  },
+  {
+    "date": "2024-08-28",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 558.3,
+    "indicators": {
+      "rsi": 57.95,
+      "stoch_k": 84.13,
+      "cci": 67.76,
+      "macd_diff": 1.8977,
+      "trend_strength": 0.4402,
+      "pivot_position": 0.4932
+    }
+  },
+  {
+    "date": "2024-08-29",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 558.35,
+    "indicators": {
+      "rsi": 57.99,
+      "stoch_k": 83.13,
+      "cci": 68.09,
+      "macd_diff": 1.4368,
+      "trend_strength": 0.3015,
+      "pivot_position": 0.18
+    }
+  },
+  {
+    "date": "2024-08-30",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 563.68,
+    "indicators": {
+      "rsi": 62.06,
+      "stoch_k": 98.14,
+      "cci": 71.12,
+      "macd_diff": 1.3814,
+      "trend_strength": 0.4122,
+      "pivot_position": 0.9263
+    }
+  },
+  {
+    "date": "2024-09-04",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 550.95,
+    "indicators": {
+      "rsi": 49.61,
+      "stoch_k": 13.51,
+      "cci": 8.31,
+      "macd_diff": -0.1874,
+      "trend_strength": 0.1509,
+      "pivot_position": 0.2998
+    }
+  },
+  {
+    "date": "2024-09-05",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 549.61,
+    "indicators": {
+      "rsi": 48.43,
+      "stoch_k": 14.68,
+      "cci": -12.19,
+      "macd_diff": -0.7288,
+      "trend_strength": 0.1911,
+      "pivot_position": 0.3747
+    }
+  },
+  {
+    "date": "2024-09-06",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 540.36,
+    "indicators": {
+      "rsi": 41.17,
+      "stoch_k": 3.72,
+      "cci": -78.2,
+      "macd_diff": -1.6539,
+      "trend_strength": 0.7878,
+      "pivot_position": 0.0757
+    }
+  },
+  {
+    "date": "2024-09-09",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 546.41,
+    "indicators": {
+      "rsi": 46.79,
+      "stoch_k": 28.15,
+      "cci": -76.53,
+      "macd_diff": -1.7907,
+      "trend_strength": 0.3499,
+      "pivot_position": 0.7416
+    }
+  },
+  {
+    "date": "2024-09-10",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 548.79,
+    "indicators": {
+      "rsi": 48.86,
+      "stoch_k": 37.76,
+      "cci": -77.61,
+      "macd_diff": -1.6565,
+      "trend_strength": 0.0745,
+      "pivot_position": 0.9376
+    }
+  },
+  {
+    "date": "2024-09-11",
+    "signal": "buy",
+    "confidence": 0.3,
+    "price": 554.42,
+    "indicators": {
+      "rsi": 53.47,
+      "stoch_k": 60.5,
+      "cci": -55.89,
+      "macd_diff": -1.1482,
+      "trend_strength": 0.3714,
+      "pivot_position": 0.939
+    }
+  },
+  {
+    "date": "2024-09-12",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 559.09,
+    "indicators": {
+      "rsi": 56.94,
+      "stoch_k": 79.36,
+      "cci": 28.15,
+      "macd_diff": -0.4907,
+      "trend_strength": 0.6126,
+      "pivot_position": 0.9535
+    }
+  },
+  {
+    "date": "2024-09-13",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 562.01,
+    "indicators": {
+      "rsi": 59.0,
+      "stoch_k": 91.16,
+      "cci": 81.9,
+      "macd_diff": 0.1152,
+      "trend_strength": 0.6425,
+      "pivot_position": 0.7151
+    }
+  },
+  {
+    "date": "2024-09-16",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 562.84,
+    "indicators": {
+      "rsi": 59.59,
+      "stoch_k": 94.51,
+      "cci": 80.79,
+      "macd_diff": 0.5234,
+      "trend_strength": 0.3427,
+      "pivot_position": 0.9159
+    }
+  },
+  {
+    "date": "2024-09-17",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 563.07,
+    "indicators": {
+      "rsi": 59.76,
+      "stoch_k": 87.07,
+      "cci": 93.71,
+      "macd_diff": 0.7469,
+      "trend_strength": 0.3509,
+      "pivot_position": 0.3933
+    }
+  },
+  {
+    "date": "2024-09-18",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 561.4,
+    "indicators": {
+      "rsi": 57.83,
+      "stoch_k": 75.08,
+      "cci": 89.86,
+      "macd_diff": 0.7198,
+      "trend_strength": 0.2977,
+      "pivot_position": 0.0725
+    }
+  },
+  {
+    "date": "2024-09-19",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 570.98,
+    "indicators": {
+      "rsi": 64.86,
+      "stoch_k": 94.32,
+      "cci": 158.63,
+      "macd_diff": 1.2534,
+      "trend_strength": 0.0062,
+      "pivot_position": 0.6042
+    }
+  },
+  {
+    "date": "2024-09-20",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 568.25,
+    "indicators": {
+      "rsi": 61.7,
+      "stoch_k": 86.15,
+      "cci": 110.01,
+      "macd_diff": 1.3221,
+      "trend_strength": 0.099,
+      "pivot_position": 0.744
+    }
+  },
+  {
+    "date": "2024-09-23",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 569.67,
+    "indicators": {
+      "rsi": 62.72,
+      "stoch_k": 90.4,
+      "cci": 118.32,
+      "macd_diff": 1.3575,
+      "trend_strength": 0.1478,
+      "pivot_position": 0.7032
+    }
+  },
+  {
+    "date": "2024-09-24",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 571.3,
+    "indicators": {
+      "rsi": 63.91,
+      "stoch_k": 95.28,
+      "cci": 114.76,
+      "macd_diff": 1.3806,
+      "trend_strength": 0.2181,
+      "pivot_position": 0.984
+    }
+  },
+  {
+    "date": "2024-09-25",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 570.04,
+    "indicators": {
+      "rsi": 62.26,
+      "stoch_k": 91.51,
+      "cci": 105.21,
+      "macd_diff": 1.2071,
+      "trend_strength": 0.3691,
+      "pivot_position": 0.3792
+    }
+  },
+  {
+    "date": "2024-09-26",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 572.3,
+    "indicators": {
+      "rsi": 64.05,
+      "stoch_k": 93.06,
+      "cci": 109.78,
+      "macd_diff": 1.1415,
+      "trend_strength": 0.4324,
+      "pivot_position": 0.499
+    }
+  },
+  {
+    "date": "2024-09-27",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 571.47,
+    "indicators": {
+      "rsi": 62.87,
+      "stoch_k": 90.68,
+      "cci": 96.06,
+      "macd_diff": 0.947,
+      "trend_strength": 0.5053,
+      "pivot_position": 0.2763
+    }
+  },
+  {
+    "date": "2024-09-30",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 573.76,
+    "indicators": {
+      "rsi": 64.8,
+      "stoch_k": 97.27,
+      "cci": 87.69,
+      "macd_diff": 0.879,
+      "trend_strength": 0.5302,
+      "pivot_position": 0.9016
+    }
+  },
+  {
+    "date": "2024-10-01",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 568.62,
+    "indicators": {
+      "rsi": 57.57,
+      "stoch_k": 72.28,
+      "cci": 63.2,
+      "macd_diff": 0.4176,
+      "trend_strength": 0.5929,
+      "pivot_position": 0.325
+    }
+  },
+  {
+    "date": "2024-10-02",
+    "signal": "sell",
+    "confidence": 0.55,
+    "price": 568.86,
+    "indicators": {
+      "rsi": 57.81,
+      "stoch_k": 61.66,
+      "cci": 46.72,
+      "macd_diff": 0.0762,
+      "trend_strength": 0.2484,
+      "pivot_position": 0.7754
+    }
+  },
+  {
+    "date": "2024-10-03",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 567.82,
+    "indicators": {
+      "rsi": 56.35,
+      "stoch_k": 53.48,
+      "cci": 39.98,
+      "macd_diff": -0.2539,
+      "trend_strength": 0.1067,
+      "pivot_position": 0.5403
+    }
+  },
+  {
+    "date": "2024-10-04",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 572.98,
+    "indicators": {
+      "rsi": 61.55,
+      "stoch_k": 87.57,
+      "cci": 69.5,
+      "macd_diff": -0.1634,
+      "trend_strength": 0.1198,
+      "pivot_position": 0.9278
+    }
+  },
+  {
+    "date": "2024-10-08",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 573.17,
+    "indicators": {
+      "rsi": 59.67,
+      "stoch_k": 83.86,
+      "cci": 77.86,
+      "macd_diff": -0.3441,
+      "trend_strength": 0.647,
+      "pivot_position": 0.8565
+    }
+  },
+  {
+    "date": "2024-10-09",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 577.14,
+    "indicators": {
+      "rsi": 63.0,
+      "stoch_k": 95.45,
+      "cci": 142.19,
+      "macd_diff": -0.0346,
+      "trend_strength": 0.7713,
+      "pivot_position": 0.8895
+    }
+  },
+  {
+    "date": "2024-10-10",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 576.13,
+    "indicators": {
+      "rsi": 61.6,
+      "stoch_k": 87.3,
+      "cci": 146.4,
+      "macd_diff": 0.0539,
+      "trend_strength": 0.1165,
+      "pivot_position": 0.5307
+    }
+  },
+  {
+    "date": "2024-10-11",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 579.58,
+    "indicators": {
+      "rsi": 64.49,
+      "stoch_k": 95.02,
+      "cci": 185.46,
+      "macd_diff": 0.2837,
+      "trend_strength": 0.7986,
+      "pivot_position": 0.8303
+    }
+  },
+  {
+    "date": "2024-10-14",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 584.32,
+    "indicators": {
+      "rsi": 68.05,
+      "stoch_k": 95.25,
+      "cci": 244.0,
+      "macd_diff": 0.6717,
+      "trend_strength": 0.6828,
+      "pivot_position": 0.7907
+    }
+  },
+  {
+    "date": "2024-10-15",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 579.78,
+    "indicators": {
+      "rsi": 61.68,
+      "stoch_k": 72.55,
+      "cci": 171.0,
+      "macd_diff": 0.5447,
+      "trend_strength": 0.7569,
+      "pivot_position": 0.1943
+    }
+  },
+  {
+    "date": "2024-10-16",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 582.3,
+    "indicators": {
+      "rsi": 63.71,
+      "stoch_k": 85.15,
+      "cci": 144.97,
+      "macd_diff": 0.551,
+      "trend_strength": 0.6512,
+      "pivot_position": 0.863
+    }
+  },
+  {
+    "date": "2024-10-17",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 582.35,
+    "indicators": {
+      "rsi": 63.75,
+      "stoch_k": 81.92,
+      "cci": 148.04,
+      "macd_diff": 0.4816,
+      "trend_strength": 0.899,
+      "pivot_position": 0.048
+    }
+  },
+  {
+    "date": "2024-10-18",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 584.59,
+    "indicators": {
+      "rsi": 65.63,
+      "stoch_k": 92.66,
+      "cci": 133.45,
+      "macd_diff": 0.5069,
+      "trend_strength": 0.1851,
+      "pivot_position": 0.7153
+    }
+  },
+  {
+    "date": "2024-10-21",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 583.63,
+    "indicators": {
+      "rsi": 64.1,
+      "stoch_k": 88.06,
+      "cci": 103.09,
+      "macd_diff": 0.3851,
+      "trend_strength": 0.0518,
+      "pivot_position": 0.7129
+    }
+  },
+  {
+    "date": "2024-10-22",
+    "signal": "sell",
+    "confidence": 1.0,
+    "price": 583.32,
+    "indicators": {
+      "rsi": 63.58,
+      "stoch_k": 86.43,
+      "cci": 88.79,
+      "macd_diff": 0.2179,
+      "trend_strength": 0.551,
+      "pivot_position": 0.7136
+    }
+  },
+  {
+    "date": "2024-10-24",
+    "signal": "sell",
+    "confidence": 0.55,
+    "price": 579.24,
+    "indicators": {
+      "rsi": 56.75,
+      "stoch_k": 64.7,
+      "cci": 29.15,
+      "macd_diff": -0.5636,
+      "trend_strength": 0.212,
+      "pivot_position": 0.765
+    }
+  },
+  {
+    "date": "2024-10-25",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 579.04,
+    "indicators": {
+      "rsi": 56.44,
+      "stoch_k": 57.32,
+      "cci": 49.23,
+      "macd_diff": -0.7679,
+      "trend_strength": 0.3871,
+      "pivot_position": 0.1505
+    }
+  },
+  {
+    "date": "2024-10-28",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 580.83,
+    "indicators": {
+      "rsi": 58.61,
+      "stoch_k": 61.02,
+      "cci": 55.24,
+      "macd_diff": -0.789,
+      "trend_strength": 0.7991,
+      "pivot_position": 0.1416
+    }
+  },
+  {
+    "date": "2024-10-29",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 581.77,
+    "indicators": {
+      "rsi": 59.74,
+      "stoch_k": 62.84,
+      "cci": 46.64,
+      "macd_diff": -0.7467,
+      "trend_strength": 0.4289,
+      "pivot_position": 0.746
+    }
+  },
+  {
+    "date": "2024-10-30",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 580.01,
+    "indicators": {
+      "rsi": 56.61,
+      "stoch_k": 47.8,
+      "cci": 39.58,
+      "macd_diff": -0.8375,
+      "trend_strength": 0.3176,
+      "pivot_position": 0.1787
+    }
+  },
+  {
+    "date": "2024-10-31",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 568.64,
+    "indicators": {
+      "rsi": 41.5,
+      "stoch_k": 1.13,
+      "cci": -137.69,
+      "macd_diff": -1.6184,
+      "trend_strength": 0.9624,
+      "pivot_position": 0.0278
+    }
+  },
+  {
+    "date": "2024-11-01",
+    "signal": "buy",
+    "confidence": 0.5,
+    "price": 571.04,
+    "indicators": {
+      "rsi": 44.85,
+      "stoch_k": 14.71,
+      "cci": -113.49,
+      "macd_diff": -1.9083,
+      "trend_strength": 0.0568,
+      "pivot_position": 0.0852
+    }
+  },
+  {
+    "date": "2024-11-04",
+    "signal": "buy",
+    "confidence": 0.7,
+    "price": 569.81,
+    "indicators": {
+      "rsi": 43.48,
+      "stoch_k": 10.53,
+      "cci": -159.56,
+      "macd_diff": -2.1026,
+      "trend_strength": 0.2972,
+      "pivot_position": 0.4165
+    }
+  },
+  {
+    "date": "2024-11-06",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 591.04,
+    "indicators": {
+      "rsi": 64.64,
+      "stoch_k": 96.3,
+      "cci": 175.53,
+      "macd_diff": -0.475,
+      "trend_strength": 0.2813,
+      "pivot_position": 0.8639
+    }
+  },
+  {
+    "date": "2024-11-07",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 595.61,
+    "indicators": {
+      "rsi": 67.53,
+      "stoch_k": 96.38,
+      "cci": 238.85,
+      "macd_diff": 0.5874,
+      "trend_strength": 0.6931,
+      "pivot_position": 0.7151
+    }
+  },
+  {
+    "date": "2024-11-08",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 598.19,
+    "indicators": {
+      "rsi": 69.06,
+      "stoch_k": 95.43,
+      "cci": 232.19,
+      "macd_diff": 1.3614,
+      "trend_strength": 0.5813,
+      "pivot_position": 0.5827
+    }
+  },
+  {
+    "date": "2024-11-11",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 598.76,
+    "indicators": {
+      "rsi": 69.4,
+      "stoch_k": 95.63,
+      "cci": 193.3,
+      "macd_diff": 1.7826,
+      "trend_strength": 0.3312,
+      "pivot_position": 0.5552
+    }
+  },
+  {
+    "date": "2024-11-12",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 596.9,
+    "indicators": {
+      "rsi": 66.79,
+      "stoch_k": 89.87,
+      "cci": 142.95,
+      "macd_diff": 1.8016,
+      "trend_strength": 0.3618,
+      "pivot_position": 0.5142
+    }
+  },
+  {
+    "date": "2024-11-13",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 597.19,
+    "indicators": {
+      "rsi": 67.0,
+      "stoch_k": 90.77,
+      "cci": 122.27,
+      "macd_diff": 1.7006,
+      "trend_strength": 0.0422,
+      "pivot_position": 0.5222
+    }
+  },
+  {
+    "date": "2024-11-14",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 593.35,
+    "indicators": {
+      "rsi": 61.5,
+      "stoch_k": 78.87,
+      "cci": 86.13,
+      "macd_diff": 1.2621,
+      "trend_strength": 0.7694,
+      "pivot_position": 0.1357
+    }
+  },
+  {
+    "date": "2024-11-15",
+    "signal": "buy",
+    "confidence": 0.35,
+    "price": 585.75,
+    "indicators": {
+      "rsi": 52.34,
+      "stoch_k": 55.33,
+      "cci": 17.25,
+      "macd_diff": 0.3924,
+      "trend_strength": 0.6262,
+      "pivot_position": 0.2981
+    }
+  },
+  {
+    "date": "2024-11-18",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 588.15,
+    "indicators": {
+      "rsi": 54.63,
+      "stoch_k": 62.76,
+      "cci": 23.8,
+      "macd_diff": -0.0649,
+      "trend_strength": 0.4651,
+      "pivot_position": 0.6771
+    }
+  },
+  {
+    "date": "2024-11-19",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 590.3,
+    "indicators": {
+      "rsi": 56.65,
+      "stoch_k": 69.42,
+      "cci": 27.72,
+      "macd_diff": -0.2554,
+      "trend_strength": 0.7969,
+      "pivot_position": 0.8938
+    }
+  },
+  {
+    "date": "2024-11-20",
+    "signal": "sell",
+    "confidence": 0.35,
+    "price": 590.5,
+    "indicators": {
+      "rsi": 56.84,
+      "stoch_k": 70.04,
+      "cci": 25.59,
+      "macd_diff": -0.3926,
+      "trend_strength": 0.0195,
+      "pivot_position": 0.9529
+    }
+  },
+  {
+    "date": "2024-11-21",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 593.67,
+    "indicators": {
+      "rsi": 59.88,
+      "stoch_k": 79.86,
+      "cci": 49.7,
+      "macd_diff": -0.2987,
+      "trend_strength": 0.0352,
+      "pivot_position": 0.811
+    }
+  },
+  {
+    "date": "2024-11-22",
+    "signal": "sell",
+    "confidence": 0.7,
+    "price": 595.51,
+    "indicators": {
+      "rsi": 61.57,
+      "stoch_k": 84.28,
+      "cci": 68.19,
+      "macd_diff": -0.1492,
+      "trend_strength": 0.6172,
+      "pivot_position": 0.7865
+    }
+  },
+  {
+    "date": "2024-11-25",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 597.53,
+    "indicators": {
+      "rsi": 63.39,
+      "stoch_k": 80.41,
+      "cci": 85.84,
+      "macd_diff": 0.0393,
+      "trend_strength": 0.3516,
+      "pivot_position": 0.4117
+    }
+  },
+  {
+    "date": "2024-11-26",
+    "signal": "sell",
+    "confidence": 1.0,
+    "price": 600.65,
+    "indicators": {
+      "rsi": 66.07,
+      "stoch_k": 96.11,
+      "cci": 95.77,
+      "macd_diff": 0.3123,
+      "trend_strength": 0.5675,
+      "pivot_position": 0.7914
+    }
+  },
+  {
+    "date": "2024-11-27",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 598.83,
+    "indicators": {
+      "rsi": 63.17,
+      "stoch_k": 85.69,
+      "cci": 79.76,
+      "macd_diff": 0.3081,
+      "trend_strength": 0.4566,
+      "pivot_position": 0.4342
+    }
+  },
+  {
+    "date": "2024-11-29",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 602.55,
+    "indicators": {
+      "rsi": 66.42,
+      "stoch_k": 95.9,
+      "cci": 98.35,
+      "macd_diff": 0.4832,
+      "trend_strength": 0.728,
+      "pivot_position": 0.7985
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 603.63,
+    "indicators": {
+      "rsi": 67.32,
+      "stoch_k": 96.63,
+      "cci": 111.08,
+      "macd_diff": 0.5919,
+      "trend_strength": 0.3568,
+      "pivot_position": 0.627
+    }
+  },
+  {
+    "date": "2024-12-03",
+    "signal": "sell",
+    "confidence": 0.85,
+    "price": 603.91,
+    "indicators": {
+      "rsi": 67.56,
+      "stoch_k": 98.0,
+      "cci": 113.05,
+      "macd_diff": 0.6009,
+      "trend_strength": 0.2859,
+      "pivot_position": 0.8626
+    }
+  },
+  {
+    "date": "2024-12-04",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 607.66,
+    "indicators": {
+      "rsi": 70.7,
+      "stoch_k": 98.96,
+      "cci": 154.26,
+      "macd_diff": 0.767,
+      "trend_strength": 0.6858,
+      "pivot_position": 0.9155
+    }
+  },
+  {
+    "date": "2024-12-05",
+    "signal": "sell",
+    "confidence": 0.8,
+    "price": 606.66,
+    "indicators": {
+      "rsi": 68.79,
+      "stoch_k": 92.61,
+      "cci": 144.3,
+      "macd_diff": 0.718,
+      "trend_strength": 0.4598,
+      "pivot_position": 0.1632
+    }
+  },
+  {
+    "date": "2024-12-06",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 607.81,
+    "indicators": {
+      "rsi": 69.8,
+      "stoch_k": 94.97,
+      "cci": 135.96,
+      "macd_diff": 0.6723,
+      "trend_strength": 0.1805,
+      "pivot_position": 0.3854
+    }
+  },
+  {
+    "date": "2024-12-09",
+    "signal": "sell",
+    "confidence": 0.65,
+    "price": 604.68,
+    "indicators": {
+      "rsi": 63.74,
+      "stoch_k": 82.47,
+      "cci": 93.03,
+      "macd_diff": 0.3564,
+      "trend_strength": 0.7963,
+      "pivot_position": 0.1587
+    }
+  },
+  {
+    "date": "2024-12-10",
+    "signal": "sell",
+    "confidence": 0.5,
+    "price": 602.8,
+    "indicators": {
+      "rsi": 60.35,
+      "stoch_k": 74.35,
+      "cci": 63.14,
+      "macd_diff": -0.0333,
+      "trend_strength": 0.7003,
+      "pivot_position": 0.1826
+    }
+  }
+]

@@ -1,0 +1,831 @@
+Enhanced Pattern Analysis Report
+==================================================
+
+
+BUY Patterns:
+------------------------------
+
+open:
+  Mean: 436.6609
+  Median: 414.1900
+  Range: 349.2050 to 589.7200
+  IQR: 392.6800 to 462.7000
+  Typical range: 374.9079 to 498.4140
+
+high:
+  Mean: 440.8784
+  Median: 427.2100
+  Range: 365.9100 to 590.2000
+  IQR: 395.8200 to 465.7400
+  Typical range: 380.1889 to 501.5680
+
+low:
+  Mean: 433.0405
+  Median: 410.6400
+  Range: 348.1100 to 583.8600
+  IQR: 388.3800 to 456.5973
+  Typical range: 371.5973 to 494.4836
+
+close:
+  Mean: 438.0381
+  Median: 417.3900
+  Range: 357.1800 to 585.7500
+  IQR: 392.3400 to 465.5100
+  Typical range: 377.3875 to 498.6887
+
+volume:
+  Mean: 97170562.7170
+  Median: 87891791.0000
+  Range: 38097798.0000 to 252496719.0000
+  IQR: 74850731.0000 to 107367671.0000
+  Typical range: 56489143.8300 to 137851981.6040
+
+price_change:
+  Mean: 0.0020
+  Median: 0.0004
+  Range: -0.0155 to 0.0264
+  IQR: -0.0042 to 0.0089
+  Typical range: -0.0087 to 0.0126
+
+high_low_range:
+  Mean: 0.0187
+  Median: 0.0171
+  Range: 0.0051 to 0.0557
+  IQR: 0.0098 to 0.0248
+  Typical range: 0.0075 to 0.0300
+
+ema_5:
+  Mean: 439.9528
+  Median: 424.8375
+  Range: 362.6987 to 591.5823
+  IQR: 394.6786 to 468.6817
+  Typical range: 379.1611 to 500.7445
+
+ema_8:
+  Mean: 432.0830
+  Median: 422.4855
+  Range: 0.0000 to 590.8992
+  IQR: 393.2100 to 453.6992
+  Typical range: 346.5718 to 517.5942
+
+ema_13:
+  Mean: 432.9310
+  Median: 427.3231
+  Range: 0.0000 to 588.7433
+  IQR: 391.4510 to 456.6931
+  Typical range: 347.7546 to 518.1074
+
+ema_21:
+  Mean: 424.8037
+  Median: 425.8304
+  Range: 0.0000 to 585.6376
+  IQR: 390.6602 to 450.0519
+  Typical range: 321.5758 to 528.0316
+
+ema_34:
+  Mean: 416.4040
+  Median: 424.1983
+  Range: 0.0000 to 581.2251
+  IQR: 390.7550 to 447.6071
+  Typical range: 298.7587 to 534.0493
+
+ema_55:
+  Mean: 399.0795
+  Median: 419.8719
+  Range: 0.0000 to 574.9300
+  IQR: 389.8586 to 442.2456
+  Typical range: 258.1941 to 539.9648
+
+macd:
+  Mean: -0.7186
+  Median: 0.0000
+  Range: -11.5315 to 6.7980
+  IQR: -4.6625 to 4.4386
+  Typical range: -5.9369 to 4.4997
+
+macd_signal:
+  Mean: 0.0048
+  Median: 0.3607
+  Range: -10.2455 to 6.1806
+  IQR: -3.7336 to 4.4796
+  Typical range: -4.7389 to 4.7484
+
+macd_diff:
+  Mean: -0.6336
+  Median: -0.5142
+  Range: -3.9936 to 3.6559
+  IQR: -1.6636 to 0.2860
+  Typical range: -2.2811 to 1.0139
+
+rsi:
+  Mean: 46.0325
+  Median: 45.8208
+  Range: 0.0000 to 71.5733
+  IQR: 35.8076 to 55.8458
+  Typical range: 32.0308 to 60.0341
+
+stoch_k:
+  Mean: 42.3572
+  Median: 36.9637
+  Range: 0.0000 to 99.8645
+  IQR: 16.1537 to 64.0490
+  Typical range: 11.2514 to 73.4629
+
+stoch_d:
+  Mean: 41.0151
+  Median: 37.7844
+  Range: 0.0000 to 95.1050
+  IQR: 14.2110 to 66.6021
+  Typical range: 11.8728 to 70.1573
+
+williams_r:
+  Mean: -55.7560
+  Median: -62.6164
+  Range: -99.6960 to 0.0000
+  IQR: -83.3427 to -35.3928
+  Typical range: -87.2733 to -24.2388
+
+volume_change:
+  Mean: 0.1130
+  Median: 0.0328
+  Range: -0.4757 to 1.0676
+  IQR: -0.1631 to 0.3342
+  Typical range: -0.2494 to 0.4755
+
+vwap:
+  Mean: 433.1612
+  Median: 428.4395
+  Range: 0.0000 to 586.0892
+  IQR: 391.7332 to 456.0363
+  Typical range: 347.7018 to 518.6206
+
+obv:
+  Mean: -2468828892.0566
+  Median: -2475083735.0000
+  Range: -4009030249.0000 to -394381867.0000
+  IQR: -3266361387.0000 to -1669408890.0000
+  Typical range: -3430848306.9035 to -1506809477.2097
+
+cmf:
+  Mean: 0.0351
+  Median: 0.0000
+  Range: -0.2508 to 0.3344
+  IQR: -0.0854 to 0.1642
+  Typical range: -0.1136 to 0.1838
+
+bb_high:
+  Mean: 441.3558
+  Median: 444.0105
+  Range: 0.0000 to 603.4353
+  IQR: 413.2860 to 464.6333
+  Typical range: 335.3805 to 547.3310
+
+bb_low:
+  Mean: 409.2979
+  Median: 408.5287
+  Range: 0.0000 to 569.4040
+  IQR: 374.2778 to 436.0786
+  Typical range: 307.5435 to 511.0522
+
+bb_mid:
+  Mean: 425.3268
+  Median: 426.5335
+  Range: 0.0000 to 584.4405
+  IQR: 394.6135 to 448.7405
+  Typical range: 321.6926 to 528.9610
+
+bb_width:
+  Mean: 0.0743
+  Median: 0.0701
+  Range: 0.0000 to 0.1678
+  IQR: 0.0497 to 0.0890
+  Typical range: 0.0377 to 0.1108
+
+atr:
+  Mean: 6.5730
+  Median: 6.3316
+  Range: 0.0000 to 10.8930
+  IQR: 4.5487 to 8.3587
+  Typical range: 4.3258 to 8.8202
+
+cci:
+  Mean: -37.7141
+  Median: -34.2871
+  Range: -185.6190 to 150.2374
+  IQR: -138.9901 to 37.5709
+  Typical range: -134.8069 to 59.3787
+
+high_1d_change:
+  Mean: -0.0026
+  Median: -0.0034
+  Range: -0.0371 to 0.0224
+  IQR: -0.0081 to 0.0050
+  Typical range: -0.0145 to 0.0092
+
+low_1d_change:
+  Mean: -0.0059
+  Median: -0.0052
+  Range: -0.0393 to 0.0149
+  IQR: -0.0097 to -0.0013
+  Typical range: -0.0156 to 0.0038
+
+high_2d_change:
+  Mean: -0.0083
+  Median: -0.0078
+  Range: -0.0415 to 0.0162
+  IQR: -0.0167 to 0.0022
+  Typical range: -0.0225 to 0.0058
+
+low_2d_change:
+  Mean: -0.0126
+  Median: -0.0105
+  Range: -0.0534 to 0.0154
+  IQR: -0.0210 to -0.0037
+  Typical range: -0.0257 to 0.0004
+
+high_3d_change:
+  Mean: -0.0113
+  Median: -0.0105
+  Range: -0.0453 to 0.0171
+  IQR: -0.0203 to -0.0017
+  Typical range: -0.0256 to 0.0030
+
+low_3d_change:
+  Mean: -0.0172
+  Median: -0.0154
+  Range: -0.0680 to 0.0214
+  IQR: -0.0249 to -0.0063
+  Typical range: -0.0343 to -0.0001
+
+high_5d_change:
+  Mean: -0.0139
+  Median: -0.0149
+  Range: -0.0687 to 0.0450
+  IQR: -0.0253 to -0.0008
+  Typical range: -0.0346 to 0.0069
+
+low_5d_change:
+  Mean: -0.0193
+  Median: -0.0173
+  Range: -0.0851 to 0.0387
+  IQR: -0.0319 to -0.0042
+  Typical range: -0.0432 to 0.0046
+
+trend_strength:
+  Mean: 0.4654
+  Median: 0.4523
+  Range: 0.0158 to 0.9536
+  IQR: 0.2787 to 0.6563
+  Typical range: 0.2170 to 0.7137
+
+volatility:
+  Mean: 0.0108
+  Median: 0.0093
+  Range: 0.0000 to 0.0215
+  IQR: 0.0071 to 0.0147
+  Typical range: 0.0058 to 0.0158
+
+adx:
+  Mean: 24.6791
+  Median: 23.6258
+  Range: 0.0000 to 45.8112
+  IQR: 18.8435 to 30.3789
+  Typical range: 14.9857 to 34.3725
+
+pivot_high:
+  Mean: 50.8879
+  Median: 0.0000
+  Range: 0.0000 to 533.0700
+  IQR: 0.0000 to 0.0000
+  Typical range: -93.7117 to 195.4875
+
+pivot_low:
+  Mean: 337.4564
+  Median: 403.7800
+  Range: 0.0000 to 583.8600
+  IQR: 357.0400 to 451.5500
+  Typical range: 144.2944 to 530.6183
+
+last_pivot_high:
+  Mean: 452.5908
+  Median: 438.1400
+  Range: 372.3000 to 609.0700
+  IQR: 402.3100 to 477.5500
+  Typical range: 387.9993 to 517.1824
+
+last_pivot_low:
+  Mean: 431.9885
+  Median: 410.6400
+  Range: 348.1100 to 583.8600
+  IQR: 387.2600 to 456.5973
+  Typical range: 370.6794 to 493.2976
+
+distance_to_pivot_high:
+  Mean: 0.0335
+  Median: 0.0246
+  Range: -0.0043 to 0.3084
+  IQR: 0.0113 to 0.0430
+  Typical range: -0.0105 to 0.0776
+
+distance_to_pivot_low:
+  Mean: 0.0142
+  Median: 0.0101
+  Range: 0.0004 to 0.0488
+  IQR: 0.0036 to 0.0228
+  Typical range: 0.0017 to 0.0267
+
+pivot_range:
+  Mean: 20.6024
+  Median: 14.7100
+  Range: 3.0400 to 152.4727
+  IQR: 11.1200 to 22.9800
+  Typical range: -0.4917 to 41.6964
+
+pivot_range_pct:
+  Mean: 0.0477
+  Median: 0.0332
+  Range: 0.0067 to 0.3275
+  IQR: 0.0255 to 0.0571
+  Typical range: 0.0015 to 0.0939
+
+pivot_position:
+  Mean: 0.3651
+  Median: 0.2664
+  Range: 0.0092 to 1.1919
+  IQR: 0.1208 to 0.4893
+  Typical range: 0.0506 to 0.6795
+
+pivot_high_strength:
+  Mean: 0.0000
+  Median: 0.0000
+  Range: 0.0000 to 0.0000
+  IQR: 0.0000 to 0.0000
+  Typical range: 0.0000 to 0.0000
+
+pivot_low_strength:
+  Mean: 0.0000
+  Median: 0.0000
+  Range: 0.0000 to 0.0000
+  IQR: 0.0000 to 0.0000
+  Typical range: 0.0000 to 0.0000
+
+stop_loss:
+  Mean: 424.8920
+  Median: 402.4077
+  Range: 340.7309 to 573.7791
+  IQR: 377.0719 to 460.0564
+  Typical range: 362.4502 to 487.3338
+
+target_1r:
+  Mean: 451.1842
+  Median: 435.6494
+  Range: 373.6291 to 597.7209
+  IQR: 408.6592 to 465.5100
+  Typical range: 392.0369 to 510.3315
+
+target_2r:
+  Mean: 464.3303
+  Median: 451.2556
+  Range: 390.0781 to 609.6918
+  IQR: 421.4384 to 474.8922
+  Typical range: 406.3758 to 522.2847
+
+signal_confidence:
+  Mean: 0.2670
+  Median: 0.3000
+  Range: 0.0000 to 0.7000
+  IQR: 0.1500 to 0.3500
+  Typical range: 0.1020 to 0.4319
+
+Pattern Analysis Metrics:
+  avg_confidence: 0.2670
+  avg_risk_reward: 2.0000
+  avg_win_rate: 0.0377
+
+SELL Patterns:
+------------------------------
+
+open:
+  Mean: 461.9331
+  Median: 440.4700
+  Range: 373.3900 to 607.4400
+  IQR: 408.7850 to 516.6500
+  Typical range: 393.6369 to 530.2294
+
+high:
+  Mean: 463.7066
+  Median: 443.9000
+  Range: 375.4500 to 609.0700
+  IQR: 411.1100 to 517.4300
+  Typical range: 395.7842 to 531.6290
+
+low:
+  Mean: 457.8000
+  Median: 436.2300
+  Range: 367.5200 to 607.0200
+  IQR: 406.2850 to 514.5800
+  Typical range: 388.8484 to 526.7516
+
+close:
+  Mean: 460.1726
+  Median: 437.0600
+  Range: 371.1300 to 607.8100
+  IQR: 407.8300 to 516.1300
+  Typical range: 391.4510 to 528.8941
+
+volume:
+  Mean: 78853116.1860
+  Median: 76428732.0000
+  Range: 31241549.0000 to 172929106.0000
+  IQR: 61466696.5000 to 96728868.0000
+  Typical range: 50930631.4650 to 106775600.9071
+
+price_change:
+  Mean: -0.0011
+  Median: 0.0001
+  Range: -0.0355 to 0.0146
+  IQR: -0.0035 to 0.0049
+  Typical range: -0.0113 to 0.0092
+
+high_low_range:
+  Mean: 0.0135
+  Median: 0.0114
+  Range: 0.0027 to 0.0380
+  IQR: 0.0077 to 0.0181
+  Typical range: 0.0053 to 0.0218
+
+ema_5:
+  Mean: 446.8954
+  Median: 434.8877
+  Range: 0.0000 to 605.7154
+  IQR: 401.6386 to 512.3878
+  Typical range: 349.0779 to 544.7130
+
+ema_8:
+  Mean: 445.6388
+  Median: 433.9223
+  Range: 0.0000 to 603.8488
+  IQR: 400.7324 to 511.2895
+  Typical range: 348.1425 to 543.1351
+
+ema_13:
+  Mean: 433.4882
+  Median: 430.3431
+  Range: 0.0000 to 601.0483
+  IQR: 398.0755 to 510.6094
+  Typical range: 315.3666 to 551.6099
+
+ema_21:
+  Mean: 432.4243
+  Median: 428.8847
+  Range: 0.0000 to 597.2651
+  IQR: 395.1970 to 509.7376
+  Typical range: 315.1557 to 549.6929
+
+ema_34:
+  Mean: 410.2192
+  Median: 410.5185
+  Range: 0.0000 to 592.0807
+  IQR: 390.7533 to 507.2058
+  Typical range: 262.4398 to 557.9986
+
+ema_55:
+  Mean: 398.3780
+  Median: 405.1322
+  Range: 0.0000 to 584.9393
+  IQR: 391.0790 to 499.4433
+  Typical range: 239.7112 to 557.0448
+
+macd:
+  Mean: 1.8595
+  Median: 2.6076
+  Range: -8.6508 to 9.3228
+  IQR: -0.4825 to 5.5580
+  Typical range: -2.7417 to 6.4607
+
+macd_signal:
+  Mean: 1.1987
+  Median: 1.8175
+  Range: -9.2481 to 7.4590
+  IQR: -0.8438 to 5.0078
+  Typical range: -3.1925 to 5.5899
+
+macd_diff:
+  Mean: 0.7690
+  Median: 0.6723
+  Range: -1.7513 to 3.7954
+  IQR: 0.0000 to 1.5255
+  Typical range: -0.4366 to 1.9747
+
+rsi:
+  Mean: 55.9832
+  Median: 58.7049
+  Range: 0.0000 to 76.9643
+  IQR: 50.6414 to 64.6819
+  Typical range: 40.1358 to 71.8305
+
+stoch_k:
+  Mean: 72.2587
+  Median: 86.1164
+  Range: 0.0000 to 98.8764
+  IQR: 61.6653 to 92.1016
+  Typical range: 43.3161 to 101.2013
+
+stoch_d:
+  Mean: 72.5149
+  Median: 86.7265
+  Range: 0.0000 to 99.3701
+  IQR: 53.6055 to 92.2267
+  Typical range: 45.9506 to 99.0792
+
+williams_r:
+  Mean: -23.0901
+  Median: -12.3675
+  Range: -92.4495 to 0.0000
+  IQR: -33.2824 to -6.4244
+  Typical range: -47.6571 to 1.4769
+
+volume_change:
+  Mean: 0.1051
+  Median: 0.0963
+  Range: -0.4715 to 0.6997
+  IQR: -0.0992 to 0.2484
+  Typical range: -0.1623 to 0.3724
+
+vwap:
+  Mean: 431.7017
+  Median: 428.2180
+  Range: 0.0000 to 597.6067
+  IQR: 399.3030 to 509.6183
+  Typical range: 313.9895 to 549.4140
+
+obv:
+  Mean: -2125021836.5116
+  Median: -2126285763.0000
+  Range: -3624788596.0000 to 1489555.0000
+  IQR: -3147499147.5000 to -1284187683.5000
+  Typical range: -3141945930.5143 to -1108097742.5090
+
+cmf:
+  Mean: 0.0921
+  Median: 0.0870
+  Range: -0.2457 to 0.3423
+  IQR: -0.0055 to 0.2124
+  Typical range: -0.0492 to 0.2334
+
+bb_high:
+  Mean: 447.5190
+  Median: 441.3582
+  Range: 0.0000 to 610.2941
+  IQR: 414.3852 to 522.9030
+  Typical range: 327.4556 to 567.5825
+
+bb_low:
+  Mean: 415.9467
+  Median: 408.1628
+  Range: 0.0000 to 585.4559
+  IQR: 377.0406 to 498.6140
+  Typical range: 301.0491 to 530.8443
+
+bb_mid:
+  Mean: 431.7329
+  Median: 430.4290
+  Range: 0.0000 to 597.8750
+  IQR: 395.4583 to 510.7585
+  Typical range: 314.4840 to 548.9817
+
+bb_width:
+  Mean: 0.0716
+  Median: 0.0652
+  Range: 0.0000 to 0.1798
+  IQR: 0.0457 to 0.1018
+  Typical range: 0.0335 to 0.1096
+
+atr:
+  Mean: 6.2104
+  Median: 6.2667
+  Range: 0.0000 to 10.1636
+  IQR: 4.6575 to 7.9775
+  Typical range: 3.9499 to 8.4710
+
+cci:
+  Mean: 80.3066
+  Median: 99.8284
+  Range: -91.5331 to 204.7729
+  IQR: 5.5364 to 142.2299
+  Typical range: -0.2843 to 160.8975
+
+high_1d_change:
+  Mean: 0.0040
+  Median: 0.0028
+  Range: -0.0108 to 0.0289
+  IQR: 0.0012 to 0.0055
+  Typical range: -0.0026 to 0.0107
+
+low_1d_change:
+  Mean: 0.0033
+  Median: 0.0037
+  Range: -0.0179 to 0.0287
+  IQR: -0.0018 to 0.0064
+  Typical range: -0.0077 to 0.0143
+
+high_2d_change:
+  Mean: 0.0093
+  Median: 0.0059
+  Range: -0.0052 to 0.0324
+  IQR: 0.0023 to 0.0139
+  Typical range: -0.0001 to 0.0188
+
+low_2d_change:
+  Mean: 0.0094
+  Median: 0.0066
+  Range: -0.0153 to 0.0364
+  IQR: 0.0029 to 0.0158
+  Typical range: -0.0023 to 0.0211
+
+high_3d_change:
+  Mean: 0.0147
+  Median: 0.0139
+  Range: -0.0001 to 0.0378
+  IQR: 0.0059 to 0.0217
+  Typical range: 0.0040 to 0.0255
+
+low_3d_change:
+  Mean: 0.0154
+  Median: 0.0117
+  Range: -0.0061 to 0.0590
+  IQR: 0.0066 to 0.0195
+  Typical range: 0.0009 to 0.0298
+
+high_5d_change:
+  Mean: 0.0172
+  Median: 0.0148
+  Range: -0.0243 to 0.0483
+  IQR: 0.0083 to 0.0271
+  Typical range: 0.0016 to 0.0328
+
+low_5d_change:
+  Mean: 0.0181
+  Median: 0.0180
+  Range: -0.0241 to 0.0564
+  IQR: 0.0051 to 0.0287
+  Typical range: -0.0000 to 0.0362
+
+trend_strength:
+  Mean: 0.4754
+  Median: 0.4660
+  Range: 0.0086 to 0.8990
+  IQR: 0.3422 to 0.6352
+  Typical range: 0.2567 to 0.6941
+
+volatility:
+  Mean: 0.0104
+  Median: 0.0099
+  Range: 0.0000 to 0.0191
+  IQR: 0.0071 to 0.0139
+  Typical range: 0.0056 to 0.0153
+
+adx:
+  Mean: 23.2386
+  Median: 23.2185
+  Range: 0.0000 to 48.7994
+  IQR: 18.1374 to 26.5135
+  Typical range: 12.7795 to 33.6977
+
+pivot_high:
+  Mean: 392.6176
+  Median: 431.7300
+  Range: 0.0000 to 609.0700
+  IQR: 391.9000 to 517.4300
+  Typical range: 205.4693 to 579.7660
+
+pivot_low:
+  Mean: 0.0000
+  Median: 0.0000
+  Range: 0.0000 to 0.0000
+  IQR: 0.0000 to 0.0000
+  Typical range: 0.0000 to 0.0000
+
+last_pivot_high:
+  Mean: 467.0387
+  Median: 443.9000
+  Range: 375.4500 to 609.0700
+  IQR: 411.1100 to 524.3600
+  Typical range: 395.8294 to 538.2480
+
+last_pivot_low:
+  Mean: 440.9526
+  Median: 425.8200
+  Range: 348.1100 to 583.8600
+  IQR: 391.9850 to 502.8060
+  Typical range: 372.2319 to 509.6734
+
+distance_to_pivot_high:
+  Mean: 0.0152
+  Median: 0.0055
+  Range: 0.0005 to 0.2754
+  IQR: 0.0029 to 0.0141
+  Typical range: -0.0264 to 0.0568
+
+distance_to_pivot_low:
+  Mean: 0.0417
+  Median: 0.0346
+  Range: 0.0039 to 0.2711
+  IQR: 0.0192 to 0.0539
+  Typical range: -0.0002 to 0.0836
+
+pivot_range:
+  Mean: 26.0861
+  Median: 18.6700
+  Range: 6.2100 to 260.9600
+  IQR: 13.5500 to 26.0300
+  Typical range: -11.8764 to 64.0485
+
+pivot_range_pct:
+  Mean: 0.0569
+  Median: 0.0410
+  Range: 0.0119 to 0.5465
+  IQR: 0.0296 to 0.0595
+  Typical range: -0.0224 to 0.1362
+
+pivot_position:
+  Mean: 0.7710
+  Median: 0.8496
+  Range: 0.1353 to 0.9888
+  IQR: 0.6788 to 0.9294
+  Typical range: 0.5488 to 0.9932
+
+pivot_high_strength:
+  Mean: 0.0000
+  Median: 0.0000
+  Range: 0.0000 to 0.0000
+  IQR: 0.0000 to 0.0000
+  Typical range: 0.0000 to 0.0000
+
+pivot_low_strength:
+  Mean: 0.0000
+  Median: 0.0000
+  Range: 0.0000 to 0.0000
+  IQR: 0.0000 to 0.0000
+  Typical range: 0.0000 to 0.0000
+
+stop_loss:
+  Mean: 472.5935
+  Median: 454.4335
+  Range: 389.7421 to 616.8941
+  IQR: 420.4672 to 526.5854
+  Typical range: 405.2508 to 539.9361
+
+target_1r:
+  Mean: 447.7517
+  Median: 425.2841
+  Range: 352.5179 to 598.7259
+  IQR: 393.5383 to 505.4035
+  Typical range: 377.3874 to 518.1160
+
+target_2r:
+  Mean: 435.3308
+  Median: 414.5483
+  Range: 333.9058 to 589.6419
+  IQR: 377.6858 to 494.6770
+  Typical range: 363.0777 to 507.5838
+
+signal_confidence:
+  Mean: 0.3616
+  Median: 0.3500
+  Range: 0.0000 to 0.7000
+  IQR: 0.2500 to 0.5000
+  Typical range: 0.1647 to 0.5586
+
+Pattern Analysis Metrics:
+  avg_confidence: 0.3616
+  avg_risk_reward: 2.0000
+  avg_win_rate: 0.1163
+
+Cross-Validation Results:
+------------------------------
+loss: 0.6635
+compile_metrics: 0.8496
+
+Top Feature Importance:
+------------------------------
+1. high_low_range (t-7): 0.0090
+2. distance_to_pivot_high (t-9): 0.0086
+3. stoch_k (t-9): 0.0082
+4. volume_change (t-6): 0.0079
+5. pivot_position (t-9): 0.0076
+6. trend_strength (t-1): 0.0074
+7. price_change (t-9): 0.0070
+8. distance_to_pivot_low (t-9): 0.0064
+9. high_low_range (t-6): 0.0056
+10. trend_strength (t-7): 0.0055
+11. pivot_range (t-9): 0.0052
+12. high_1d_change (t-3): 0.0050
+13. high_2d_change (t-4): 0.0050
+14. cci (t-9): 0.0049
+15. low_1d_change (t-9): 0.0048
+16. signal_confidence (t-0): 0.0047
+17. trend_strength (t-8): 0.0047
+18. volume_change (t-3): 0.0047
+19. high_2d_change (t-9): 0.0047
+20. low_1d_change (t-8): 0.0047

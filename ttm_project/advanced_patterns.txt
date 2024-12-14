@@ -1,0 +1,248 @@
+Advanced Pattern Analysis
+
+
+BUY Patterns:
+
+open:
+  Mean: 436.6609
+  Range: 349.2050 to 589.7200
+  Typical range: 374.9079 to 498.4140
+
+high:
+  Mean: 440.8784
+  Range: 365.9100 to 590.2000
+  Typical range: 380.1889 to 501.5680
+
+low:
+  Mean: 433.0405
+  Range: 348.1100 to 583.8600
+  Typical range: 371.5973 to 494.4836
+
+close:
+  Mean: 438.0381
+  Range: 357.1800 to 585.7500
+  Typical range: 377.3875 to 498.6887
+
+volume:
+  Mean: 97170562.7170
+  Range: 38097798.0000 to 252496719.0000
+  Typical range: 56489143.8300 to 137851981.6040
+
+high_low_range:
+  Mean: 0.0187
+  Range: 0.0051 to 0.0557
+  Typical range: 0.0075 to 0.0300
+
+ema_5:
+  Mean: 439.9528
+  Range: 362.6987 to 591.5823
+  Typical range: 379.1611 to 500.7445
+
+ema_8:
+  Mean: 432.0830
+  Range: 0.0000 to 590.8992
+  Typical range: 346.5718 to 517.5942
+
+ema_13:
+  Mean: 432.9310
+  Range: 0.0000 to 588.7433
+  Typical range: 347.7546 to 518.1074
+
+ema_21:
+  Mean: 424.8037
+  Range: 0.0000 to 585.6376
+  Typical range: 321.5758 to 528.0316
+
+rsi:
+  Mean: 46.0325
+  Range: 0.0000 to 71.5733
+  Typical range: 32.0308 to 60.0341
+
+bb_high:
+  Mean: 441.3558
+  Range: 0.0000 to 603.4353
+  Typical range: 335.3805 to 547.3310
+
+bb_low:
+  Mean: 409.2979
+  Range: 0.0000 to 569.4040
+  Typical range: 307.5435 to 511.0522
+
+bb_mid:
+  Mean: 425.3268
+  Range: 0.0000 to 584.4405
+  Typical range: 321.6926 to 528.9610
+
+vwap:
+  Mean: 433.1612
+  Range: 0.0000 to 586.0892
+  Typical range: 347.7018 to 518.6206
+
+low_3d_change:
+  Mean: -0.0172
+  Range: -0.0680 to 0.0214
+  Typical range: -0.0343 to -0.0001
+
+trend_strength:
+  Mean: 0.4654
+  Range: 0.0158 to 0.9536
+  Typical range: 0.2170 to 0.7137
+
+pivot_low:
+  Mean: 337.4564
+  Range: 0.0000 to 583.8600
+  Typical range: 144.2944 to 530.6183
+
+last_pivot_high:
+  Mean: 452.5908
+  Range: 372.3000 to 609.0700
+  Typical range: 387.9993 to 517.1824
+
+last_pivot_low:
+  Mean: 431.9885
+  Range: 348.1100 to 583.8600
+  Typical range: 370.6794 to 493.2976
+
+distance_to_pivot_low:
+  Mean: 0.0142
+  Range: 0.0004 to 0.0488
+  Typical range: 0.0017 to 0.0267
+
+pivot_range_pct:
+  Mean: 0.0477
+  Range: 0.0067 to 0.3275
+  Typical range: 0.0015 to 0.0939
+
+pivot_position:
+  Mean: 0.3651
+  Range: 0.0092 to 1.1919
+  Typical range: 0.0506 to 0.6795
+
+Pivot Point Analysis:
+  avg_position: 0.3651
+  avg_range_pct: 0.0477
+  avg_distance_to_high: 0.0335
+  avg_distance_to_low: 0.0142
+
+SELL Patterns:
+
+open:
+  Mean: 461.9331
+  Range: 373.3900 to 607.4400
+  Typical range: 393.6369 to 530.2294
+
+high:
+  Mean: 463.7066
+  Range: 375.4500 to 609.0700
+  Typical range: 395.7842 to 531.6290
+
+low:
+  Mean: 457.8000
+  Range: 367.5200 to 607.0200
+  Typical range: 388.8484 to 526.7516
+
+close:
+  Mean: 460.1726
+  Range: 371.1300 to 607.8100
+  Typical range: 391.4510 to 528.8941
+
+volume:
+  Mean: 78853116.1860
+  Range: 31241549.0000 to 172929106.0000
+  Typical range: 50930631.4650 to 106775600.9071
+
+high_low_range:
+  Mean: 0.0135
+  Range: 0.0027 to 0.0380
+  Typical range: 0.0053 to 0.0218
+
+ema_5:
+  Mean: 446.8954
+  Range: 0.0000 to 605.7154
+  Typical range: 349.0779 to 544.7130
+
+ema_8:
+  Mean: 445.6388
+  Range: 0.0000 to 603.8488
+  Typical range: 348.1425 to 543.1351
+
+ema_13:
+  Mean: 433.4882
+  Range: 0.0000 to 601.0483
+  Typical range: 315.3666 to 551.6099
+
+ema_21:
+  Mean: 432.4243
+  Range: 0.0000 to 597.2651
+  Typical range: 315.1557 to 549.6929
+
+rsi:
+  Mean: 55.9832
+  Range: 0.0000 to 76.9643
+  Typical range: 40.1358 to 71.8305
+
+bb_high:
+  Mean: 447.5190
+  Range: 0.0000 to 610.2941
+  Typical range: 327.4556 to 567.5825
+
+bb_low:
+  Mean: 415.9467
+  Range: 0.0000 to 585.4559
+  Typical range: 301.0491 to 530.8443
+
+bb_mid:
+  Mean: 431.7329
+  Range: 0.0000 to 597.8750
+  Typical range: 314.4840 to 548.9817
+
+vwap:
+  Mean: 431.7017
+  Range: 0.0000 to 597.6067
+  Typical range: 313.9895 to 549.4140
+
+high_3d_change:
+  Mean: 0.0147
+  Range: -0.0001 to 0.0378
+  Typical range: 0.0040 to 0.0255
+
+low_3d_change:
+  Mean: 0.0154
+  Range: -0.0061 to 0.0590
+  Typical range: 0.0009 to 0.0298
+
+trend_strength:
+  Mean: 0.4754
+  Range: 0.0086 to 0.8990
+  Typical range: 0.2567 to 0.6941
+
+pivot_high:
+  Mean: 392.6176
+  Range: 0.0000 to 609.0700
+  Typical range: 205.4693 to 579.7660
+
+last_pivot_high:
+  Mean: 467.0387
+  Range: 375.4500 to 609.0700
+  Typical range: 395.8294 to 538.2480
+
+last_pivot_low:
+  Mean: 440.9526
+  Range: 348.1100 to 583.8600
+  Typical range: 372.2319 to 509.6734
+
+pivot_position:
+  Mean: 0.7710
+  Range: 0.1353 to 0.9888
+  Typical range: 0.5488 to 0.9932
+
+Pivot Point Analysis:
+  avg_position: 0.7710
+  avg_range_pct: 0.0569
+  avg_distance_to_high: 0.0152
+  avg_distance_to_low: 0.0417
+
+Sequence Patterns:
+- Analysis based on last 10 price bars
+- Considers technical indicators and their relationships
+- Uses LSTM for complex pattern detection
