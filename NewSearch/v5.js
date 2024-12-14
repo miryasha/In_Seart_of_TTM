@@ -133,3 +133,6 @@ function criteriaCheck(backTestFrom, indicators, priceDataObj, priceDateArry, mi
 
     return tradeSignals;
 }
+
+
+// const results = criteriaCheck(backTestFrom, indicators, priceDataObj, priceDateArry, 0.0); // minSwing of 1.0
