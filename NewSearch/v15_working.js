@@ -323,3 +323,169 @@ module.exports = TTMScalper;
 // });
 
 // module.exports = router;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const findHighLows = require('./findHighLowsFunc');
+// const getIndicators = require("../api/TTMSclpterIndicatior");
+// const loggerHelper = require('../../utilities/loggerHelper');
+// const processSignals = require('../scanners/processSignals');
+// const TTMScalper = require('./ttmSclapter/TTMScalper')
+
+// class TTMSclapterMacdStrategy {
+//     static async analyze(
+//         ticker,
+//         marketName,
+//         backTestFrom,
+//         standardDivationFrom,
+//         threshold,
+//         timeFrame,
+//         pricesInfo,
+//         triggerStatus,
+//         tradeDuration
+//     ) {
+//         try {
+//             // Get required indicators for this strategy
+//             const indicators = await getIndicators(ticker, timeFrame);
+
+//             const signalInfo = await this.criteriaCheck(
+//                 ticker,
+//                 backTestFrom,
+//                 standardDivationFrom,
+//                 indicators,
+//                 pricesInfo.priceDataObj,
+//                 pricesInfo.priceDateArry
+//             );
+
+//             if (!signalInfo) {
+//                 loggerHelper(
+//                     "macdOnFirst-strategy",
+//                     `No signals generated for ${ticker}`
+//                 );
+//                 return;
+//             }
+
+//             // Process signals
+//             await processSignals(
+//                 signalInfo.tradeInfoBull,
+//                 "bull",
+//                 "ttmMacd",
+//                 marketName,
+//                 timeFrame,
+//                 standardDivationFrom,
+//                 threshold,
+//                 triggerStatus,
+//                 backTestFrom,
+//                 pricesInfo.priceDataObj,
+//                 pricesInfo.priceDateArry,
+//                 tradeDuration
+//             );
+
+//             await processSignals(
+//                 signalInfo.tradeInfoBear,
+//                 "bear",
+//                 "ttmMacd",
+//                 marketName,
+//                 timeFrame,
+//                 standardDivationFrom,
+//                 threshold,
+//                 triggerStatus,
+//                 backTestFrom,
+//                 pricesInfo.priceDataObj,
+//                 pricesInfo.priceDateArry,
+//                 tradeDuration
+//             );
+//         } catch (err) {
+//             loggerHelper('MacdOnFirst-analysis', err);
+//             throw err;
+//         }
+//     }
+
+//     static async criteriaCheck(
+//         ticker,
+//         backTestFrom,
+//         standardDivationFrom,
+//         indicators,
+//         priceDataObj,
+//         priceDateArry
+//     ) {
+//         try {
+//             const tradeInfoBull = [];
+//             const tradeInfoBear = [];
+//             const ttmScalper = new TTMScalper();
+
+//             // Create candles array from newest to oldest (reverse chronological)
+//             const candles = [];
+//             for (let i = priceDateArry.length - 1; i >= 0; i--) {
+//                 const date = priceDateArry[i];
+//                 candles.push({
+//                     date: date,
+//                     open: parseFloat(priceDataObj[date]["1. open"]),
+//                     high: parseFloat(priceDataObj[date]["2. high"]),
+//                     low: parseFloat(priceDataObj[date]["3. low"]),
+//                     close: parseFloat(priceDataObj[date]["4. close"]),
+//                     volume: parseFloat(priceDataObj[date]["5. volume"])
+//                 });
+//             }
+
+//             // Get all signals using the original analyze method
+//             const allSignals = ttmScalper.analyze(candles);
+
+//             // Process only signals within our backtest range
+//             for (const signal of allSignals) {
+//                 // Convert signal index to match our date array index
+//                 const dateIndex = candles.length - 1 - signal.index;
+                
+//                 // Only process signals within our backtest range
+//                 if (dateIndex <= parseInt(backTestFrom)) {
+//                     const signalInfo = {
+//                         date: priceDateArry[dateIndex],
+//                         price: signal.price,
+//                         ticker: ticker,
+//                         type: signal.type,
+//                         trend: signal.trend,
+//                         indicators: {
+//                             ttmScalper: signal.type
+//                         }
+//                     };
+
+//                     if (signal.type === 'BUY') {
+//                        console.log('BUY')
+//                       // console.log(signalInfo)
+//                         tradeInfoBull.push(signalInfo);
+//                     } else if (signal.type === 'SELL') {
+//                        console.log('SELL')
+//                       // console.log(signalInfo)
+//                         tradeInfoBear.push(signalInfo);
+//                     }
+//                 }
+//             }
+
+//             // Return signals if we have any
+//             if (tradeInfoBull.length > 0 || tradeInfoBear.length > 0) {
+//                 return { tradeInfoBull, tradeInfoBear };
+//             }
+
+//             return null;
+
+//         } catch (err) {
+//             loggerHelper('TTMSclapterMacdStrategy', err);
+//             console.log(err);
+//             throw err;
+//         }
+//     }
+// }
+
+// module.exports = TTMSclapterMacdStrategy;

@@ -18,3 +18,20 @@ create ttm scalper alert thinkorswim using api
 https://www.npmjs.com/package/tda-api-client
 
 https://usethinkscript.com/threads/ttm_scalperalert-for-thinkorswim.914/page-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
