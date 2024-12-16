@@ -1,0 +1,164 @@
+=== Basic Statistics ===
+            npa_id          C_1          C_2          C_3          C_4          C_5          C_W  C_sum_positive  C_sum_negetive  C_sum_ground   C_multiply     next_C_W
+count  1267.000000  1267.000000  1267.000000  1267.000000  1267.000000  1267.000000  1267.000000     1267.000000     1267.000000   1267.000000  1267.000000  1267.000000
+mean    634.000000     0.070245     0.047356     0.080505     0.073402     0.043410     0.088398        2.568272       -2.253354      0.314917     4.666140     0.086819
+std     365.895705     0.942564     0.990140     0.989594     0.981734     0.996286     0.996082        1.098198        1.093451      2.155369     1.706733     0.996221
+min       1.000000    -1.000000    -1.000000    -1.000000    -1.000000    -1.000000    -1.000000        0.000000       -5.000000     -5.000000     0.000000    -1.000000
+25%     317.500000    -1.000000    -1.000000    -1.000000    -1.000000    -1.000000    -1.000000        2.000000       -3.000000     -1.000000     4.000000    -1.000000
+50%     634.000000     0.000000     1.000000     1.000000     1.000000     1.000000     1.000000        3.000000       -2.000000      1.000000     6.000000     1.000000
+75%     950.500000     1.000000     1.000000     1.000000     1.000000     1.000000     1.000000        3.000000       -2.000000      1.000000     6.000000     1.000000
+max    1267.000000     1.000000     1.000000     1.000000     1.000000     1.000000     1.000000        5.000000        0.000000      5.000000     6.000000     1.000000
+
+=== Correlation Analysis ===
+
+Correlation with next_C_W:
+next_C_W          1.000000
+C_1               0.047337
+C_4               0.033053
+C_5               0.004158
+C_sum_negetive   -0.010247
+C_sum_ground     -0.013111
+C_sum_positive   -0.015530
+C_W              -0.021272
+C_3              -0.049560
+C_multiply       -0.050301
+C_2              -0.061027
+
+=== Model Performance ===
+
+Accuracy: 0.5354330708661418
+
+Classification Report:
+              precision    recall  f1-score   support
+
+          -1       0.53      0.36      0.43       123
+           1       0.54      0.70      0.61       131
+
+    accuracy                           0.54       254
+   macro avg       0.53      0.53      0.52       254
+weighted avg       0.53      0.54      0.52       254
+
+=== Feature Importance ===
+          feature  importance
+5             C_W    0.183615
+3             C_4    0.119764
+0             C_1    0.109853
+8    C_sum_ground    0.100408
+2             C_3    0.097943
+1             C_2    0.086423
+4             C_5    0.079183
+9      C_multiply    0.077298
+6  C_sum_positive    0.074829
+7  C_sum_negetive    0.070684
+
+=== Pattern Analysis ===
+
+Prediction success rate based on previous C_W:
+
+When C_W is 1:
+next_C_W
+ 1    0.532656
+-1    0.465893
+ 0    0.001451
+
+When C_W is -1:
+next_C_W
+ 1    0.554593
+-1    0.445407
+
+When C_W is 0:
+next_C_W
+1    1.0
+
+Next C_W distribution based on C_sum_ground:
+
+When C_sum_ground is -5:
+next_C_W
+ 1    0.727273
+-1    0.272727
+
+When C_sum_ground is 3:
+next_C_W
+-1    0.502591
+ 1    0.497409
+
+When C_sum_ground is 0:
+next_C_W
+ 1    0.588235
+-1    0.411765
+
+When C_sum_ground is -1:
+next_C_W
+ 1    0.523077
+-1    0.476923
+
+When C_sum_ground is 1:
+next_C_W
+ 1    0.537791
+-1    0.462209
+
+When C_sum_ground is -3:
+next_C_W
+ 1    0.559055
+-1    0.440945
+
+When C_sum_ground is -2:
+next_C_W
+ 1    0.55
+-1    0.45
+
+When C_sum_ground is 2:
+next_C_W
+ 1    0.564516
+-1    0.419355
+ 0    0.016129
+
+When C_sum_ground is 5:
+next_C_W
+ 1    0.681818
+-1    0.318182
+
+When C_sum_ground is -4:
+next_C_W
+ 1    0.555556
+-1    0.444444
+
+When C_sum_ground is 4:
+next_C_W
+ 1    0.5
+-1    0.5
+
+=== Model Parameters for Prediction ===
+Feature order for prediction input:
+- C_1
+- C_2
+- C_3
+- C_4
+- C_5
+- C_W
+- C_sum_positive
+- C_sum_negetive
+- C_sum_ground
+- C_multiply
+
+Prediction Guidelines:
+1. Most influential features (top 3):
+   - C_W: 0.1836
+   - C_4: 0.1198
+   - C_1: 0.1099
+
+2. Strong correlations with next_C_W (|correlation| > 0.1):
+
+Example Predictions:
+
+All Positive:
+Predicted next_C_W: 1
+Probabilities: {0: np.float64(0.2843983281395992), 1: np.float64(0.0), 2: np.float64(0.7156016718604005)}
+
+All Negative:
+Predicted next_C_W: 1
+Probabilities: {0: np.float64(0.2036836004758167), 1: np.float64(0.0), 2: np.float64(0.7963163995241829)}
+
+Mixed Case:
+Predicted next_C_W: 1
+Probabilities: {0: np.float64(0.38688414825353795), 1: np.float64(0.0), 2: np.float64(0.6131158517464622)}

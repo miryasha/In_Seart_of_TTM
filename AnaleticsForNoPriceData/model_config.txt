@@ -1,0 +1,41 @@
+Feature Columns:
+C_1
+C_2
+C_3
+C_4
+C_5
+C_W
+C_sum_positive
+C_sum_negetive
+C_sum_ground
+C_multiply
+weekly_trend
+momentum
+day_changes
+reversal_pattern
+direction_consistency
+prev_C_W
+prev_2_C_W
+
+Model Performance:
+Test Accuracy: 0.4918
+
+Feature Importance:
+                  feature  importance
+16             prev_2_C_W    0.141208
+15               prev_C_W    0.107534
+3                     C_4    0.086749
+11               momentum    0.083697
+0                     C_1    0.078012
+2                     C_3    0.069570
+4                     C_5    0.064504
+1                     C_2    0.062983
+5                     C_W    0.050520
+8            C_sum_ground    0.049387
+7          C_sum_negetive    0.039015
+6          C_sum_positive    0.034280
+9              C_multiply    0.033860
+13       reversal_pattern    0.028574
+14  direction_consistency    0.024897
+10           weekly_trend    0.022657
+12            day_changes    0.022552
